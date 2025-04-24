@@ -1,0 +1,10 @@
+{
+  "lock": false,
+  "tasks": {
+    "start": "deno -A --env main.ts"
+  },
+  "imports": {
+    "@google/genai": "npm:@google/genai@^0.10.0",
+    "@std/collections": "jsr:@std/collections@^1.0.11"
+  }
+}
