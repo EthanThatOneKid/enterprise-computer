@@ -1,0 +1,106 @@
+[
+  {
+    "query": "As we increased our power levels, was there any counter-reaction?",
+    "response": "Affirmative. The opposing force grew in direct proportion to the power output of the Enterprise."
+  },
+  {
+    "query": "So it kept us from forming a subspace field for the warp drive?",
+    "response": "That is correct."
+  },
+  {
+    "query": "Computer, who is this L. Brahms?",
+    "response": "Doctor Leah Brahms, engineer. Graduate of the Daystrom Institute Theoretical Propulsion Group. Galaxy class starships, team seven, junior member."
+  },
+  {
+    "query": "Call up subspace design logs.",
+    "response": "Select menu. Visual records or L. Brahms' voice entries."
+  },
+  {
+    "query": "Specify programme.",
+    "response": "Acknowledged."
+  },
+  {
+    "query": "Computer, is there a cross section image we can replicate on a holodeck?",
+    "response": "Select menu. Design specifications or prototype schematic."
+  },
+  {
+    "query": "Prototype? Elaborate.",
+    "response": "A development stage prototype schematic at Utopia Planitia. Drafting room five of the Mars Station, Stardate 40174."
+  },
+  {
+    "query": "Perfect. Recreate it in holodeck three. Stay with me, Doc.",
+    "response": "Acknowledged."
+  },
+  {
+    "query": "Ready, computer?",
+    "response": "Holodeck three programme is ready."
+  },
+  {
+    "query": "Access denied. Personal logs are restricted.",
+    "response": "Acknowledged."
+  },
+  {
+    "query": "Computer, did I ask for a simulation?",
+    "response": "Affirmative. You asked Doctor Brahms to show you which system could accept reactants at a faster rate. By accessing available imagery, an adequate facsimile was possible."
+  },
+  {
+    "query": "Computer, generate a cross section image of the dilithium crystal chamber. What about re-orienting the crystal?",
+    "response": "Acknowledged."
+  },
+  {
+    "query": "Adjustments to dilithium crystal chamber complete.",
+    "response": "Acknowledged."
+  },
+  {
+    "query": "Impact analysis, computer.",
+    "response": "Warp energy has increased fourteen percent. Reactants per unit time remaining steady."
+  },
+  {
+    "query": "Computer, do you have any, you know, personality on file for Doctor Brahms?",
+    "response": "Starfleet personality profile analysis, stardate 40056."
+  },
+  {
+    "query": "Did she ever debate at the intergalactic caucuses on Chaya Seven?",
+    "response": "Doctor Brahms attended Chaya Seven caucuses on the following stardates"
+  },
+  {
+    "query": "Computer, if you add data from all these sources, could you synthesise a true representation of Doctor Brahms?",
+    "response": "There would be a nine point three seven percent margin of error in the interactive responses from the facsimile."
+  },
+  {
+    "query": "End simulation. Fatal exposure.",
+    "response": "Acknowledged."
+  },
+  {
+    "query": "Computer, reduce thrust levels another four percent. Adjust trajectory angle to compensate. Begin simulation again.",
+    "response": "Acknowledged."
+  },
+  {
+    "query": "End simulation. Fatal exposure.",
+    "response": "Acknowledged."
+  },
+  {
+    "query": "Deflector shield failure. Lethal radiation levels. Fatal exposure in twenty six minutes.",
+    "response": "Acknowledged."
+  },
+  {
+    "query": "Computer, override standard procedure.",
+    "response": "Override authority restricted."
+  },
+  {
+    "query": "Computer!",
+    "response": "Acknowledged."
+  },
+  {
+    "query": "Computer, reinstate holodeck three programme.",
+    "response": "Holodeck three programme is reinstated."
+  },
+  {
+    "query": "Computer, resume holodeck three programme.",
+    "response": "Enter when ready."
+  },
+  {
+    "query": "Computer, exit holodeck. End programme.",
+    "response": "Acknowledged."
+  }
+]

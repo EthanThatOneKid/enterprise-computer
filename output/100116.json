@@ -1,0 +1,98 @@
+[
+  {
+    "query": "Computer. There's a power reduction in section L-Ninety Four. Explain.",
+    "response": "Unoccupied sections are being closed down in order to clear space in the main computer banks. It is necessary to facilitate the system upgrade. Full power can be restored if needed."
+  },
+  {
+    "query": "Computer, I'd like some place to play some music. A little atmosphere.",
+    "response": "Specify."
+  },
+  {
+    "query": "Jazz.",
+    "response": "Era?"
+  },
+  {
+    "query": "Circa 1958.",
+    "response": "Location."
+  },
+  {
+    "query": "Kansas City. No, wait. New Orleans. Bourbon Street Bar, New Orleans. Around two a.m.",
+    "response": "Programme complete. Enter when ready."
+  },
+  {
+    "query": "But, computer, blondes and jazz seldom go together.",
+    "response": ""
+  },
+  {
+    "query": "Computer, where are the Captain and Commander Riker?",
+    "response": "All decks empty."
+  },
+  {
+    "query": "(to computer) Picard. Access.",
+    "response": ""
+  },
+  {
+    "query": "Recognise Picard, Jean-Luc, Captain. Recognise Riker, William T, Commander.",
+    "response": ""
+  },
+  {
+    "query": "Set auto-destruct sequence.",
+    "response": "Does the First Officer concur?"
+  },
+  {
+    "query": "Yes. Set auto-destruct sequence. Now.",
+    "response": "Auto-destruct will detonate in four minutes and fifty-nine seconds."
+  },
+  {
+    "query": "Bridge access denied.",
+    "response": ""
+  },
+  {
+    "query": "Cancel auto-destruct.",
+    "response": "Does the First Officer agree?"
+  },
+  {
+    "query": "Affirmative.",
+    "response": "Auto-destruct cancelled."
+  },
+  {
+    "query": "Computer, explain Red Alert.",
+    "response": "Initiated as a programmed response. The magnetic field containing the antimatter had weakened. There was no fail-safe available."
+  },
+  {
+    "query": "Why wasn't I notified?",
+    "response": "Unknown."
+  },
+  {
+    "query": "Present condition?",
+    "response": "The magnetic field is now restored. Containment is restored. Propulsion is at maximum efficiency."
+  },
+  {
+    "query": "Locate Lieutenant Commander Data.",
+    "response": "Not on board the Enterprise."
+  },
+  {
+    "query": "Explain.",
+    "response": "All Enterprise personnel except the Captain and First Officer have been evacuated."
+  },
+  {
+    "query": "Evacuated? Was the condition that critical?",
+    "response": "Yes."
+  },
+  {
+    "query": "Are we still docked at the starbase?",
+    "response": "No."
+  },
+  {
+    "query": "Position report.",
+    "response": "Co-ordinates four one five nine point two six by eight one nine two one by three one zero three one two. Heading two three three mark four five."
+  },
+  {
+    "query": "Destination?",
+    "response": "Planet Bynaus in the Beta Magellan system."
+  },
+  {
+    "query": "Am I to understand the Bynars have stolen the Enterprise?",
+    "response": "That information is not available."
+  }
+]

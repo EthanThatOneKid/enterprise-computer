@@ -1,0 +1,14 @@
+[
+  {
+    "query": "Tea, Earl Grey, hot.",
+    "response": "That beverage has not been programmed into the replication system."
+  },
+  {
+    "query": "Computer, restore holographic image.",
+    "response": ""
+  },
+  {
+    "query": "Computer, where is Admiral Riker?",
+    "response": "Admiral Riker is in Ten Forward."
+  }
+]

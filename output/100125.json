@@ -1,0 +1,14 @@
+[
+  {
+    "query": "PICARD: Pipe it through.",
+    "response": "This is an emergency communiqu�. It is not to be discussed with fellow officers unless deemed absolutely necessary. There will be no computer record of said transmission. Proceed with voice print identification."
+  },
+  {
+    "query": "PICARD: Picard, Jean-Luc. Captain, USS Enterprise.",
+    "response": "Voice print verified."
+  },
+  {
+    "query": "DATA: Computer, this is Lieutenant Commander Data. Please access all Starfleet Command orders to starships, starbases and colonies for the past six months.",
+    "response": "Working."
+  }
+]

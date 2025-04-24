@@ -1,0 +1,18 @@
+[
+  {
+    "query": "Computer, access ship's medical logs and download current autopsy files.",
+    "response": "Autopsy files are restricted to active medical personnel only. Access denied."
+  },
+  {
+    "query": "Computer, access autopsy files.",
+    "response": "I assume you'll need the files on Doctor Reyga and Jo'Bril?"
+  },
+  {
+    "query": "Computer, begin monitoring external temperature.",
+    "response": "External temperature zero point eight million Kelvins and rising."
+  },
+  {
+    "query": "Computer, shield status?",
+    "response": "Metaphasic shield holding. All systems within normal operating parameters."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "query": "Computer, where is Alexander Rozhenko?",
+    "response": "Alexander Rozhenko is on holodeck four.",
+    "user": "WORF"
+  },
+  {
+    "query": "Computer, what programme is being run?",
+    "response": "Calisthenics programme of Lieutenant Worf. Difficulty level, Novice.",
+    "user": "WORF"
+  },
+  {
+    "query": "Computer, freeze programme.",
+    "response": "",
+    "user": "WORF"
+  },
+  {
+    "query": "Computer, identify humanoid life form in biolab four.",
+    "response": "Life form is identified as Alexander Rozhenko.",
+    "user": "PICARD"
+  }
+]

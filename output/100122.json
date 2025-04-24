@@ -1,0 +1,14 @@
+[
+  {
+    "query": "Initiate start-up sequence.",
+    "response": "Beginning check list."
+  },
+  {
+    "query": "Override. We are going directly to start-up.",
+    "response": "That procedure is not recommended."
+  },
+  {
+    "query": "Prime matter-antimatter injectors. Set ratio at twenty-five to one",
+    "response": "Ratio set."
+  }
+]

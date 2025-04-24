@@ -1,0 +1,18 @@
+[
+  {
+    "query": "Computer, download all information regarding signal beacon from Starbase mainframe.",
+    "response": "Distress beacon used by the European Hegemony."
+  },
+  {
+    "query": "Computer, locate exact dates in which this signal beacon was in general use.",
+    "response": "Old Earth calendar, 2123 until 2190."
+  },
+  {
+    "query": "No extraterrestrial source ever used this code?",
+    "response": "Negative."
+  },
+  {
+    "query": "Locate all Earth deep space launches from 2123 until 2190, with a destination in or near the Ficus sector.",
+    "response": "Working."
+  }
+]

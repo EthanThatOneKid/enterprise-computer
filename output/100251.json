@@ -1,0 +1,10 @@
+[
+  {
+    "query": "Computer activate automatic helm control.",
+    "response": "Helm control activated."
+  },
+  {
+    "query": "Computer, place a level three containment field around the warp core.",
+    "response": "Containment field activated."
+  }
+]

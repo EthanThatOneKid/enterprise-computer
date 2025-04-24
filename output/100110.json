@@ -1,0 +1,10 @@
+[
+  {
+    "query": "Computer, give me a location on Captain Picard.",
+    "response": "Captain Picard is in Transporter room three."
+  },
+  {
+    "query": "What? Computer, emergency order to Transporter room three.",
+    "response": "New information. Captain Picard is no longer aboard the Enterprise."
+  }
+]

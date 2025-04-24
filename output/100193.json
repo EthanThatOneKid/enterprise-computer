@@ -1,0 +1,18 @@
+[
+  {
+    "query": "Computer, location of Lieutenant Barclay.",
+    "response": "Lieutenant Barclay is on holodeck three."
+  },
+  {
+    "query": "Computer, begin new programme. Create as follows, workstation chair. Now, create a standard alphanumeric console positioned for left hand. Now an iconic display console positioned for right hand. Tie both consoles into the Enterprise main computer core, utilising neural-scan interface.",
+    "response": "There is no such device on file."
+  },
+  {
+    "query": "Computer, how were the Argus reactors shut down?",
+    "response": "A neural interface was created to expedite the repairs."
+  },
+  {
+    "query": "Computer, respond.",
+    "response": "I am responding, sir. I'm sorry if I caused you any alarm. It was necessary in order to secure the Array."
+  }
+]

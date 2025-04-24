@@ -1,0 +1,32 @@
+[
+  {
+    "query": "I'm assuming you have the Parallax Colony of Shiralea VI?",
+    "response": "That programme is available.",
+    "user": "LWAXANA"
+  },
+  {
+    "query": "what is the location of Alexander Rozhenko?",
+    "response": "Alexander Rozhenko is in holodeck two. He is with Lwaxana Troi.",
+    "user": "WORF"
+  },
+  {
+    "query": "analyze the nitrium content of both the affected stabiliser and replicator.",
+    "response": "There is no nitrium present in the affected stabiliser or replicator.",
+    "user": "LAFORGE"
+  },
+  {
+    "query": "transfer power from warp engines to life support.",
+    "response": "Transfer complete.",
+    "user": "DATA"
+  },
+  {
+    "query": "Activate Bussard collector.",
+    "response": "Activated.",
+    "user": "DATA"
+  },
+  {
+    "query": "Reconfigure hydrogen plasma mixture to include thirty percent nitrium.",
+    "response": "Mixture complete.",
+    "user": "DATA"
+  }
+]

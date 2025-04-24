@@ -1,0 +1,26 @@
+[
+  {
+    "query": "Last question on the hyperspace physics test. If the matter and antimatter tanks on a Galaxy class starship are nine tenths depleted, calculate the intermix ratio necessary to reach a starbase a hundred light years away at warp factor eight. Begin.",
+    "response": "Time elapsed. You now have one hour free before the next test."
+  },
+  {
+    "query": "Computer reads the ID number of Jake Kurland. Bridge to main Shuttlebay. Mister Kurland, this is Lieutenant Yar. Respond.",
+    "response": "Evacuate immediately. Sixty five seconds to seal off."
+  },
+  {
+    "query": "Help me!",
+    "response": "Thirty seconds to seal off."
+  },
+  {
+    "query": "Come on! I can't carry you both! You're not hurt.",
+    "response": "Ten seconds to seal off."
+  },
+  {
+    "query": "(The dynamics relationships test is on the screens, and there are a lot of beeps going on)",
+    "response": "Time elapsed."
+  },
+  {
+    "query": "Commander Remmick, report to Admiral Quinn.",
+    "response": "On my way, sir."
+  }
+]

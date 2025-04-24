@@ -1,0 +1,18 @@
+[
+  {
+    "query": "Computer, engage emergency plan zed zed alpha.",
+    "response": "Automatic defense procedures initiated. Energy field strength increasing. Warning, shield penetration seventeen percent."
+  },
+  {
+    "query": "Computer, begin random fluctuation of shield frequency and modulation.",
+    "response": "Executed."
+  },
+  {
+    "query": "Computer, release compound ADTH into the airflow system, five parts per million.",
+    "response": "Acknowledged. Initiating compound release now."
+  },
+  {
+    "query": "Status reports?",
+    "response": "Shields and weapons systems unaffected."
+  }
+]

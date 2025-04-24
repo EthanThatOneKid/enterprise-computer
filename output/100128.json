@@ -1,0 +1,30 @@
+[
+  {
+    "query": "Computer. Programme complete. Save. Coming Commander?",
+    "response": ""
+  },
+  {
+    "query": "Computer on.",
+    "response": ""
+  },
+  {
+    "query": "Computer engaged.",
+    "response": "Emergency power engaged."
+  },
+  {
+    "query": "Computer, locate Commander Data for me.",
+    "response": "Commander Data is on the Bridge."
+  },
+  {
+    "query": "Computer, any heading, warp six. Now!",
+    "response": "Fifty seconds to auto-destruct. Forty seconds to auto-destruct."
+  },
+  {
+    "query": "Computer. Ten seconds to auto-destruct.",
+    "response": ""
+  },
+  {
+    "query": "Computer. Abort auto-destruct sequence.",
+    "response": "Riker, William T. Do you concur?"
+  }
+]

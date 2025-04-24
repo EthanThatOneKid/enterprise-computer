@@ -1,0 +1,62 @@
+[
+  {
+    "query": "Computer, isolate cause of life support failure.",
+    "response": "Atmosphere conditioning pumps on deck one are operating in negative mode."
+  },
+  {
+    "query": "Computer, locate Lieutenant Commander Data.",
+    "response": "Commander Data is on the main Bridge."
+  },
+  {
+    "query": "Computer. Recognise Data, Lieutenant Commander. Alpha One clearance.",
+    "response": "Priority clearance recognition Alpha One."
+  },
+  {
+    "query": "Maintain minimum auxiliary power and disengage subspace communications.",
+    "response": "Acknowledged."
+  },
+  {
+    "query": "Computer, recognise Picard, Jean-Luc. Alpha Two clearance.",
+    "response": "Priority clearance recognition, Alpha Two."
+  },
+  {
+    "query": "Cancel separation sequence.",
+    "response": "Sequence cancelled."
+  },
+  {
+    "query": "Computer, recognise Jean-Luc Picard, Alpha Two priority, and re-establish separation procedure immediately.",
+    "response": "Orders regarding command functions are no longer accepted from your present location."
+  },
+  {
+    "query": "And just what location are they accepted from?",
+    "response": "Interface terminals on main Bridge only."
+  },
+  {
+    "query": "Computer, estimate the time from this location to Starbase four one six at warp nine.",
+    "response": "Inquiries regarding command functions are no longer accepted from your present location."
+  },
+  {
+    "query": "Computer, establish a security code for access to all functions previously transferred to Bridge.",
+    "response": "Enter code."
+  },
+  {
+    "query": "One seven three four six seven three two one four seven six Charlie three two seven eight nine seven seven seven six four three Tango seven three two Victor seven three one one seven eight eight eight seven three two four seven six seven eight nine seven six four three seven six. Lock.",
+    "response": "Security code intact for all specified inquiries and orders."
+  },
+  {
+    "query": "Computer, prepare to transport me directly to the following coordinates.",
+    "response": "Site to site transport interlocks have been manually deactivated."
+  },
+  {
+    "query": "Can you override?",
+    "response": "Negative."
+  },
+  {
+    "query": "Computer, restore tactical station.",
+    "response": "Deactivation of command function overrides requires Alpha Two clearance."
+  },
+  {
+    "query": "Computer, this is Captain Picard. Return all command functions to the stations.",
+    "response": "Alpha Two clearance recognised. Please enter security code."
+  }
+]

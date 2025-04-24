@@ -1,0 +1,12 @@
+[
+  {
+    "query": "Halt.",
+    "response": "Computer, halt.",
+    "user": "TROI"
+  },
+  {
+    "query": "Resume.",
+    "response": "Computer, resume.",
+    "user": "PICARD"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "query": "Computer, estimated arrival time at the Neutral Zone?",
+    "response": "Nineteen hours, twenty eight minutes."
+  },
+  {
+    "query": "Computer, this is Counsellor Troi. Request personal history on. What are their names?",
+    "response": "Full names, date and place of birth."
+  },
+  {
+    "query": "Where would the Captain be?",
+    "response": "Captain Picard is located on the main Bridge."
+  }
+]

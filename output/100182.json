@@ -1,0 +1,14 @@
+[
+  {
+    "query": "Deck eight.",
+    "response": "Repeat command."
+  },
+  {
+    "query": "Summarise service record. Riker, William T, Captain. Begin with the Fornax disaster.",
+    "response": "Please restate question."
+  },
+  {
+    "query": "Display family record. Riker, Mrs. William T.",
+    "response": "Please restate request."
+  }
+]

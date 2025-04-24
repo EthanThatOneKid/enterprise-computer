@@ -1,0 +1,10 @@
+[
+  {
+    "query": "locate Lieutenant Worf.",
+    "response": "Lieutenant Worf is in his quarters."
+  },
+  {
+    "query": "run a genetic comparison on this blood sample and the tissue belonging to Kahless.",
+    "response": "The genetic patterns are identical."
+  }
+]

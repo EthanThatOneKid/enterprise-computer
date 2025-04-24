@@ -1,0 +1,22 @@
+[
+  {
+    "query": "Computer perform a level one diagnostic of the exocomp's command module.",
+    "response": "The command pathways are functioning normally."
+  },
+  {
+    "query": "How can that be, if the interface circuitry is burned out?",
+    "response": "The interface circuitry has been repaired."
+  },
+  {
+    "query": "Curious. Computer, access the exocomp's sensor logs. Confirm that there was a failure of the interface circuitry within the last twelve hours.",
+    "response": "Confirmed. Interface failure occurred at eleven hundred fifty hours today, when the exocomp produced a power surge which burned out the linkage."
+  },
+  {
+    "query": "How and when was it repaired?",
+    "response": "The exocomp activated a self-repair programme at thirteen hundred forty hours."
+  },
+  {
+    "query": "Why would the exocomp burn out its own interface circuitry and repair it two hours later?",
+    "response": "Unknown."
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "query": "Recognise Picard, Jean-Luc, Captain. Recognise Riker, William T, Commander.",
+    "response": "Does the First Officer concur?"
+  },
+  {
+    "query": "Yes. Set auto-destruct sequence. Now.",
+    "response": "Auto-destruct will detonate in four minutes and fifty-nine seconds."
+  }
+]

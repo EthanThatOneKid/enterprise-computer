@@ -1,0 +1,14 @@
+[
+  {
+    "query": "Computer, emergency procedure. Eject antimatter storage unit three. Authorisation, Troi omega omega three one.",
+    "response": "Unable to comply. All power to ejection systems has been terminated and cannot be restored."
+  },
+  {
+    "query": "Computer, load Bridge Officer's test, Engineering qualification section one.",
+    "response": "Computer ready."
+  },
+  {
+    "query": "Run programme.",
+    "response": ""
+  }
+]

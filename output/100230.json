@@ -1,0 +1,14 @@
+[
+  {
+    "query": "The android at the bar said you could show me my old ship. Let me see it.",
+    "response": "Please enter programme."
+  },
+  {
+    "query": "The Enterprise. Show me the Bridge of the Enterprise, you chattering piece of",
+    "response": "Insufficient data. Please specify parameters."
+  },
+  {
+    "query": "NCC One Seven Oh One. No bloody A, B, C, or D.",
+    "response": "There have been five Federation ships with that name. Please specify by registry number."
+  }
+]

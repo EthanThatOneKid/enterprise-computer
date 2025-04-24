@@ -1,0 +1,50 @@
+[
+  {
+    "query": "Computer, run a diagnostic on all Sherlock Holmes files. Display any anomalous programming sequences.",
+    "response": "Diagnostic complete. All files conform to specified parameters, except those contained in protected memory."
+  },
+  {
+    "query": "Computer, begin Sherlock Holmes programme three A and place us in the drawing room at Two Twenty One B Baker Street.",
+    "response": "Programme complete."
+  },
+  {
+    "query": "Computer, route all command functions to the Bridge.",
+    "response": "Command functions are offline."
+  },
+  {
+    "query": "Reinitialise them on my authorisation.",
+    "response": "Authorisation denied."
+  },
+  {
+    "query": "Explain.",
+    "response": "Picard command codes are no longer valid."
+  },
+  {
+    "query": "Computer, what is being displayed here?",
+    "response": "Transport log seven five nine."
+  },
+  {
+    "query": "Computer, route all command functions to this location.",
+    "response": "Command functions are offline."
+  },
+  {
+    "query": "Reinitialise them on my authorisation.",
+    "response": "Please input command codes."
+  },
+  {
+    "query": "Picard, epsilon seven nine three.",
+    "response": "Command codes verified."
+  },
+  {
+    "query": "Computer, run Sherlock Holmes Programme three A.",
+    "response": "That programme is already in use."
+  },
+  {
+    "query": "Computer, interface with the central computer on the Enterprise.",
+    "response": "Interface complete."
+  },
+  {
+    "query": "Computer. Store programme Picard delta one in active memory and discontinue simulation.",
+    "response": "Programme stored."
+  }
+]

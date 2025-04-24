@@ -1,0 +1,27 @@
+[
+  {
+    "query": "Computer, security override request.",
+    "response": "Identify.",
+    "user": "PICARD"
+  },
+  {
+    "query": "Picard, Jean-Luc, Captain, USS Enterprise. Request control access Starfleet ship USS Lantree, Isao Telaka commanding.",
+    "response": "Enter access code.",
+    "user": "PICARD"
+  },
+  {
+    "query": "Omicron omicron alpha yellow daystar two seven. Enable.",
+    "response": "",
+    "user": "PICARD"
+  },
+  {
+    "query": "Shuttlebay three force field activated.",
+    "response": "",
+    "user": "COMPUTER"
+  },
+  {
+    "query": "Time?",
+    "response": "Zero three two two exactly.",
+    "user": "PICARD"
+  }
+]

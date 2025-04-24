@@ -1,0 +1,27 @@
+[
+  {
+    "query": "Earth, United States, San Francisco, California.",
+    "response": "Time period?",
+    "user": "PICARD"
+  },
+  {
+    "query": "1941, A.D.",
+    "response": "File or access code.",
+    "user": "PICARD"
+  },
+  {
+    "query": "File Dixon Hill, private detective.",
+    "response": "Enter when ready.",
+    "user": "PICARD"
+  },
+  {
+    "query": "Memory, save current setting.",
+    "response": "Current setting saved.",
+    "user": "PICARD"
+  },
+  {
+    "query": "Computer: request all biographical information on fictional character Dixon Hill.",
+    "response": "Working. Character first appeared in pulp magazine, Amazing Detective Stories, copyright 1934, AD. Second appearance in novel The Long Dark Tunnel, copyright 1936.",
+    "user": "DATA"
+  }
+]

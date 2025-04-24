@@ -1,0 +1,18 @@
+[
+  {
+    "query": "Computer, run fluidic sensor diagnostic.",
+    "response": "Diagnostic complete. All systems functioning within normal parameters."
+  },
+  {
+    "query": "Computer, run 'Isn't It Romantic'.",
+    "response": "The slow music starts, and Beverly gets Data into a close ballroom hold"
+  },
+  {
+    "query": "Computer, start music.",
+    "response": "And."
+  },
+  {
+    "query": "Computer, create dance partner. Female. Begin music.",
+    "response": ""
+  }
+]

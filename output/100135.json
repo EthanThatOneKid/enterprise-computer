@@ -1,0 +1,22 @@
+[
+  {
+    "query": "Computer, pull all relevant information with regard to Starfleet regulations on the transfer of officers.",
+    "response": "Working."
+  },
+  {
+    "query": "Computer, identify Riker, William T. Access code theta alpha two seven three seven, blue, enable.",
+    "response": "Riker, William T, identified. Ready."
+  },
+  {
+    "query": "Access all available technical schematics on Lieutenant Commander Data.",
+    "response": "Working."
+  },
+  {
+    "query": "Verify. Lieutenant Commander Data. Current assignment, USS Enterprise. Starfleet Command Decoration for Valour and",
+    "response": "Valour and Gallantry, Medal of Honour with Clusters, Legion of Honour, the Star Cross."
+  },
+  {
+    "query": "Verify, Maddox, Bruce, Commander. Current assignment, Associate Chair of Robotics, Daystrom Technological Institute. Major papers",
+    "response": "Yes, yes, yes. Suffice it to say, he's an expert. Commander, is your contention that Lieutenant Commander Data is not a sentient being and therefore not entitled to all the rights reserved for all life forms within this Federation?"
+  }
+]

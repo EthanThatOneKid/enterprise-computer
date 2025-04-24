@@ -1,0 +1,12 @@
+[
+  {
+    "query": "We are looking for the lodging chamber of Captain Jean-Luc Picard.",
+    "response": "A file scan reveals no record of a Captain Picard currently visiting Risa.",
+    "user": "AJUR"
+  },
+  {
+    "query": "When is he expected to arrive?",
+    "response": "Where is no arrival date on file for any such individual.",
+    "user": "AJUR"
+  }
+]

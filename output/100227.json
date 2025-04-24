@@ -1,0 +1,14 @@
+[
+  {
+    "query": "Computer, initialise the reload circuits.",
+    "response": "Reload circuits are initialising."
+  },
+  {
+    "query": "Computer, run me a diagnostic on the input polarisers.",
+    "response": "There is intermittent contact in the input polarisers."
+  },
+  {
+    "query": "Computer, run another diagnostic on the input polarisers.",
+    "response": "Polariser circuits are functioning."
+  }
+]

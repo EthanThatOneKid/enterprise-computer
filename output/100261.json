@@ -1,0 +1,10 @@
+[
+  {
+    "query": "Computer, how much have the conversion levels increased?",
+    "response": "Levels are unchanged."
+  },
+  {
+    "query": "Computer, what are the current power conversion levels?",
+    "response": "Power conversion levels are at ninety seven point two percent."
+  }
+]

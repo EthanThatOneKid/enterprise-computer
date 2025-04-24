@@ -1,0 +1,27 @@
+[
+  {
+    "query": "Custodian, Wesley Crusher's voice will be entered into the authorised file for Third Level clearance.",
+    "response": "Proceed, Duana.",
+    "user": "DUANA"
+  },
+  {
+    "query": "Hello, Custodian. I am Wesley Crusher.",
+    "response": "Hello, Wesley. Your voice will now activate Third Level clearance.",
+    "user": "WESLEY"
+  },
+  {
+    "query": "Custodian, can you show me where Harry is?",
+    "response": "Yes.",
+    "user": "WESLEY"
+  },
+  {
+    "query": "Custodian, this is Wesley Crusher.",
+    "response": "Proceed, Wesley.",
+    "user": "WESLEY"
+  },
+  {
+    "query": "Show me where the Enterprise children are in relation to this room. Thank you. Goodnight.",
+    "response": "Good night, Wesley.",
+    "user": "WESLEY"
+  }
+]

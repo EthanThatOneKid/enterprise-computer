@@ -1,0 +1,18 @@
+[
+  {
+    "query": "Computer, search for the term Darmok in all linguistic databases for this sector.",
+    "response": "Searching. Darmok is the name of a seventh dynasty emperor on Kanda Four. A mytho-historical hunter on Shantil Three. A colony on Malindi Seven. A frozen dessert on Tazna Five. A"
+  },
+  {
+    "query": "Stop search. Computer, how many entries are there for Darmok?",
+    "response": "Forty seven."
+  },
+  {
+    "query": "Computer, search for the term Tanagra. All databases.",
+    "response": "Searching. Tanagra. The ruling family on Gallos Two. A ceremonial drink on Lerishi Four. An island-continent on Shantil Three"
+  },
+  {
+    "query": "Stop. Shantil Three. Computer, cross-reference the last entry with the previous search index.",
+    "response": "Darmok is the name of a mytho-historical hunter on Shantil Three."
+  }
+]

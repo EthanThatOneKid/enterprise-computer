@@ -1,0 +1,7 @@
+[
+  { "query": "Captain's log", "response": "Captain's log" },
+  {
+    "query": "Engineering here, sir.",
+    "response": "Back online, sir? They were never off."
+  }
+]

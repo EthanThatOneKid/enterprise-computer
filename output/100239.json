@@ -1,0 +1,46 @@
+[
+  {
+    "query": "Computer, run station logs in sequence.",
+    "response": "Station log, stardate 46458.3. Today we configured the relay controller grid. It was the last primary system we had to overhaul. We are scheduled to recalibrate and align the antennae systems in the next three days."
+  },
+  {
+    "query": "Computer, access visual output.",
+    "response": "Sent in my third request for a message delay buffer. Until it arrives, Lieutenant Rocha and I have rigged a memory module to compensate. It better work, or about a half million subspace messages are going to end up drifting through space. Computer, open Uhnari correspondence file."
+  },
+  {
+    "query": "Computer, access correspondence files, Lieutenant Aquiel Uhnari.",
+    "response": "Hello, Shiana. Sorry I haven't talked to you in a while but I've been dealing with the new Lieutenant, Rocha. So far he's been rude, arrogant and condescending, and he's only been here two days. This might be a long year."
+  },
+  {
+    "query": "Computer me run a subsystem diagnostic, with a frequency range of ten to one hundred megahertz.",
+    "response": "Diagnostic cycle will be complete in twenty seconds."
+  },
+  {
+    "query": "Computer access the personal logs of Aquiel Uhnari.",
+    "response": "Logs accessed."
+  },
+  {
+    "query": "Computer, display the personal records of Lieutenant Rocha from stardates 46455 to 46460.",
+    "response": "The logs have been deleted."
+  },
+  {
+    "query": "Computer, what happened to the log entries for stardate 46459?",
+    "response": "The logs have been deleted."
+  },
+  {
+    "query": "Who deleted them?",
+    "response": "Unknown."
+  },
+  {
+    "query": "Computer, locate Commander Morag and Lieutenant Uhnari.",
+    "response": "Commander Morag is in his quarters. Lieutenant Uhnari is not aboard the Enterprise."
+  },
+  {
+    "query": "Where did she go?",
+    "response": "Lieutenant Uhnari transported to Relay Station forty seven at eighteen thirty hours."
+  },
+  {
+    "query": "Computer, display the Engineering duty roster for the next three days.",
+    "response": ""
+  }
+]

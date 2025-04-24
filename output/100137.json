@@ -1,0 +1,10 @@
+[
+  {
+    "query": "Computer, access Captain Donald Varley's personal log. Search parameter. Locate entries containing words Romulan and or Iconia.",
+    "response": "Working."
+  },
+  {
+    "query": "No further entries conforming to search parameters.",
+    "response": ""
+  }
+]

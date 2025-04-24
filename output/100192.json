@@ -1,0 +1,71 @@
+[
+  { "query": "Computer, resume.", "response": "COMPUTER: resume. (no audio)" },
+  {
+    "query": "Computer, analyse audio elements from time index fourteen four seven to fifteen five eight. List all anomalies.",
+    "response": "COMPUTER: No audio anomalies present."
+  },
+  {
+    "query": "Any subspace projections, z-particle emissions, interferometric frequencies?",
+    "response": "COMPUTER: No subspace projections present. No z-particle emissions present. No interferometric patterns present."
+  },
+  { "query": "Computer, one more time.", "response": "" },
+  { "query": "Computer, delete the audio.", "response": "" },
+  {
+    "query": "Computer, the shadow currently displayed in section B three, what is its source?",
+    "response": "COMPUTER: Unknown."
+  },
+  {
+    "query": "Computer, replay a visual of the last time index. No audio, and slow to fifty percent. Okay, Brevelle's behind the camera ,Susanna and I head off in that direction. Mendez moves off that way. Freeze visual. Now, magnify four times, and spectrally enhance those shadows.",
+    "response": ""
+  },
+  {
+    "query": "Computer, do you have sufficient data to compile a holographic simulation of this visual record?",
+    "response": "COMPUTER: A simulation would be limited to areas scanned by the visual recording device."
+  },
+  {
+    "query": "Good, fine. Scan the entire record and then recreate it on holodeck three.",
+    "response": ""
+  },
+  {
+    "query": "Computer, is the Tarchannen simulation ready?",
+    "response": "COMPUTER: Affirmative. Programme complete. Enter when ready."
+  },
+  {
+    "query": "Computer, scan Starfleet records and create a simulation of Brevelle. Place him where he was while recording this.",
+    "response": ""
+  },
+  {
+    "query": "Okay, good. Computer, based on their speed and direction, can you extrapolate each officer's movements as they walk out of the recording device's field of view?",
+    "response": "COMPUTER: Affirmative, with an increasing probability of error reaching ninety five percent after ten seconds."
+  },
+  { "query": "Understood. Run simulation.", "response": "" },
+  {
+    "query": "Computer, freeze. It's all happening too fast. Computer, reverse simulation. Run it back to time index fourteen seven two.",
+    "response": ""
+  },
+  {
+    "query": "Freeze programme. Computer, remove La Forge. And now remove Leitjen. And now remove Mendez.",
+    "response": ""
+  },
+  {
+    "query": "Computer, using vector analysis, identify the source of this shadow.",
+    "response": "COMPUTER: There is no object in the programme which could generate the shadow."
+  },
+  {
+    "query": "There has to be something between the camera light and this wall. Computer, given the distance between the light and the wall, can you determine the most likely shape and position of the object causing this shadow?",
+    "response": "COMPUTER: There is insufficient data to reconstruct the requested object."
+  },
+  {
+    "query": "All right, let's say that my friend and I here are about the same size, say one pint seven metres. Now, can you extrapolate its shape and its position?",
+    "response": "COMPUTER: Affirmative."
+  },
+  { "query": "Do it.", "response": "" },
+  {
+    "query": "Computer, locate Commander La Forge.",
+    "response": "COMPUTER: Commander La Forge is not on board the Enterprise."
+  },
+  {
+    "query": "Computer, what was the last known location of Commander La Forge?",
+    "response": "COMPUTER: Holodeck three."
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "query": "Computer, where is Lieutenant Barclay?",
+    "response": "Lieutenant Barclay is in holodeck two."
+  },
+  {
+    "query": "Computer, list all physical substances that wouldn't normally be picked up by an internal scan.",
+    "response": "There are fifteen thousand five hundred twenty five known substances that cannot be detected by standard scans."
+  },
+  {
+    "query": "And how many of those can exist in an oxygen atmosphere?",
+    "response": "Five hundred thirty two."
+  },
+  {
+    "query": "And could alter molecular structure when it comes in contact with glass.",
+    "response": "Five."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "query": "Computer, programme the holodeck for a woodland setting, with a bridle path and an appropriate mount.",
+    "response": "Type of mount? Andorian Zabathu, Klingon Sark"
+  },
+  {
+    "query": "Horse. Earth horse.",
+    "response": "Breed?"
+  },
+  {
+    "query": "Oh yes, computer, English tack, and I will control the animal myself.",
+    "response": "Enter when ready."
+  },
+  {
+    "query": "Computer, identify please.",
+    "response": "Sensors indicate low-level rf waves."
+  },
+  {
+    "query": "Is there a pattern?",
+    "response": "Affirmative."
+  },
+  {
+    "query": "Naturally occurring?",
+    "response": "Negative."
+  },
+  {
+    "query": "Key universal translator, please.",
+    "response": "Unable to comply. Weak signal."
+  },
+  {
+    "query": "Lock on comm. link and boost.",
+    "response": "Lock on complete."
+  },
+  {
+    "query": "Read, please.",
+    "response": "Insufficient signal strength."
+  },
+  {
+    "query": "Computer, please access all volcanic and tectonic plate activity in Drema Four.",
+    "response": "Accessing."
+  },
+  {
+    "query": "Computer, locate Captain Picard.",
+    "response": "Captain Picard is on holodeck three."
+  },
+  {
+    "query": "Reason for failure?",
+    "response": "Atmospheric activity interfering with RF signal."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "query": "Computer locate Tam Elbrun.",
+    "response": "Tam Elbrun is in turbolift one, en route to the main Bridge."
+  },
+  {
+    "query": "Computer, reconfigure structural integrity power to feed inner deflector grid.",
+    "response": "Unable to comply. Requested reroute would compromise operational safety limits."
+  },
+  {
+    "query": "Override. Authorization La Forge theta two nine nine seven.",
+    "response": "Rerouting structural integrity power supply."
+  },
+  {
+    "query": "Computer, run level two diagnostic.",
+    "response": "Port sensor array remains offline."
+  },
+  {
+    "query": "Data to Enterprise. Enterprise, come in.",
+    "response": ""
+  },
+  {
+    "query": "Enterprise, respond.",
+    "response": ""
+  },
+  {
+    "query": "O'Brien to Bridge.",
+    "response": "Go ahead, Chief."
+  },
+  {
+    "query": "Computer target lock not functioning.",
+    "response": ""
+  }
+]

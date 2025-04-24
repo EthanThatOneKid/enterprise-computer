@@ -1,0 +1,10 @@
+[
+  {
+    "query": "Computer, open holodeck five.",
+    "response": "Unable to comply. Holodeck five is in use."
+  },
+  {
+    "query": "Override. Authorisation, Worf theta six one nine.",
+    "response": "Unable to comply. Holodeck control systems have been bypassed."
+  }
+]

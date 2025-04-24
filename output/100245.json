@@ -1,0 +1,17 @@
+[
+  {
+    "query": "display the latest excavation schematics on Landris Two.",
+    "response": "Library computer is temporarily offline.",
+    "user": "PICARD"
+  },
+  {
+    "query": "Explain.",
+    "response": "Library systems have been allocated to Stellar Cartography.",
+    "user": "PICARD"
+  },
+  {
+    "query": "Tea, Earl Grey. Hot.",
+    "response": "Replicator systems are offline at the request of Stellar Cartography.",
+    "user": "PICARD"
+  }
+]

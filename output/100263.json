@@ -1,0 +1,10 @@
+[
+  {
+    "query": "Computer, access personal logs on Shuttlecraft Curie. Show my log entry for Stardate 47391.2.",
+    "response": "There is no log entry from the Shuttlecraft Curie for that stardate."
+  },
+  {
+    "query": "Computer, display any log entries regarding the Bat'leth tournament on Forcas Three.",
+    "response": "Personal log, stardate 47391.2. There has been a malfunction in the ship's main deflector. It will require two more days of repairs. As a result, I will not be able to compete in the Bat'leth tournament on Forcas Three. I have asked my brother to take my place. He does not have my prowess with the blade, but "
+  }
+]

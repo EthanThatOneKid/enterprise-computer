@@ -1,0 +1,30 @@
+[
+  {
+    "query": "Computer, I wish to know more about humour. Why certain combinations of words and actions make humans laugh.",
+    "response": "Source material on that subject is extensive. Please specify."
+  },
+  {
+    "query": "Animated presentation, humanoid. Interaction required.",
+    "response": "Physical humour, cerebral, or general raconteur."
+  },
+  {
+    "query": "Of all performers available, who is considered funniest?",
+    "response": "Twenty third century Stan Orega specialised in jokes about quantum mathematics."
+  },
+  {
+    "query": "No. Too esoteric. More generic.",
+    "response": "Accessing."
+  },
+  {
+    "query": "That one. RW nine six three two one, twentieth century.",
+    "response": "Programme installation complete. You may enter."
+  },
+  {
+    "query": "Computer. Programme an audience appropriate to this venue.",
+    "response": "Programme complete. Enter when ready."
+  },
+  {
+    "query": "Audience programme off. Discontinue Comic.",
+    "response": ""
+  }
+]

@@ -1,1 +1,11 @@
-[{"query":"Tell me the location of Commander Data.","response":"Lieutenant Commander Data now located in Holodeck area 4J."},{"query":"Thank you","response":"You're welcome, sir."},{"query":"And if you care to enter, Commander?","response":"You're welcome, Commander Riker. And if you care to enter, Commander?"}]
+[
+  {
+    "query": "Tell me the location of Commander Data.",
+    "response": "Lieutenant Commander Data now located in Holodeck area 4J."
+  },
+  { "query": "Thank you", "response": "You're welcome, sir." },
+  {
+    "query": "And if you care to enter, Commander?",
+    "response": "You're welcome, Commander Riker. And if you care to enter, Commander?"
+  }
+]

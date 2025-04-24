@@ -1,0 +1,34 @@
+[
+  {
+    "query": "Water, ten degrees Celsius. Computer, access Starfleet Medical Database. Tell me about, er. Describe the disorder transporter psychosis.",
+    "response": "Transporter psychosis was diagnosed in the year twenty two oh nine by researchers on Delinia Two."
+  },
+  {
+    "query": "No, no stop. All I need is, what causes it?",
+    "response": "It is caused by a breakdown of neuro-chemical molecules during transport, affecting the body's motor functions, autonomic systems, and the brain's higher reasoning centres."
+  },
+  {
+    "query": "What are the symptoms?",
+    "response": "Victims suffer from paranoid delusions, multi-infarct dementia, hallucinations."
+  },
+  {
+    "query": "Hallucinations? What kind of hallucinations?",
+    "response": "Victims experience somatic, tactile and visual hallucinations, accompanied by psychogenic hysteria. Peripheral symptoms include sleeplessness, accelerated heart rate, diminished eyesight leading to acute myopia, painful spasms in the extremities, and in most cases, dehydration."
+  },
+  {
+    "query": "Computer what is the treatment for transporter psychosis?",
+    "response": "There is no known treatment."
+  },
+  {
+    "query": "Computer more birds.",
+    "response": "End stress reduction programme."
+  },
+  {
+    "query": "Water.",
+    "response": "Specify temperature."
+  },
+  {
+    "query": "All right, Computer, let's try some music. Something soothing.",
+    "response": ""
+  }
+]

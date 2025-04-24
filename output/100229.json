@@ -1,0 +1,14 @@
+[
+  {
+    "query": "today's appointment calendar.",
+    "response": "Oh nine hundred hours, counselling session with Ensign Janeway. Ten hundred hours, counselling session with"
+  },
+  {
+    "query": "Cancel them. Cancel everything till after lunch.",
+    "response": "Acknowledged."
+  },
+  {
+    "query": "location of Counsellor Troi.",
+    "response": "Deck six, corridor B."
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "query": "Computer, list stardates of the last Enterprise mission to the Klingon home planet.",
+    "response": "Stardates 43685 through 43689."
+  },
+  {
+    "query": "How many ship's logs during that period?",
+    "response": "Forty three officer's logs. Ten personal logs."
+  },
+  {
+    "query": "Is there a personal log for Lieutenant Worf?",
+    "response": "Affirmative. Access is restricted."
+  },
+  {
+    "query": "Eliminate all personal logs. List the remaining forty three in chronological order. We'll just take them one at a time.",
+    "response": ""
+  },
+  {
+    "query": "Computer, interlock with the Klingon Imperial Information Net.",
+    "response": "Interlock established."
+  },
+  {
+    "query": "Federation Ambassador K'Ehleyr requesting diplomatic access to High Council record. Security code pah doQ cha!",
+    "response": "Proceed."
+  },
+  {
+    "query": "Computer, display summary of the most recent High Council inquiry regarding Khitomer massacre.",
+    "response": "Access denied. Restricted materials, du ko cha clearance only."
+  },
+  {
+    "query": "By whose order?",
+    "response": "Council member Duras."
+  },
+  {
+    "query": "Access biographical files. Subject name, Councillor Duras.",
+    "response": ""
+  },
+  {
+    "query": "Computer, locate Lieutenant Worf.",
+    "response": "Lieutenant Worf is not aboard the Enterprise."
+  },
+  {
+    "query": "Where is he?",
+    "response": "Lieutenant Worf transported to the Klingon ship Vorn at seventeen thirty hours."
+  }
+]

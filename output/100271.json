@@ -1,0 +1,17 @@
+[
+  {
+    "query": "send a subspace message to Starfleet command. Security channel authorisation.",
+    "response": "Alpha four seven authorisation required to activate security channel.",
+    "user": "RIKER"
+  },
+  {
+    "query": "",
+    "response": "Awaiting authorisation.",
+    "user": "RIKER"
+  },
+  {
+    "query": "display progress of genetic re-sequencing.",
+    "response": "Genetic re-sequencing in progress. DNA to seventy percent normal.",
+    "user": "DATA"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "query": "Is the sample organic?",
+    "response": "Negative carbon. Negative known life components. Substance inorganic.",
+    "user": "Crusher"
+  },
+  {
+    "query": "Recheck analysis, please.",
+    "response": "Rechecking. Analysis verified. Not organic.",
+    "user": "Data"
+  },
+  {
+    "query": "What is the magnification?",
+    "response": "Twenty five hundred diameters.",
+    "user": "Crusher"
+  },
+  {
+    "query": "Analyse the pattern of the flashes.",
+    "response": "Not repetitive or sequential. Pattern not recognised.",
+    "user": "Crusher"
+  },
+  {
+    "query": "What is the source of the flashes?",
+    "response": "Unable to specify. Theoretically not possible from this substance.",
+    "user": "Crusher"
+  },
+  {
+    "query": "Disregard incongruity and theorise as to source.",
+    "response": "Life.",
+    "user": "Crusher"
+  },
+  {
+    "query": "Please show me the spectral analysis magnification twelve K.",
+    "response": "Silicon. Germanium.",
+    "user": "Data"
+  }
+]

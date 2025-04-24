@@ -1,0 +1,14 @@
+[
+  {
+    "query": "Computer, location of Doctor Beverly Crusher.",
+    "response": "Doctor Crusher is in her quarters."
+  },
+  {
+    "query": "Can you make balso tonic?",
+    "response": "There is no formula on record. Please supply a molecular structure."
+  },
+  {
+    "query": "Computer, what is the time?",
+    "response": "Fifteen thirty five hours."
+  }
+]

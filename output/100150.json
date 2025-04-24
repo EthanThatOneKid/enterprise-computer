@@ -1,0 +1,14 @@
+[
+  {
+    "query": "Computer, explain control malfunction.",
+    "response": "No control malfunction has been recorded."
+  },
+  {
+    "query": "Computer, fix the food slot.",
+    "response": "The food slot is functioning properly."
+  },
+  {
+    "query": "Computer, identify malfunction immediately.",
+    "response": "Pawn to Bishop Four. Knight to King's Rook Three. Bishop to Queen's Bishop Four. Knight to Knight Five. Queen's Knight to King Two."
+  }
+]

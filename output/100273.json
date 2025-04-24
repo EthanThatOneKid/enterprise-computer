@@ -1,0 +1,7 @@
+[
+  {
+    "query": "Computer, run programme K'mtar alpha one.",
+    "response": "Programme initiated. Enter when ready."
+  },
+  { "query": "Computer, resume programme.", "response": "resume programme." }
+]

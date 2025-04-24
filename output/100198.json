@@ -1,0 +1,132 @@
+[
+  {
+    "query": "How about some different music, Computer. Something with a Latin beat. No, I meant something with a gentle Latin beat. Maybe a Spanish guitar. Perfect. Hey, what's the weather like on Risa?",
+    "response": "Risa is climate-controlled for optimum tourist comfort,",
+    "user": "LAFORGE"
+  },
+  {
+    "query": "Is that right? How long before we get there?",
+    "response": "Arrival at Risa is scheduled for oh nine thirty two hours.",
+    "user": "LAFORGE"
+  },
+  {
+    "query": "Three hours. How about a game, computer?",
+    "response": "Please restate request.",
+    "user": "LAFORGE"
+  },
+  {
+    "query": "Something to pass the time, you know, a diversion.",
+    "response": "Select either visual interactive or verbal interactive.",
+    "user": "LAFORGE"
+  },
+  {
+    "query": "Verbal.",
+    "response": "You have twenty seconds to respond to each question. Level of difficulty will increase as you progress. Proceed when ready.",
+    "user": "LAFORGE"
+  },
+  {
+    "query": "Begin.",
+    "response": "List the resonances of the subquantum states associated with transitional relativity.",
+    "user": "LAFORGE"
+  },
+  {
+    "query": "Okay, give me another one.",
+    "response": "List the field patterns associated with warp modulation in order of decreasing energy.",
+    "user": "LAFORGE"
+  },
+  {
+    "query": "Computer, sequence zero one zero. Maximum power to the shields. Kill the music. Enterprise, this is shuttle seven. I've encountered a Romulan Warbird. Coordinates at three",
+    "response": "Warning. Shield failure.",
+    "user": "LAFORGE"
+  },
+  {
+    "query": "Computer re-route the power flow in the cargo bay four transporter to the auxiliary replicator system.",
+    "response": "Please verify command with necessary protocol.",
+    "user": "LAFORGE"
+  },
+  {
+    "query": "Initiate protocol three six four dash B.",
+    "response": "Verify priority clearance.",
+    "user": "LAFORGE"
+  },
+  {
+    "query": "Recognise La Forge, theta two nine nine seven.",
+    "response": "Acknowledged. Power has been re-routed through auxiliary power distribution system code number four four seven six two.",
+    "user": "LAFORGE"
+  },
+  {
+    "query": "Now, redirect transporter mode to the planetary sensor array.",
+    "response": "Transporter mode has been redirected.",
+    "user": "LAFORGE"
+  },
+  {
+    "query": "Verify that all record of these modifications are being erased from each directory.",
+    "response": "Affirmative. Erasure process is proceeding.",
+    "user": "LAFORGE"
+  },
+  {
+    "query": "Computer, run an analysis of all known Romulan transmission formats, all bands, Identify any commonalities with displayed waveform.",
+    "response": "No commonalities noted.",
+    "user": "DATA"
+  },
+  {
+    "query": "Does this waveform match that of any known communication format?",
+    "response": "Negative.",
+    "user": "DATA"
+  },
+  {
+    "query": "Broaden search pattern beyond communications. Does the waveform displayed conform to any natural phenomena, cryptographic formats or lifeform EM emissions?",
+    "response": "The signal corresponds to a delta compressed wavelength spectrum similar to human neural frequencies.",
+    "user": "DATA"
+  },
+  {
+    "query": "As in a human brainwave pattern?",
+    "response": "Affirmative.",
+    "user": "DATA"
+  },
+  {
+    "query": "What kind of receiver would be capable of processing these signals?",
+    "response": "A system designed to modify the electromagnetic spectrum and carry those messages directly to the human brain.",
+    "user": "DATA"
+  },
+  {
+    "query": "Computer, link with the shuttle's onboard system. Access the isolinear storage assembly. Scan all chips which contain mission logs. Note any discrepancies.",
+    "response": "No discrepancies noted.",
+    "user": "DATA"
+  },
+  {
+    "query": "Perform a level 5 diagnostic on the shuttle's power and navigational systems.",
+    "response": "The components specified are all within normal tolerances.",
+    "user": "DATA"
+  },
+  {
+    "query": "Computer, scan the shuttle's structural integrity.",
+    "response": "Sub-microscopic deformations are present in the nose section and aft thrusters.",
+    "user": "DATA"
+  },
+  {
+    "query": "Probable cause of these variations?",
+    "response": "The shuttle has been subjected to stress consistent with a tractor beam.",
+    "user": "DATA"
+  },
+  {
+    "query": "Computer, I am reading anomalous variations in the molecular structure of these memory chips. Please confirm.",
+    "response": "Analysis confirmed.",
+    "user": "DATA"
+  },
+  {
+    "query": "Probable cause?",
+    "response": "Replication.",
+    "user": "DATA"
+  },
+  {
+    "query": "Compare these variations with established Romulan replication patterns.",
+    "response": "The patterns are identical.",
+    "user": "DATA"
+  },
+  {
+    "query": "Computer, current location of Commander La Forge?",
+    "response": "Cargo bay four.",
+    "user": "DATA"
+  }
+]

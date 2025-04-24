@@ -1,0 +1,94 @@
+[
+  {
+    "query": "Computer. Load deposition programme Riker one. Run the simulation.",
+    "response": ""
+  },
+  {
+    "query": "Computer, freeze programme.",
+    "response": ""
+  },
+  {
+    "query": "Resume programme.",
+    "response": ""
+  },
+  {
+    "query": "Computer, identify type of radiation.",
+    "response": "Emission is not consistent with any known radiation."
+  },
+  {
+    "query": "Computer, load Manua simulation one.",
+    "response": ""
+  },
+  {
+    "query": "Run programme.",
+    "response": ""
+  },
+  {
+    "query": "Computer, freeze programme.",
+    "response": ""
+  },
+  {
+    "query": "Resume programme.",
+    "response": ""
+  },
+  {
+    "query": "Computer.",
+    "response": ""
+  },
+  {
+    "query": "Computer, run Tayna simulation three.",
+    "response": ""
+  },
+  {
+    "query": "KRAG: Freeze programme. And then Doctor Apgar came to find you?",
+    "response": ""
+  },
+  {
+    "query": "Run Tayna simulation four.",
+    "response": ""
+  },
+  {
+    "query": "Computer, load Manua programme one, time index fourteen four one. Play programme.",
+    "response": ""
+  },
+  {
+    "query": "Freeze.",
+    "response": ""
+  },
+  {
+    "query": "Computer, run Manua programme one, time code, fourteen three eight.",
+    "response": ""
+  },
+  {
+    "query": "Freeze programme. Run Riker programme two, time code, sixteen one zero.",
+    "response": ""
+  },
+  {
+    "query": "Freeze.",
+    "response": ""
+  },
+  {
+    "query": "Computer, run Tayna programme four, time index eighteen one four.",
+    "response": ""
+  },
+  {
+    "query": "Freeze.",
+    "response": ""
+  },
+  {
+    "query": "Computer, play Riker programme four, time index twenty four one.",
+    "response": ""
+  },
+  {
+    "query": "Freeze.",
+    "response": ""
+  },
+  {
+    "query": "Computer, load programme, La Forge one. Coordinate auto-engage time sequence. The next discharge from the field generator is scheduled to occur in just a few moments, and we've aligned the holodeck programme to recreate the final events as Commander Riker described them. Only this time our facsimile will automatically process the energy charge from the planet and reflect it just as the original convertor did before the explosion.",
+    "response": ""
+  },
+  {
+    "query": "Computer, load programme, La Forge one. Coordinate auto-engage time sequence.",
+    "response": "Auto-engage time sequence synchronised."
+  }
+]

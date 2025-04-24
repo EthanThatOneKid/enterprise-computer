@@ -1,0 +1,12 @@
+[
+  {
+    "query": "locate Captain Picard.",
+    "response": "The Captain is not on the ship.",
+    "user": "RIKER"
+  },
+  {
+    "query": "Computer, locate Captain Picard.",
+    "response": "Captain Picard is in Ten Forward.",
+    "user": "RIKER"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "query": "Computer, estimated arrival at Pegos Minor.",
+    "response": "Two hours, nine minutes."
+  },
+  {
+    "query": "Computer, this is Captain Picard.",
+    "response": "Holodeck three is clear."
+  },
+  {
+    "query": "Location, Paris, Cafe des Artistes, as it appeared twenty two years ago. April the ninth, fifteen hundred hours, three o'clock. Warm spring day.",
+    "response": "Programme complete."
+  },
+  {
+    "query": "Computer, this is Counsellor Troi. Request access.",
+    "response": "Do you wish to terminate the current programme?"
+  },
+  { "query": "No, continue the programme.", "response": "Enter when ready." }
+]

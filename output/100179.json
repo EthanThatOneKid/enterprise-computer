@@ -1,0 +1,157 @@
+[
+  {
+    "query": "Computer, level two diagnostic on warp drive systems.",
+    "response": "Antimatter containment positive. Warp drive within normal parameters.",
+    "user": "LAFORGE"
+  },
+  {
+    "query": "Computer, current location of Doctor Dalen Quaice.",
+    "response": "There is no Doctor Dalen Quaice aboard the Enterprise.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Computer, where is Doctor Dalen Quaice?",
+    "response": "There is no Doctor Dalen Quaice aboard the Enterprise.",
+    "user": "WORF"
+  },
+  {
+    "query": "Computer, current whereabouts of Doctors Hill and Selar.",
+    "response": "There is no Doctor Hill or Doctor Selar aboard the Enterprise.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Computer, read the entire crew roster for the Enterprise.",
+    "response": "Doctor Beverly Crusher.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Have I always been the only member of the crew of the Starship Enterprise?",
+    "response": "Affirmative.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "If this was a bad dream, would you tell me?",
+    "response": "That is not a valid question.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "What date did I report on board?",
+    "response": "Stardate 41154. Fourteen hundred hours, three minutes.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Computer, is there more than one USS Enterprise?",
+    "response": "This vessel is the fifth starship to bear the name USS Enterprise. It is currently the only one in service.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "What is the primary mission of the Starship Enterprise?",
+    "response": "To explore the galaxy.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Do I have the necessary skills to complete that mission alone?",
+    "response": "Negative.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Then why am I the only crew member? Aha, got you there.",
+    "response": "That information is not available.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Computer, are you familiar with the inhabitants of Tau Alpha C?",
+    "response": "Affirmative.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Are any presently located on any starbase or vessel within communication distance?",
+    "response": "Negative.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Estimated time to Tau Alpha C at warp nine point five.",
+    "response": "One hundred twenty three days.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Lay in a new course for Tau Alpha C.",
+    "response": "Acknowledged.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Computer, did you change course?",
+    "response": "State new destination or coordinates.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "I stated it, damn it. Tau Alpha C.",
+    "response": "There is no Tau Alpha C listed on current star maps.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Computer, what is that mist I'm seeing?",
+    "response": "Sensors indicate it to be a mass energy field seven hundred and five metres in diameter.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "It surrounds the ship?",
+    "response": "Affirmative.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Computer, what is beyond the mass energy field?",
+    "response": "Sensors cannot penetrate the field.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Computer, what is the nature of the universe?",
+    "response": "The universe is a spheroid region seven hundred and five metres in diameter.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Computer, what's happening?",
+    "response": "Explosive decompression decks five through fourteen. Sealing off forward sections.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Cause?",
+    "response": "A flaw in the ship's design.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Show me. Analysis.",
+    "response": "No ship's structures exist forward of bulkhead three four two.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Computer, how long can life support be maintained?",
+    "response": "Four minutes, seventeen seconds.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Computer, hypothetical situation. A person is trapped inside of a static warp bubble. Determine a means of escape.",
+    "response": "Escape would theoretically depend on establishing a stable threshold between the warp field and the outer environment.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Describe this threshold.",
+    "response": "Negative. There are no known practical applications of this theory.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Extrapolate from theoretical database. How would it manifest itself?",
+    "response": "A dynamic atmospheric disturbance of great intensity.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Engineering.",
+    "response": "Failure in turboshaft four. Unable to proceed to main Engineering.",
+    "user": "CRUSHER"
+  },
+  {
+    "query": "Computer, continuous scan, Captain Jean-Luc Picard, vital signs. Audible readout. Begin now.",
+    "response": "Body temperature thirty seven point two degrees,",
+    "user": "PICARD"
+  }
+]

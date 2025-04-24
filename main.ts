@@ -66,7 +66,7 @@ if (import.meta.main) {
       );
     }
 
-    await new Promise((resolve) => setTimeout(resolve, 60_000));
+    await new Promise((resolve) => setTimeout(resolve, 20_000));
   }
 }
 

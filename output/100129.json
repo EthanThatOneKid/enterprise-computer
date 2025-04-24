@@ -1,0 +1,54 @@
+[
+  {
+    "query": "Computer, select at random a mystery by Sir Arthur Conan Doyle, where I will play Sherlock Holmes and Lieutenant La Forge will be Doctor John Watson.",
+    "response": "Programme complete. You may enter.",
+    "user": "DATA"
+  },
+  {
+    "query": "Computer, arch.",
+    "response": "Define parameters of programme.",
+    "user": "LAFORGE"
+  },
+  {
+    "query": "Computer, in the Holmesian style, create a mystery to confound Data with an opponent who has the ability to defeat him.",
+    "response": "Define parameters of programme.",
+    "user": "LAFORGE"
+  },
+  { "query": "Arch.", "response": "Computer standing by.", "user": "MORIARTY" },
+  {
+    "query": "What are you?",
+    "response": "If you refer to the arch you ordered, it provides computer control. Do you wish to input any commands?",
+    "user": "MORIARTY"
+  },
+  { "query": "Computer, exit!", "response": "Access denied.", "user": "DATA" },
+  {
+    "query": "Explain.",
+    "response": "Override protocol has been initiated.",
+    "user": "DATA"
+  },
+  {
+    "query": "Computer, why wasn't the holodeck programme terminated?",
+    "response": "The override protocol has been initiated.",
+    "user": "PICARD"
+  },
+  {
+    "query": "On whose authority?",
+    "response": "Lieutenant Geordi La Forge.",
+    "user": "PICARD"
+  },
+  {
+    "query": "Computer, where is Doctor Pulaski.",
+    "response": "Doctor Pulaski is on holodeck two.",
+    "user": "PICARD"
+  },
+  {
+    "query": "And her vital signs?",
+    "response": "Strong and stable.",
+    "user": "PICARD"
+  },
+  {
+    "query": "Computer, tell me, is the programme still running?",
+    "response": "Affirmative. You may enter.",
+    "user": "PICARD"
+  }
+]
