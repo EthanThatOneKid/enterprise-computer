@@ -1,34 +1,50 @@
 [
   {
-    "query": "Setting, San Francisco California, United States Of America. The year, 1945 A.D. The office of Dixon Hill, Private Investigator.",
-    "response": "Programme complete. You may enter when ready."
+    "computerReply": "Programme complete. You may enter when ready.",
+    "situationalContext": "Picard is outside the Holodeck, setting up a program.",
+    "userName": "Picard",
+    "userQuery": "Setting, San Francisco California, United States Of America. The year, 1945 A.D. The office of Dixon Hill, Private Investigator."
   },
   {
-    "query": "Reconfigure.",
-    "response": "Please define."
+    "computerReply": "Please define.",
+    "situationalContext": "Picard is in the Holodeck, experiencing a violent scene.",
+    "userName": "Picard",
+    "userQuery": "Computer, freeze programme. Computer, this isn't what I wanted at all. It's much to violent. I'm here to relax, not to dodge bullets. Reconfigure."
   },
   {
-    "query": "Reconfigure.",
-    "response": "Do you wish to leave the holodeck and re-enter, or continue from this point?"
+    "computerReply": "Do you wish to leave the holodeck and re-enter, or continue from this point?",
+    "situationalContext": "Picard is in the Holodeck, defining his reconfigure request.",
+    "userName": "Picard",
+    "userQuery": "More ambience. Less substance."
   },
   {
-    "query": "I will continue.",
-    "response": "Programme complete. You may continue."
+    "computerReply": "Programme complete. You may continue.",
+    "situationalContext": "Picard is in the Holodeck, deciding to continue the program.",
+    "userName": "Picard",
+    "userQuery": "I will continue."
   },
   {
-    "query": "Reconfigure.",
-    "response": "You may continue."
+    "computerReply": "You may continue.",
+    "situationalContext": "Picard is in the Holodeck, still dissatisfied with the program's violence.",
+    "userName": "Picard",
+    "userQuery": "Computer, freeze programme. Clear. Computer, this still isn't right. One kind of violence is being substituted for another. Reconfigure."
   },
   {
-    "query": "Computer, freeze programme! Variations on a theme. Computer, perhaps I am not clearly defining my intent.",
-    "response": "The flexibility of the programme is limited to the parameters of the Dixon Hill novels."
+    "computerReply": "The flexibility of the programme is limited to the parameters of the Dixon Hill novels.",
+    "situationalContext": "Picard is in the Holodeck, trying to adjust the program again.",
+    "userName": "Picard",
+    "userQuery": "Computer, freeze programme! Variations on a theme. Computer, perhaps I am not clearly defining my intent."
   },
   {
-    "query": "Hello, computer? Is Commander Riker still on the Bridge?",
-    "response": "Negative. Riker is currently in holodeck three."
+    "computerReply": "Negative. Riker is currently in holodeck three.",
+    "situationalContext": "Lwaxana is in a corridor, asking the computer about Riker's location.",
+    "userName": "Lwaxana",
+    "userQuery": "Hello, computer? Is Commander Riker still on the Bridge?"
   },
   {
-    "query": "Holodeck? Where is that?",
-    "response": "Follow the comm. panel lights. They will lead you there."
+    "computerReply": "Follow the comm. panel lights. They will lead you there.",
+    "situationalContext": "Lwaxana is in a corridor, asking the computer for directions to the holodeck.",
+    "userName": "Lwaxana",
+    "userQuery": "Holodeck? Where is that?"
   }
 ]

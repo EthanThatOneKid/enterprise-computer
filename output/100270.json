@@ -1,7 +1,8 @@
 [
   {
-    "query": "Computer, where is Lieutenant Worf?",
-    "response": "Lieutenant Worf is in Ensign Calloway's quarters.",
-    "user": "Troi"
+    "computerReply": "Lieutenant Worf is in Ensign Calloway's quarters.",
+    "situationalContext": "Troi is in her quarters and asks the computer to locate Worf.",
+    "userName": "Troi",
+    "userQuery": "Computer, where is Lieutenant Worf?"
   }
 ]

@@ -1,22 +1,20 @@
 [
   {
-    "query": "Computer, scan the storage capsule. Analyse molecular sequences on nucleic acid chains.",
-    "response": ""
+    "computerReply": "Information on this sector is incomplete. No correlation.",
+    "situationalContext": "Data is attempting to match navigational data from the escape pod to known star charts.",
+    "userName": "Data",
+    "userQuery": "run transformational matrix calculations. Match navigational referents to known stars in this sector."
   },
   {
-    "query": "Computer, run transformational matrix calculations. Match navigational referents to known stars in this sector.",
-    "response": "Information on this sector is incomplete. No correlation."
+    "computerReply": "Affirmative.",
+    "situationalContext": "Data queries the computer to find a specific pulsar within sensor range to establish a temporal reference.",
+    "userName": "Data",
+    "userQuery": "assume these symbols are pulsars. Translate associated values into standard temporal notations. Computer, is there a pulsar with a rotational period of one point five two four four seconds within sensor range?"
   },
   {
-    "query": "Computer, assume those symbols are pulsars. Translate associated values into standard temporal notations.",
-    "response": ""
-  },
-  {
-    "query": "Computer, is there a pulsar with a rotational period of one point five two four four seconds within sensor range?",
-    "response": "Affirmative."
-  },
-  {
-    "query": "Computer, overlay navigational chart using referenced pulsars and project a flight path back to it's origin.",
-    "response": "Flight path originated at bearing zero zero three, mark zero one five. Distance, two point three parsecs."
+    "computerReply": "Flight path originated at bearing zero zero three, mark zero one five. Distance, two point three parsecs.",
+    "situationalContext": "La Forge instructs the computer to project the escape pod's flight path back to its origin using referenced pulsars.",
+    "userName": "La Forge",
+    "userQuery": "overlay navigational chart using referenced pulsars and project a flight path back to it's origin."
   }
 ]

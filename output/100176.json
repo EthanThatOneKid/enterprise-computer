@@ -1,6 +1,8 @@
 [
   {
-    "query": "Computer, turn off that noise! Computer, what was that?",
-    "response": "The Alba Ra, a contemporary Talarian musical form."
+    "computerReply": "The Alba Ra, a contemporary Talarian musical form.",
+    "situationalContext": "Picard is in his quarters, where Jono has rigged a hammock and is playing loud alien music.",
+    "userName": "PICARD",
+    "userQuery": "Computer, what was that?"
   }
 ]

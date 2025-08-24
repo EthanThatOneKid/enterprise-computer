@@ -1,12 +1,14 @@
 [
   {
-    "query": "We are looking for the lodging chamber of Captain Jean-Luc Picard.",
-    "response": "A file scan reveals no record of a Captain Picard currently visiting Risa.",
-    "user": "AJUR"
+    "computerReply": "A file scan reveals no record of a Captain Picard currently visiting Risa.",
+    "situationalContext": "Two aliens beam in and go to the information desk.",
+    "userName": "Ajur",
+    "userQuery": "We are looking for the lodging chamber of Captain Jean-Luc Picard."
   },
   {
-    "query": "When is he expected to arrive?",
-    "response": "Where is no arrival date on file for any such individual.",
-    "user": "AJUR"
+    "computerReply": "Where is no arrival date on file for any such individual.",
+    "situationalContext": "Ajur is at the information desk, asking about Captain Picard.",
+    "userName": "Ajur",
+    "userQuery": "When is he expected to arrive?"
   }
 ]

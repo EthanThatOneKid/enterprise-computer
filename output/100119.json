@@ -1,26 +1,37 @@
 [
   {
-    "query": "Last question on the hyperspace physics test. If the matter and antimatter tanks on a Galaxy class starship are nine tenths depleted, calculate the intermix ratio necessary to reach a starbase a hundred light years away at warp factor eight. Begin.",
-    "response": "Time elapsed. You now have one hour free before the next test."
+    "computerReply": "COMPUTER: Last question on the hyperspace physics test. If the matter and antimatter tanks on a Galaxy class starship are nine tenths depleted, calculate the intermix ratio necessary to reach a starbase a hundred light years away at warp factor eight. Begin.",
+    "situationalContext": "The Computer is presenting the last question of a physics test to candidates.",
+    "userQuery": "The test question is presented by the Computer; there is no direct user query."
   },
   {
-    "query": "Computer reads the ID number of Jake Kurland. Bridge to main Shuttlebay. Mister Kurland, this is Lieutenant Yar. Respond.",
-    "response": "Evacuate immediately. Sixty five seconds to seal off."
+    "computerReply": "COMPUTER: Time elapsed. You now have one hour free before the next test.",
+    "situationalContext": "The Computer is announcing the end of a test and the start of a break period.",
+    "userQuery": "No direct user query; the Computer is managing the test timeline."
   },
   {
-    "query": "Help me!",
-    "response": "Thirty seconds to seal off."
+    "computerReply": "COMPUTER: Evacuate immediately. Sixty five seconds to seal off.",
+    "situationalContext": "During a simulated emergency in the Environmental Maintenance Laboratory.",
+    "userQuery": "No direct user query; this is an automated emergency announcement."
   },
   {
-    "query": "Come on! I can't carry you both! You're not hurt.",
-    "response": "Ten seconds to seal off."
+    "computerReply": "COMPUTER: Thirty seconds to seal off.",
+    "situationalContext": "During a simulated emergency in the Environmental Maintenance Laboratory, providing a countdown.",
+    "userQuery": "No direct user query; this is an automated emergency announcement."
   },
   {
-    "query": "(The dynamics relationships test is on the screens, and there are a lot of beeps going on)",
-    "response": "Time elapsed."
+    "computerReply": "COMPUTER: Twenty seconds to seal off.",
+    "situationalContext": "During a simulated emergency in the Environmental Maintenance Laboratory, providing a countdown.",
+    "userQuery": "No direct user query; this is an automated emergency announcement."
   },
   {
-    "query": "Commander Remmick, report to Admiral Quinn.",
-    "response": "On my way, sir."
+    "computerReply": "COMPUTER: Ten seconds to seal off.",
+    "situationalContext": "During a simulated emergency in the Environmental Maintenance Laboratory, providing a countdown.",
+    "userQuery": "No direct user query; this is an automated emergency announcement."
+  },
+  {
+    "computerReply": "COMPUTER: Time elapsed.",
+    "situationalContext": "The Computer is announcing the end of the dynamics relationships test.",
+    "userQuery": "No direct user query; the Computer is managing the test timeline."
   }
 ]

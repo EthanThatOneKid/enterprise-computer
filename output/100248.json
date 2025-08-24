@@ -1,18 +1,20 @@
 [
   {
-    "query": "Computer, access ship's medical logs and download current autopsy files.",
-    "response": "Autopsy files are restricted to active medical personnel only. Access denied."
+    "computerReply": "Autopsy files are restricted to active medical personnel only. Access denied.",
+    "situationalContext": "Crusher is in her office, attempting to access ship's medical logs.",
+    "userName": "CRUSHER",
+    "userQuery": "Computer, access ship's medical logs and download current autopsy files."
   },
   {
-    "query": "Computer, access autopsy files.",
-    "response": "I assume you'll need the files on Doctor Reyga and Jo'Bril?"
+    "computerReply": "External temperature zero point eight million Kelvins and rising.",
+    "situationalContext": "Crusher is piloting a shuttle towards the sun's corona and requests temperature monitoring.",
+    "userName": "CRUSHER",
+    "userQuery": "Computer, begin monitoring external temperature."
   },
   {
-    "query": "Computer, begin monitoring external temperature.",
-    "response": "External temperature zero point eight million Kelvins and rising."
-  },
-  {
-    "query": "Computer, shield status?",
-    "response": "Metaphasic shield holding. All systems within normal operating parameters."
+    "computerReply": "Metaphasic shield holding. All systems within normal operating parameters.",
+    "situationalContext": "Crusher is inside the sun's corona in the shuttle and asks for the shield status.",
+    "userName": "CRUSHER",
+    "userQuery": "Computer, shield status?"
   }
 ]

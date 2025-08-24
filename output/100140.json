@@ -1,10 +1,8 @@
 [
   {
-    "query": "Computer, is this it?",
-    "response": "Correct. Klingon Rite of Ascension Chamber."
-  },
-  {
-    "query": "Computer, please give us Klingon personnel appropriate to this event.",
-    "response": "These images are specifically programmed for Ascension rites."
+    "computerReply": "Correct. Klingon Rite of Ascension Chamber.",
+    "situationalContext": "A forbidding setting, lit with red light. There is a channel between two raised platforms.",
+    "userName": "Data",
+    "userQuery": "is this it?"
   }
 ]

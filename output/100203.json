@@ -1,6 +1,8 @@
 [
   {
-    "query": "Computer, locate Ensign Ro.",
-    "response": "Ensign Ro is not on board the Enterprise."
+    "computerReply": "Ensign Ro is not on board the Enterprise.",
+    "situationalContext": "In the Transporter room, Picard and Riker are looking for Ensign Ro, who is missing.",
+    "userName": "Data",
+    "userQuery": "Computer, locate Ensign Ro."
   }
 ]

@@ -1,50 +1,80 @@
 [
   {
-    "query": "Computer, programme the holodeck for a woodland setting, with a bridle path and an appropriate mount.",
-    "response": "Type of mount? Andorian Zabathu, Klingon Sark"
+    "computerReply": "Type of mount? Andorian Zabathu, Klingon Sark",
+    "situationalContext": "Picard and Troi are in a corridor, discussing horses, and Picard instructs the computer to program the holodeck.",
+    "userName": "Picard",
+    "userQuery": "Computer, programme the holodeck for a woodland setting, with a bridle path and an appropriate mount."
   },
   {
-    "query": "Horse. Earth horse.",
-    "response": "Breed?"
+    "computerReply": "Breed?",
+    "situationalContext": "Picard is specifying the type of mount for the holodeck program.",
+    "userName": "Picard",
+    "userQuery": "Horse. Earth horse."
   },
   {
-    "query": "Oh yes, computer, English tack, and I will control the animal myself.",
-    "response": "Enter when ready."
+    "computerReply": "Enter when ready.",
+    "situationalContext": "Picard is finalizing the holodeck program details for his horse ride.",
+    "userName": "Picard",
+    "userQuery": "Arabian. The Arabs believed that Allah gathered the south wind and made the horse. I like that. Oh yes, computer, English tack, and I will control the animal myself."
   },
   {
-    "query": "Computer, identify please.",
-    "response": "Sensors indicate low-level rf waves."
+    "computerReply": "Sensors indicate low-level rf waves.",
+    "situationalContext": "Data is in his quarters, investigating faint signals with modified sensors.",
+    "userName": "Data",
+    "userQuery": "Computer, identify please."
   },
   {
-    "query": "Is there a pattern?",
-    "response": "Affirmative."
+    "computerReply": "Affirmative.",
+    "situationalContext": "Data is in his quarters, investigating faint signals with modified sensors.",
+    "userName": "Data",
+    "userQuery": "Is there a pattern?"
   },
   {
-    "query": "Naturally occurring?",
-    "response": "Negative."
+    "computerReply": "Negative.",
+    "situationalContext": "Data is in his quarters, investigating faint signals with modified sensors.",
+    "userName": "Data",
+    "userQuery": "Naturally occurring?"
   },
   {
-    "query": "Key universal translator, please.",
-    "response": "Unable to comply. Weak signal."
+    "computerReply": "Unable to comply. Weak signal.",
+    "situationalContext": "Data is in his quarters, attempting to translate a weak signal.",
+    "userName": "Data",
+    "userQuery": "Key universal translator, please."
   },
   {
-    "query": "Lock on comm. link and boost.",
-    "response": "Lock on complete."
+    "computerReply": "Lock on complete.",
+    "situationalContext": "Data is in his quarters, attempting to boost a weak signal.",
+    "userName": "Data",
+    "userQuery": "Lock on comm. link and boost."
   },
   {
-    "query": "Read, please.",
-    "response": "Insufficient signal strength."
+    "computerReply": "Insufficient signal strength.",
+    "situationalContext": "Data is in his quarters, attempting to read a boosted signal.",
+    "userName": "Data",
+    "userQuery": "Read, please."
   },
   {
-    "query": "Computer, please access all volcanic and tectonic plate activity in Drema Four.",
-    "response": "Accessing."
+    "computerReply": "Accessing.",
+    "situationalContext": "Data is on the Bridge, requesting geological data for Drema Four.",
+    "userName": "Data",
+    "userQuery": "Computer, please access all volcanic and tectonic plate activity in Drema Four."
   },
   {
-    "query": "Computer, locate Captain Picard.",
-    "response": "Captain Picard is on holodeck three."
+    "computerReply": "Captain Picard is on holodeck three.",
+    "situationalContext": "Data is on the Bridge, trying to locate Captain Picard.",
+    "userName": "Data",
+    "userQuery": "Computer, locate Captain Picard."
   },
   {
-    "query": "Reason for failure?",
-    "response": "Atmospheric activity interfering with RF signal."
+    "computerReply": "Unable to complete transmission.",
+    "situationalContext": "Data is in his quarters, attempting to contact Sarjenka, but the computer reports a transmission failure.",
+    "userName": "Data",
+    "userQuery": "Sarjenka, this is Data. Respond please."
+  },
+  {
+    "computerReply": "Atmospheric activity interfering with RF signal.",
+    "situationalContext": "Data is in his quarters, asking the computer for the reason behind the transmission failure.",
+    "userName": "Data",
+    "userQuery": "Reason for failure?"
   }
 ]

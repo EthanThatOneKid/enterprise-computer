@@ -1,30 +1,32 @@
 [
   {
-    "query": "Computer. Programme complete. Save. Coming Commander?",
-    "response": ""
+    "computerReply": "COMPUTER: Commander Data is on the Bridge.",
+    "situationalContext": "Picard needs to find Data on the ship.",
+    "userQuery": "Computer, locate Commander Data for me."
   },
   {
-    "query": "Computer on.",
-    "response": ""
+    "computerReply": "COMPUTER: Does Riker, William T. concur?",
+    "situationalContext": "Picard initiates the self-destruct sequence.",
+    "userQuery": "Initiate auto-destruct sequence."
   },
   {
-    "query": "Computer engaged.",
-    "response": "Emergency power engaged."
+    "computerReply": "COMPUTER: Desired time interval?",
+    "situationalContext": "Riker concurs with the auto-destruct sequence.",
+    "userQuery": "I do. Initiate auto-destruct sequence."
   },
   {
-    "query": "Computer, locate Commander Data for me.",
-    "response": "Commander Data is on the Bridge."
+    "computerReply": "COMPUTER: Twenty minutes to auto-destruct. Nineteen minutes, fifty seconds",
+    "situationalContext": "Picard sets the auto-destruct timer.",
+    "userQuery": "Initiate auto-destruct. Interval, twenty minutes."
   },
   {
-    "query": "Computer, any heading, warp six. Now!",
-    "response": "Fifty seconds to auto-destruct. Forty seconds to auto-destruct."
+    "computerReply": "COMPUTER: Riker, William T. Do you concur?",
+    "situationalContext": "Picard orders the auto-destruct sequence to be aborted.",
+    "userQuery": "Abort auto-destruct sequence."
   },
   {
-    "query": "Computer. Ten seconds to auto-destruct.",
-    "response": ""
-  },
-  {
-    "query": "Computer. Abort auto-destruct sequence.",
-    "response": "Riker, William T. Do you concur?"
+    "computerReply": "COMPUTER: Auto-destruct cancelled.",
+    "situationalContext": "Riker provides his concurrence to abort the auto-destruct.",
+    "userQuery": "Yes! Absolutely! I do indeed concur wholeheartedly!"
   }
 ]

@@ -1,34 +1,26 @@
 [
   {
-    "query": "Computer locate Tam Elbrun.",
-    "response": "Tam Elbrun is in turbolift one, en route to the main Bridge."
+    "computerReply": "Tam Elbrun is in turbolift one, en route to the main Bridge.",
+    "situationalContext": "Picard had just seen the magnified image of Tin Man and found it remarkable.",
+    "userName": "Picard",
+    "userQuery": "locate Tam Elbrun."
   },
   {
-    "query": "Computer, reconfigure structural integrity power to feed inner deflector grid.",
-    "response": "Unable to comply. Requested reroute would compromise operational safety limits."
+    "computerReply": "Unable to comply. Requested reroute would compromise operational safety limits.",
+    "situationalContext": "LaForge was working on restoring the ship's shields after a Romulan attack.",
+    "userName": "LaForge",
+    "userQuery": "reconfigure structural integrity power to feed inner deflector grid."
   },
   {
-    "query": "Override. Authorization La Forge theta two nine nine seven.",
-    "response": "Rerouting structural integrity power supply."
+    "computerReply": "Rerouting structural integrity power supply.",
+    "situationalContext": "LaForge was attempting to override safety limits to reroute power for the shields.",
+    "userName": "LaForge",
+    "userQuery": "Override. Authorization La Forge theta two nine nine seven."
   },
   {
-    "query": "Computer, run level two diagnostic.",
-    "response": "Port sensor array remains offline."
-  },
-  {
-    "query": "Data to Enterprise. Enterprise, come in.",
-    "response": ""
-  },
-  {
-    "query": "Enterprise, respond.",
-    "response": ""
-  },
-  {
-    "query": "O'Brien to Bridge.",
-    "response": "Go ahead, Chief."
-  },
-  {
-    "query": "Computer target lock not functioning.",
-    "response": ""
+    "computerReply": "Port sensor array remains offline.",
+    "situationalContext": "LaForge was performing diagnostics on the sensor arrays after power rerouting.",
+    "userName": "LaForge",
+    "userQuery": "run level two diagnostic."
   }
 ]

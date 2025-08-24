@@ -1,26 +1,14 @@
 [
   {
-    "query": "Energy depletion level?",
-    "response": "Point oh four percent and increasing."
+    "computerReply": "Point oh four percent and increasing.",
+    "situationalContext": "LaForge is checking the energy depletion level in Engineering.",
+    "userName": "LAFORGE",
+    "userQuery": "Energy depletion level?"
   },
   {
-    "query": "Warning, resonant field applied.",
-    "response": ""
-  },
-  {
-    "query": "Really, it's quite simple. You just tell the computer what you want and it prepares it for you.",
-    "response": "Oh. What should I order?"
-  },
-  {
-    "query": "I know. Computer, Thalian chocolate mousse.",
-    "response": ""
-  },
-  {
-    "query": "Wait. Computer, Rosseau Five.",
-    "response": ""
-  },
-  {
-    "query": "Energy depletion level?",
-    "response": "Zero."
+    "computerReply": "Zero.",
+    "situationalContext": "LaForge is checking the energy depletion level in Engineering after completing adjustments.",
+    "userName": "LAFORGE",
+    "userQuery": "Energy depletion level?"
   }
 ]

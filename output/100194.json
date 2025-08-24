@@ -1,7 +1,8 @@
 [
   {
-    "query": "Computer, locate Council Member Vash.",
-    "response": "Council Member Vash is not aboard the Enterprise.",
-    "user": "PICARD"
+    "computerReply": "Council Member Vash is not aboard the Enterprise.",
+    "situationalContext": "Picard is in the meeting room with his crew, asking the computer to locate Vash after the delegates have left.",
+    "userName": "PICARD",
+    "userQuery": "Computer, locate Council Member Vash."
   }
 ]

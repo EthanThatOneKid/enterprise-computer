@@ -1,71 +1,74 @@
 [
-  { "query": "Computer, resume.", "response": "COMPUTER: resume. (no audio)" },
   {
-    "query": "Computer, analyse audio elements from time index fourteen four seven to fifteen five eight. List all anomalies.",
-    "response": "COMPUTER: No audio anomalies present."
+    "computerReply": "No audio anomalies present.",
+    "situationalContext": "Geordi is in Engineering, analysing sensor logs from the original Tarchannen Three investigation.",
+    "userName": "LAFORGE",
+    "userQuery": "All right, computer. Analyse audio elements from time index fourteen four seven to fifteen five eight. List all anomalies."
   },
   {
-    "query": "Any subspace projections, z-particle emissions, interferometric frequencies?",
-    "response": "COMPUTER: No subspace projections present. No z-particle emissions present. No interferometric patterns present."
-  },
-  { "query": "Computer, one more time.", "response": "" },
-  { "query": "Computer, delete the audio.", "response": "" },
-  {
-    "query": "Computer, the shadow currently displayed in section B three, what is its source?",
-    "response": "COMPUTER: Unknown."
+    "computerReply": "No subspace projections present. No z-particle emissions present. No interferometric patterns present.",
+    "situationalContext": "Geordi is in Engineering, continuing his analysis of the sensor logs.",
+    "userName": "LAFORGE",
+    "userQuery": "Any subspace projections, z-particle emissions, interferometric frequencies?"
   },
   {
-    "query": "Computer, replay a visual of the last time index. No audio, and slow to fifty percent. Okay, Brevelle's behind the camera ,Susanna and I head off in that direction. Mendez moves off that way. Freeze visual. Now, magnify four times, and spectrally enhance those shadows.",
-    "response": ""
+    "computerReply": "Please restate question.",
+    "situationalContext": "Geordi is in Engineering, reviewing the sensor log and notices an anomaly.",
+    "userName": "LAFORGE",
+    "userQuery": "Whose shadow is that?"
   },
   {
-    "query": "Computer, do you have sufficient data to compile a holographic simulation of this visual record?",
-    "response": "COMPUTER: A simulation would be limited to areas scanned by the visual recording device."
+    "computerReply": "Unknown.",
+    "situationalContext": "Geordi is in Engineering, trying to identify the source of a shadow in the sensor log.",
+    "userName": "LAFORGE",
+    "userQuery": "Computer, the shadow currently displayed in section B three, what is its source?"
   },
   {
-    "query": "Good, fine. Scan the entire record and then recreate it on holodeck three.",
-    "response": ""
+    "computerReply": "A simulation would be limited to areas scanned by the visual recording device.",
+    "situationalContext": "Geordi is in Engineering, asking the computer if it can compile a holographic simulation of the visual record.",
+    "userName": "LAFORGE",
+    "userQuery": "Computer, do you have sufficient data to compile a holographic simulation of this visual record?"
   },
   {
-    "query": "Computer, is the Tarchannen simulation ready?",
-    "response": "COMPUTER: Affirmative. Programme complete. Enter when ready."
+    "computerReply": "Affirmative. Programme complete. Enter when ready.",
+    "situationalContext": "Geordi is in a corridor, asking the computer if the Tarchannen simulation is ready.",
+    "userName": "LAFORGE",
+    "userQuery": "Computer, is the Tarchannen simulation ready?"
   },
   {
-    "query": "Computer, scan Starfleet records and create a simulation of Brevelle. Place him where he was while recording this.",
-    "response": ""
+    "computerReply": "Affirmative, with an increasing probability of error reaching ninety five percent after ten seconds.",
+    "situationalContext": "Geordi is on the Holodeck, setting up the Tarchannen simulation and asking to extrapolate officer movements.",
+    "userName": "LAFORGE",
+    "userQuery": "Computer, scan Starfleet records and create a simulation of Brevelle. Place him where he was while recording this. Okay, good. Computer, based on their speed and direction, can you extrapolate each officer's movements as they walk out of the recording device's field of view?"
   },
   {
-    "query": "Okay, good. Computer, based on their speed and direction, can you extrapolate each officer's movements as they walk out of the recording device's field of view?",
-    "response": "COMPUTER: Affirmative, with an increasing probability of error reaching ninety five percent after ten seconds."
-  },
-  { "query": "Understood. Run simulation.", "response": "" },
-  {
-    "query": "Computer, freeze. It's all happening too fast. Computer, reverse simulation. Run it back to time index fourteen seven two.",
-    "response": ""
+    "computerReply": "There is no object in the programme which could generate the shadow.",
+    "situationalContext": "Geordi is on the Holodeck, analysing the simulation and asking the computer to identify the source of a mysterious shadow.",
+    "userName": "LAFORGE",
+    "userQuery": "Computer, using vector analysis, identify the source of this shadow."
   },
   {
-    "query": "Freeze programme. Computer, remove La Forge. And now remove Leitjen. And now remove Mendez.",
-    "response": ""
+    "computerReply": "There is insufficient data to reconstruct the requested object.",
+    "situationalContext": "Geordi is on the Holodeck, trying to determine the shape and position of the object causing the shadow.",
+    "userName": "LAFORGE",
+    "userQuery": "Computer, given the distance between the light and the wall, can you determine the most likely shape and position of the object causing this shadow?"
   },
   {
-    "query": "Computer, using vector analysis, identify the source of this shadow.",
-    "response": "COMPUTER: There is no object in the programme which could generate the shadow."
+    "computerReply": "Affirmative.",
+    "situationalContext": "Geordi is on the Holodeck, providing additional information to help the computer extrapolate the shadow's source.",
+    "userName": "LAFORGE",
+    "userQuery": "All right, let's say that my friend and I here are about the same size, say one pint seven metres. Now, can you extrapolate its shape and its position?"
   },
   {
-    "query": "There has to be something between the camera light and this wall. Computer, given the distance between the light and the wall, can you determine the most likely shape and position of the object causing this shadow?",
-    "response": "COMPUTER: There is insufficient data to reconstruct the requested object."
+    "computerReply": "Commander La Forge is not on board the Enterprise.",
+    "situationalContext": "Doctor Crusher is in Sickbay, trying to locate Commander La Forge.",
+    "userName": "CRUSHER",
+    "userQuery": "Computer, locate Commander La Forge."
   },
   {
-    "query": "All right, let's say that my friend and I here are about the same size, say one pint seven metres. Now, can you extrapolate its shape and its position?",
-    "response": "COMPUTER: Affirmative."
-  },
-  { "query": "Do it.", "response": "" },
-  {
-    "query": "Computer, locate Commander La Forge.",
-    "response": "COMPUTER: Commander La Forge is not on board the Enterprise."
-  },
-  {
-    "query": "Computer, what was the last known location of Commander La Forge?",
-    "response": "COMPUTER: Holodeck three."
+    "computerReply": "Holodeck three.",
+    "situationalContext": "Captain Picard is on the Bridge, trying to determine Commander La Forge's last known location.",
+    "userName": "PICARD",
+    "userQuery": "Computer, what was the last known location of Commander La Forge?"
   }
 ]

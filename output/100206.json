@@ -1,42 +1,8 @@
 [
   {
-    "query": "Computer, secure Sickbay.",
-    "response": "All entries to Sickbay are secured."
-  },
-  {
-    "query": "Computer, increase light level.",
-    "response": ""
-  },
-  {
-    "query": "Computer, enhance frontal lobe, full spectrum.",
-    "response": ""
-  },
-  {
-    "query": "Computer, all senior officers report to the Bridge. On screen.",
-    "response": ""
-  },
-  {
-    "query": "Computer, activate security containment field. Deck thirty six, section fifty two.",
-    "response": ""
-  },
-  {
-    "query": "Computer transport programme Crusher One.",
-    "response": ""
-  },
-  {
-    "query": "Computer, shut down all transporter systems and shuttlebays. Mister La Forge?",
-    "response": ""
-  },
-  {
-    "query": "Computer, resume normal illumination.",
-    "response": ""
-  },
-  {
-    "query": "Computer, you will find a small alien ship off the starboard bow. Please secure it with a tractor beam and raise our shields.",
-    "response": ""
-  },
-  {
-    "query": "We programmed the main computer to transmit the same optical burst to all display screens, work stations and terminals throughout the ship.",
-    "response": ""
+    "computerReply": "All entries to Sickbay are secured.",
+    "situationalContext": "Crusher switches Data off, then Troi and Riker enter. Will puts Data on a biobed.",
+    "userName": "RIKER",
+    "userQuery": "secure Sickbay."
   }
 ]

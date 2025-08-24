@@ -1,6 +1,8 @@
 [
   {
-    "query": "Computer, presentation overview of Klingon custom and law pertaining to familial accountability.",
-    "response": "Accessing."
+    "computerReply": "Accessing.",
+    "situationalContext": "Bridge",
+    "userName": "PICARD",
+    "userQuery": "Mister Data, find out everything you can about the destruction of the Khitomer outpost. Cross reference with Romulan tactics and strategic information on the region, and request access to the Klingon central information net. Computer, presentation overview of Klingon custom and law pertaining to familial accountability."
   }
 ]

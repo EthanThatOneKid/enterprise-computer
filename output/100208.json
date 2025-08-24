@@ -1,6 +1,8 @@
 [
   {
-    "query": "Computer, initiate linkage between this terminal and starbase computer system alpha two nine.",
-    "response": "Linkage complete."
+    "computerReply": "Linkage complete.",
+    "situationalContext": "[Ready room]",
+    "userName": "BRACKETT",
+    "userQuery": "initiate linkage between this terminal and starbase computer system alpha two nine."
   }
 ]

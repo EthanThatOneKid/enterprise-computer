@@ -1,6 +1,8 @@
 [
   {
-    "query": "Computer, reset simulation to time index two point one. Increase Borg strength by thirty percent.",
-    "response": "Unable to comply. A thirty percent increase would exceed safety limits."
+    "computerReply": "Unable to comply. A thirty percent increase would exceed safety limits.",
+    "situationalContext": "Data is in the holodeck, attempting to recreate the experience which caused his initial burst of anger, and is struggling with the Borg.",
+    "userName": "Data",
+    "userQuery": "Computer, reset simulation to time index two point one. Increase Borg strength by thirty percent."
   }
 ]

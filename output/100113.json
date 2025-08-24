@@ -1,27 +1,32 @@
 [
   {
-    "query": "Earth, United States, San Francisco, California.",
-    "response": "Time period?",
-    "user": "PICARD"
+    "computerReply": "Time period?",
+    "situationalContext": "Outside Holodeck",
+    "userName": "PICARD",
+    "userQuery": "Earth, United States, San Francisco, California."
   },
   {
-    "query": "1941, A.D.",
-    "response": "File or access code.",
-    "user": "PICARD"
+    "computerReply": "File or access code.",
+    "situationalContext": "Outside Holodeck",
+    "userName": "PICARD",
+    "userQuery": "1941, A.D."
   },
   {
-    "query": "File Dixon Hill, private detective.",
-    "response": "Enter when ready.",
-    "user": "PICARD"
+    "computerReply": "Enter when ready.",
+    "situationalContext": "Outside Holodeck",
+    "userName": "PICARD",
+    "userQuery": "File Dixon Hill, private detective."
   },
   {
-    "query": "Memory, save current setting.",
-    "response": "Current setting saved.",
-    "user": "PICARD"
+    "computerReply": "Current setting saved.",
+    "situationalContext": "Outside Holodeck",
+    "userName": "PICARD",
+    "userQuery": "Memory, save current setting."
   },
   {
-    "query": "Computer: request all biographical information on fictional character Dixon Hill.",
-    "response": "Working. Character first appeared in pulp magazine, Amazing Detective Stories, copyright 1934, AD. Second appearance in novel The Long Dark Tunnel, copyright 1936.",
-    "user": "DATA"
+    "computerReply": "Working. Character first appeared in pulp magazine, Amazing Detective Stories, copyright 1934, AD. Second appearance in novel The Long Dark Tunnel, copyright 1936.",
+    "situationalContext": "Bridge",
+    "userName": "DATA",
+    "userQuery": "request all biographical information on fictional character Dixon Hill."
   }
 ]

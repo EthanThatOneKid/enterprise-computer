@@ -1,10 +1,14 @@
 [
   {
-    "query": "Computer, run diagnostic on module L seven three.",
-    "response": "(male) All circuits functional."
+    "computerReply": "All circuits functional.",
+    "situationalContext": "On cargo deck five, Data, Riker, LaForge, and Dealt are examining a growing specimen.",
+    "userName": "Data",
+    "userQuery": "run diagnostic on module L seven three."
   },
   {
-    "query": "Computer, inquiry. Is growth actually occurring in module L seven three?",
-    "response": "Confirmed."
+    "computerReply": "Confirmed.",
+    "situationalContext": "On cargo deck five, Data, Riker, LaForge, and Dealt are examining a growing specimen, trying to understand why it's growing.",
+    "userName": "Data",
+    "userQuery": "inquiry. Is growth actually occurring in module L seven three?"
   }
 ]

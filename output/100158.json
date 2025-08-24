@@ -1,31 +1,20 @@
 [
   {
-    "query": "Computer, file programme and clear.",
-    "response": "Programme complete."
-  },
-  { "query": "Computer, water.", "response": "Temperature?" },
-  {
-    "query": "Any temperature at all on the cold side of whatever your system is.",
-    "response": "This system is calibrated to the Celsius metric system."
+    "computerReply": "Temperature?",
+    "situationalContext": "Setal, in guest quarters, requests water from the computer.",
+    "userName": "Setal",
+    "userQuery": "water."
   },
   {
-    "query": "Computer, Captain Picard, priority one message from Starfleet coming in on secured channel.",
-    "response": "Captain Picard, priority one message from Starfleet coming in on secured channel."
+    "computerReply": "This system is calibrated to the Celsius metric system.",
+    "situationalContext": "Setal, in guest quarters, specifies a temperature for his water, which the computer cannot understand.",
+    "userName": "Setal",
+    "userQuery": "Twelve onkians."
   },
   {
-    "query": "Computer, delay time?",
-    "response": "Two hours, twenty two minute delay from time of transmission"
-  },
-  {
-    "query": "Computer, key access four one two mark eight zero. Picard, Jean-Luc. Starfleet priority code Gamma. Decode. Begin message.",
-    "response": "At Starfleet Command on Lya Three."
-  },
-  {
-    "query": "Computer, Programme complete.",
-    "response": "Programme complete."
-  },
-  {
-    "query": "Computer, Captain Picard, priority message from security officer, Klingon vessel Bortas.",
-    "response": "Captain Picard, priority message from security officer, Klingon vessel Bortas."
+    "computerReply": "Two hours, twenty two minute delay from time of transmission",
+    "situationalContext": "Picard asks the computer about the delay of a priority message from Starfleet.",
+    "userName": "Picard",
+    "userQuery": "delay time?"
   }
 ]

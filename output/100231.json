@@ -1,97 +1,50 @@
 [
   {
-    "query": "what is the time, please?",
-    "response": "The time is fourteen twenty seven hours.",
-    "user": "Data"
+    "computerReply": "The time is fourteen twenty seven hours.",
+    "situationalContext": "Data and LaForge are in the Cargo bay, discussing the time discrepancy after LaForge's hour-long memory gap.",
+    "userName": "Data",
+    "userQuery": "Computer, what is the time, please?"
   },
   {
-    "query": "are there any members of the crew of the Enterprise missing?",
-    "response": "There are two crewmembers unaccounted for.",
-    "user": "Picard"
+    "computerReply": "There are two crewmembers unaccounted for.",
+    "situationalContext": "Picard, Crusher, and Data are in Sickbay, investigating the tetryon particles and Data's missing time.",
+    "userName": "Picard",
+    "userQuery": "Computer, are there any members of the crew of the Enterprise missing?"
   },
   {
-    "query": "Identify them.",
-    "response": "Lieutenant Edward Hagler and Ensign Sariel Rager.",
-    "user": "Picard"
+    "computerReply": "Lieutenant Edward Hagler and Ensign Sariel Rager.",
+    "situationalContext": "Picard is in Sickbay, asking the Computer to identify the unaccounted crewmembers.",
+    "userName": "Picard",
+    "userQuery": "Identify them."
   },
   {
-    "query": "When did they leave?",
-    "response": "They have not been present since twenty three thirty two hours.",
-    "user": "Picard"
+    "computerReply": "They have not been present since twenty three thirty two hours.",
+    "situationalContext": "Picard is in Sickbay, asking the Computer about the departure time of the missing crewmembers.",
+    "userName": "Picard",
+    "userQuery": "When did they leave?"
   },
   {
-    "query": "How did they leave?",
-    "response": "Method of departure unknown.",
-    "user": "Picard"
+    "computerReply": "Method of departure unknown.",
+    "situationalContext": "Picard is in Sickbay, asking the Computer about the method of departure for the missing crewmembers.",
+    "userName": "Picard",
+    "userQuery": "How did they leave?"
   },
   {
-    "query": "emergency entry, Chief Medical Officer Beverly Crusher.",
-    "response": "",
-    "user": "Crusher"
+    "computerReply": "There are five thousand forty seven classifications of tables on file. Specify design parameters.",
+    "situationalContext": "Troi, Riker, Worf, LaForge, and Kaminer are in the Holodeck, attempting to recreate a shared memory of a table.",
+    "userName": "Troi",
+    "userQuery": "Computer show me a table."
   },
   {
-    "query": "show me a table.",
-    "response": "There are five thousand forty seven classifications of tables on file. Specify design parameters.",
-    "user": "Troi"
+    "computerReply": "Specify light source.",
+    "situationalContext": "LaForge is in the Holodeck, trying to recreate a bright light from his memory.",
+    "userName": "LaForge",
+    "userQuery": "Computer, give me a bright light right above the table."
   },
   {
-    "query": "show me a rectangular conference table.",
-    "response": "",
-    "user": "Troi"
-  },
-  {
-    "query": "reduce the height of the table by twenty five percent.",
-    "response": "",
-    "user": "LaForge"
-  },
-  {
-    "query": "decrease the table's surface area by twenty percent and incline the top fifteen degrees.",
-    "response": "",
-    "user": "Worf"
-  },
-  {
-    "query": "make this a metal table.",
-    "response": "",
-    "user": "Troi"
-  },
-  {
-    "query": "lower the surrounding light level.",
-    "response": "",
-    "user": "Troi"
-  },
-  {
-    "query": "give me a bright light right above the table.",
-    "response": "Specify light source.",
-    "user": "LaForge"
-  },
-  {
-    "query": "Estimated distance of light source.",
-    "response": "",
-    "user": "Computer"
-  },
-  {
-    "query": "create a restraining arm attached to the right side of the table, at the mid-point.",
-    "response": "",
-    "user": "Troi"
-  },
-  {
-    "query": "put controls on the restraining arm. A control panel. Lights.",
-    "response": "",
-    "user": "Riker"
-  },
-  {
-    "query": "create a metal swing arm, double jointed, total length one metre. Connect it to the head of the table.",
-    "response": "",
-    "user": "Kaminer"
-  },
-  {
-    "query": "produce a pair of scissors attached to the armature. The handle is wrong. It was not scissors. Computer, make the handle a single grip ten centimetres long, solid metal. Now make one blade longer, curved inward. And give the other blade a jagged edge.",
-    "response": "",
-    "user": "Worf"
-  },
-  {
-    "query": "there were noises coming from the darkness. Strange, like whispering.",
-    "response": "",
-    "user": "Riker"
+    "computerReply": "Estimated distance of light source.",
+    "situationalContext": "LaForge is in the Holodeck, specifying the type of light source.",
+    "userName": "LaForge",
+    "userQuery": "An overhead lamp."
   }
 ]

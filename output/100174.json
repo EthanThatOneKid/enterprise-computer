@@ -1,7 +1,8 @@
 [
   {
-    "query": "Evacuation sequence.",
-    "response": "Sealing doors to core chamber.",
-    "user": "LAFORGE"
+    "computerReply": "Sealing doors to core chamber.",
+    "situationalContext": "The Enterprise is under attack by the Borg, and Engineering is experiencing a hull breach, prompting an evacuation.",
+    "userName": "La Forge",
+    "userQuery": "Evacuation sequence."
   }
 ]

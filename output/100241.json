@@ -1,6 +1,8 @@
 [
   {
-    "query": "Computer, what is the time right now?",
-    "response": "Sixteen eleven hours."
+    "computerReply": "Sixteen eleven hours.",
+    "situationalContext": "Picard is in his Starbase quarters, talking to Q, and asks the computer for the time.",
+    "userName": "Picard",
+    "userQuery": "Computer, what is the time right now?"
   }
 ]

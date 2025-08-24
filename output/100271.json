@@ -1,17 +1,20 @@
 [
   {
-    "query": "send a subspace message to Starfleet command. Security channel authorisation.",
-    "response": "Alpha four seven authorisation required to activate security channel.",
-    "user": "RIKER"
+    "computerReply": "Alpha four seven authorisation required to activate security channel.",
+    "situationalContext": "Riker, affected by a de-evolutionary virus, attempts to send a subspace message to Starfleet Command.",
+    "userName": "Riker",
+    "userQuery": "Computer, send a subspace message to Starfleet command. Security channel authorisation."
   },
   {
-    "query": "",
-    "response": "Awaiting authorisation.",
-    "user": "RIKER"
+    "computerReply": "Awaiting authorisation.",
+    "situationalContext": "Riker, still affected by the virus, struggles to provide the required authorization to the Computer.",
+    "userName": "Riker",
+    "userQuery": "Computer."
   },
   {
-    "query": "display progress of genetic re-sequencing.",
-    "response": "Genetic re-sequencing in progress. DNA to seventy percent normal.",
-    "user": "DATA"
+    "computerReply": "Genetic re-sequencing in progress. DNA to seventy percent normal.",
+    "situationalContext": "Data is in Sickbay, working on a retrovirus to reverse the crew's de-evolution, and requests an update from the computer.",
+    "userName": "Data",
+    "userQuery": "Computer, display progress of genetic re-sequencing."
   }
 ]

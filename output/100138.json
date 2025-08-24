@@ -1,4 +1,8 @@
-[{
-  "query": "Computer, locate and display the text of the novel entitled Hotel Royale by Todd Matthews.",
-  "response": "Accessing."
-}]
+[
+  {
+    "computerReply": "Accessing.",
+    "situationalContext": "Picard is in his ready room, requesting information from the Computer.",
+    "userName": "Picard",
+    "userQuery": "Computer, locate and display the text of the novel entitled Hotel Royale by Todd Matthews."
+  }
+]

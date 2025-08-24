@@ -1,22 +1,20 @@
 [
   {
-    "query": "Computer, where is Alexander Rozhenko?",
-    "response": "Alexander Rozhenko is on holodeck four.",
-    "user": "WORF"
+    "computerReply": "Alexander Rozhenko is on holodeck four.",
+    "situationalContext": "Worf is in Mrs. Kyle's office discussing Alexander's behavior.",
+    "userName": "Worf",
+    "userQuery": "where is Alexander Rozhenko?"
   },
   {
-    "query": "Computer, what programme is being run?",
-    "response": "Calisthenics programme of Lieutenant Worf. Difficulty level, Novice.",
-    "user": "WORF"
+    "computerReply": "Calisthenics programme of Lieutenant Worf. Difficulty level, Novice.",
+    "situationalContext": "Worf is in the corridor, heading to the holodeck.",
+    "userName": "Worf",
+    "userQuery": "what programme is being run?"
   },
   {
-    "query": "Computer, freeze programme.",
-    "response": "",
-    "user": "WORF"
-  },
-  {
-    "query": "Computer, identify humanoid life form in biolab four.",
-    "response": "Life form is identified as Alexander Rozhenko.",
-    "user": "PICARD"
+    "computerReply": "Life form is identified as Alexander Rozhenko.",
+    "situationalContext": "Picard is on the bridge during the soliton wave incident, trying to locate a life form in biolab four.",
+    "userName": "Picard",
+    "userQuery": "identify humanoid life form in biolab four."
   }
 ]

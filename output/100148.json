@@ -1,10 +1,14 @@
 [
   {
-    "query": "Recognise Picard, Jean-Luc, Captain. Recognise Riker, William T, Commander.",
-    "response": "Does the First Officer concur?"
+    "computerReply": "Does the First Officer concur?",
+    "situationalContext": "Picard is in Engineering and orders the auto-destruct sequence.",
+    "userName": "Picard",
+    "userQuery": "Set auto-destruct sequence."
   },
   {
-    "query": "Yes. Set auto-destruct sequence. Now.",
-    "response": "Auto-destruct will detonate in four minutes and fifty-nine seconds."
+    "computerReply": "Auto-destruct will detonate in four minutes and fifty-nine seconds.",
+    "situationalContext": "Riker confirms the auto-destruct sequence to the Computer.",
+    "userName": "Riker",
+    "userQuery": "Yes. Set auto-destruct sequence. Now."
   }
 ]

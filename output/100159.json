@@ -1,6 +1,8 @@
 [
   {
-    "query": "Computer, identify the occupant of the detention cell.",
-    "response": "The detention cell is vacant at this time."
+    "computerReply": "The detention cell is vacant at this time.",
+    "situationalContext": "Riker is on the bridge, discussing the escaped prisoner Roga Danar with Data and Picard, and Data has just stated that the prisoner has no life signs. Riker then asks the computer to identify the occupant of the cell.",
+    "userName": "Riker",
+    "userQuery": "identify the occupant of the detention cell."
   }
 ]

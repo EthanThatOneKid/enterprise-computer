@@ -1,6 +1,44 @@
 [
   {
-    "query": "Prepare firing sequencing.",
-    "response": "Twenty four, twenty three"
+    "computerReply": "Twenty four, twenty three",
+    "situationalContext": "Commander Riker orders the Enterprise computer to begin a photon torpedo firing sequence countdown as part of a ruse to rescue Lieutenant La Forge from the Pakleds.",
+    "userName": "Riker",
+    "userQuery": "Prepare firing sequencing. Start firing countdown from twenty four."
+  },
+  {
+    "computerReply": "Twenty two. twenty one, twenty",
+    "situationalContext": "The Enterprise computer continues the photon torpedo firing sequence countdown as ordered by Commander Riker.",
+    "userName": "Riker",
+    "userQuery": "Prepare firing sequencing. Start firing countdown from twenty four."
+  },
+  {
+    "computerReply": "Eighteen, seventeen",
+    "situationalContext": "The Enterprise computer continues the photon torpedo firing sequence countdown, maintaining the pressure on the Pakleds.",
+    "userName": "Riker",
+    "userQuery": "Prepare firing sequencing. Start firing countdown from twenty four."
+  },
+  {
+    "computerReply": "Sixteen, fifteen",
+    "situationalContext": "The Enterprise computer's photon torpedo firing sequence countdown is heard by Lieutenant La Forge and the Pakleds on their ship.",
+    "userName": "Riker",
+    "userQuery": "Prepare firing sequencing. Start firing countdown from twenty four."
+  },
+  {
+    "computerReply": "Fourteen, thirteen.",
+    "situationalContext": "The Enterprise computer continues the photon torpedo firing sequence countdown, further escalating the tension with the Pakleds.",
+    "userName": "Riker",
+    "userQuery": "Prepare firing sequencing. Start firing countdown from twenty four."
+  },
+  {
+    "computerReply": "Nine, eight, seven, six, five",
+    "situationalContext": "The Enterprise computer nears the critical point of the photon torpedo firing sequence countdown.",
+    "userName": "Riker",
+    "userQuery": "Prepare firing sequencing. Start firing countdown from twenty four."
+  },
+  {
+    "computerReply": "Two, one.",
+    "situationalContext": "The Enterprise computer completes the photon torpedo firing sequence countdown, leading to the 'firing' of the hydrogen exhaust.",
+    "userName": "Riker",
+    "userQuery": "Prepare firing sequencing. Start firing countdown from twenty four."
   }
 ]

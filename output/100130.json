@@ -1,30 +1,37 @@
 [
   {
-    "query": "Computer, I wish to know more about humour. Why certain combinations of words and actions make humans laugh.",
-    "response": "Source material on that subject is extensive. Please specify."
+    "computerReply": "COMPUTER: Source material on that subject is extensive. Please specify.",
+    "situationalContext": "Outside Holodeck",
+    "userQuery": "DATA: Computer, I wish to know more about humour. Why certain combinations of words and actions make humans laugh."
   },
   {
-    "query": "Animated presentation, humanoid. Interaction required.",
-    "response": "Physical humour, cerebral, or general raconteur."
+    "computerReply": "COMPUTER: Physical humour, cerebral, or general raconteur.",
+    "situationalContext": "Outside Holodeck",
+    "userQuery": "DATA: Animated presentation, humanoid. Interaction required."
   },
   {
-    "query": "Of all performers available, who is considered funniest?",
-    "response": "Twenty third century Stan Orega specialised in jokes about quantum mathematics."
+    "computerReply": "COMPUTER: Twenty third century Stan Orega specialised in jokes about quantum mathematics.",
+    "situationalContext": "Outside Holodeck",
+    "userQuery": "DATA: Of all performers available, who is considered funniest?"
   },
   {
-    "query": "No. Too esoteric. More generic.",
-    "response": "Accessing."
+    "computerReply": "COMPUTER: Accessing.",
+    "situationalContext": "Outside Holodeck",
+    "userQuery": "DATA: No. Too esoteric. More generic."
   },
   {
-    "query": "That one. RW nine six three two one, twentieth century.",
-    "response": "Programme installation complete. You may enter."
+    "computerReply": "COMPUTER: Programme installation complete. You may enter.",
+    "situationalContext": "Outside Holodeck",
+    "userQuery": "DATA: That one. RW nine six three two one, twentieth century."
   },
   {
-    "query": "Computer. Programme an audience appropriate to this venue.",
-    "response": "Programme complete. Enter when ready."
+    "computerReply": "COMPUTER: Programme complete. Enter when ready.",
+    "situationalContext": "Outside Holodeck",
+    "userQuery": "DATA: I have reinstated the same programme."
   },
   {
-    "query": "Audience programme off. Discontinue Comic.",
-    "response": ""
+    "computerReply": "COMPUTER: Audience programme off. Discontinue Comic.",
+    "situationalContext": "Charnock's Comedy Cabaret",
+    "userQuery": "DATA: Audience programme off. Discontinue Comic."
   }
 ]

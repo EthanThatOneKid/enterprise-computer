@@ -1,7 +1,8 @@
 [
   {
-    "query": "Computer, run programme K'mtar alpha one.",
-    "response": "Programme initiated. Enter when ready."
-  },
-  { "query": "Computer, resume programme.", "response": "resume programme." }
+    "computerReply": "Programme initiated. Enter when ready.",
+    "situationalContext": "K'mtar, Worf, and Alexander are outside the holodeck, with K'mtar preparing to run a program.",
+    "userName": "K'MTAR",
+    "userQuery": "Computer, run programme K'mtar alpha one."
+  }
 ]

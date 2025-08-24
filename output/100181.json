@@ -1,46 +1,56 @@
 [
   {
-    "query": "Computer, list stardates of the last Enterprise mission to the Klingon home planet.",
-    "response": "Stardates 43685 through 43689."
+    "computerReply": "Stardates 43685 through 43689.",
+    "situationalContext": "K'Ehleyr is in her quarters, asking the computer for historical mission data.",
+    "userName": "K'EHLEYR",
+    "userQuery": "Computer, list stardates of the last Enterprise mission to the Klingon home planet."
   },
   {
-    "query": "How many ship's logs during that period?",
-    "response": "Forty three officer's logs. Ten personal logs."
+    "computerReply": "Forty three officer's logs. Ten personal logs.",
+    "situationalContext": "K'Ehleyr is in her quarters, following up on her previous query about ship's logs.",
+    "userName": "K'EHLEYR",
+    "userQuery": "How many ship's logs during that period?"
   },
   {
-    "query": "Is there a personal log for Lieutenant Worf?",
-    "response": "Affirmative. Access is restricted."
+    "computerReply": "Affirmative. Access is restricted.",
+    "situationalContext": "K'Ehleyr is in her quarters, inquiring about Lieutenant Worf's personal log.",
+    "userName": "K'EHLEYR",
+    "userQuery": "Is there a personal log for Lieutenant Worf?"
   },
   {
-    "query": "Eliminate all personal logs. List the remaining forty three in chronological order. We'll just take them one at a time.",
-    "response": ""
+    "computerReply": "Interlock established.",
+    "situationalContext": "K'Ehleyr is in her quarters, attempting to connect to the Klingon Imperial Information Net.",
+    "userName": "K'EHLEYR",
+    "userQuery": "Computer, interlock with the Klingon Imperial Information Net."
   },
   {
-    "query": "Computer, interlock with the Klingon Imperial Information Net.",
-    "response": "Interlock established."
+    "computerReply": "Proceed.",
+    "situationalContext": "K'Ehleyr is in her quarters, requesting diplomatic access to Klingon High Council records.",
+    "userName": "K'EHLEYR",
+    "userQuery": "Federation Ambassador K'Ehleyr requesting diplomatic access to High Council record. Security code pah doQ cha!"
   },
   {
-    "query": "Federation Ambassador K'Ehleyr requesting diplomatic access to High Council record. Security code pah doQ cha!",
-    "response": "Proceed."
+    "computerReply": "Access denied. Restricted materials, du ko cha clearance only.",
+    "situationalContext": "K'Ehleyr is in her quarters, attempting to view a summary of the Khitomer massacre inquiry.",
+    "userName": "K'EHLEYR",
+    "userQuery": "Computer, display summary of the most recent High Council inquiry regarding Khitomer massacre."
   },
   {
-    "query": "Computer, display summary of the most recent High Council inquiry regarding Khitomer massacre.",
-    "response": "Access denied. Restricted materials, du ko cha clearance only."
+    "computerReply": "Council member Duras.",
+    "situationalContext": "K'Ehleyr is in her quarters, asking the computer about the authority behind the restricted access.",
+    "userName": "K'EHLEYR",
+    "userQuery": "By whose order?"
   },
   {
-    "query": "By whose order?",
-    "response": "Council member Duras."
+    "computerReply": "Lieutenant Worf is not aboard the Enterprise.",
+    "situationalContext": "Commander Riker is on the bridge, attempting to locate Lieutenant Worf.",
+    "userName": "RIKER",
+    "userQuery": "Computer, locate Lieutenant Worf."
   },
   {
-    "query": "Access biographical files. Subject name, Councillor Duras.",
-    "response": ""
-  },
-  {
-    "query": "Computer, locate Lieutenant Worf.",
-    "response": "Lieutenant Worf is not aboard the Enterprise."
-  },
-  {
-    "query": "Where is he?",
-    "response": "Lieutenant Worf transported to the Klingon ship Vorn at seventeen thirty hours."
+    "computerReply": "Lieutenant Worf transported to the Klingon ship Vorn at seventeen thirty hours.",
+    "situationalContext": "Captain Picard is on the bridge, asking the computer for Worf's current location.",
+    "userName": "PICARD",
+    "userQuery": "Where is he?"
   }
 ]

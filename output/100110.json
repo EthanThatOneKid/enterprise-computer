@@ -1,10 +1,14 @@
 [
   {
-    "query": "Computer, give me a location on Captain Picard.",
-    "response": "Captain Picard is in Transporter room three."
+    "computerReply": "Captain Picard is in Transporter room three.",
+    "situationalContext": "Riker is on the Bridge, asking for Captain Picard's location after learning about unusual transmissions from the Ferengi ship affecting Picard.",
+    "userName": "Riker",
+    "userQuery": "give me a location on Captain Picard."
   },
   {
-    "query": "What? Computer, emergency order to Transporter room three.",
-    "response": "New information. Captain Picard is no longer aboard the Enterprise."
+    "computerReply": "New information. Captain Picard is no longer aboard the Enterprise.",
+    "situationalContext": "Riker is on the Bridge, reacting to the Computer's report of Picard's location and issuing an emergency order.",
+    "userName": "Riker",
+    "userQuery": "emergency order to Transporter room three."
   }
 ]

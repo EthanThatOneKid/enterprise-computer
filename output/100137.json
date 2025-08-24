@@ -1,10 +1,32 @@
 [
   {
-    "query": "Computer, access Captain Donald Varley's personal log. Search parameter. Locate entries containing words Romulan and or Iconia.",
-    "response": "Working."
+    "computerReply": "Working.",
+    "situationalContext": "Picard is in his Ready room, asking the computer to access logs.",
+    "userName": "Picard",
+    "userQuery": "Computer, access Captain Donald Varley's personal log. Search parameter. Locate entries containing words Romulan and or Iconia."
   },
   {
-    "query": "No further entries conforming to search parameters.",
-    "response": ""
+    "computerReply": "No further entries conforming to search parameters.",
+    "situationalContext": "After playing Captain Varley's personal log entries, the computer indicates no more entries match the search.",
+    "userName": "Picard",
+    "userQuery": "Computer, access Captain Donald Varley's personal log. Search parameter. Locate entries containing words Romulan and or Iconia."
+  },
+  {
+    "computerReply": "Kandar qui. Kandar pro. Kandar kija. Kandar sis. Kandar exen.",
+    "situationalContext": "Picard is in the Iconian Control room, entering the launch command sequence to destroy the facility.",
+    "userName": "Picard",
+    "userQuery": "Picard enters the command sequence \"blue, amber, amber, red\" into the Iconian console."
+  },
+  {
+    "computerReply": "Kandar konyen.",
+    "situationalContext": "Picard is in the Iconian Control room, having just entered the override command sequence for the doors.",
+    "userName": "Picard",
+    "userQuery": "Picard enters the command sequence \"blue, blue, blue\" into the Iconian console."
+  },
+  {
+    "computerReply": "Kandar jet, kandar se, kandar tor, kandar eir, kandar",
+    "situationalContext": "The Iconian Control room is shaking as the detonation sequence progresses.",
+    "userName": "Picard",
+    "userQuery": "Picard has initiated the self-destruct sequence and is waiting for detonation."
   }
 ]

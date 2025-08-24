@@ -1,24 +1,38 @@
 [
-  { "query": "Warning. Structural failure imminent.", "response": "" },
   {
-    "query": "Computer, deactivate all command functions. Authorisation, Riker Omega Three",
-    "response": "All command functions suspended."
+    "computerReply": "Warning. Structural failure imminent.",
+    "situationalContext": "The shuttlecraft is caught in an energy field and experiencing structural failure.",
+    "userName": "PICARD",
+    "userQuery": "Transfer auxiliary power to the inertial dampers."
   },
   {
-    "query": "Computer, display interior security grid.",
-    "response": "I'm sorry, but I can't do that. Would you like to play a game?"
+    "computerReply": "All command functions suspended.",
+    "situationalContext": "Ferengi have boarded the Enterprise bridge, and Riker is attempting to suspend command functions to prevent them from taking control.",
+    "userName": "RIKER",
+    "userQuery": "Computer, deactivate all command functions. Authorisation, Riker Omega Three"
   },
   {
-    "query": "Computer, display an internal schematic diagram.",
-    "response": "I'm sorry, but I can't do that. Would you like to see some interesting plants or animals?"
+    "computerReply": "I'm sorry, but I can't do that. Would you like to play a game?",
+    "situationalContext": "Young Picard is in the school room, attempting to access the ship's security grid through a child's computer.",
+    "userName": "PICARD JR",
+    "userQuery": "Computer, display interior security grid."
   },
   {
-    "query": "Computer, can you show me a picture of the inside of the Enterprise?",
-    "response": "Yes, I can. The Enterprise is a Galaxy-class starship. Do you know how to spell Enterprise? E N T E"
+    "computerReply": "I'm sorry, but I can't do that. Would you like to see some interesting plants or animals?",
+    "situationalContext": "Young Picard is in the school room, continuing his attempt to access ship schematics through the child's computer.",
+    "userName": "PICARD JR",
+    "userQuery": "No, I would not. Computer, display an internal schematic diagram."
   },
-  { "query": "Delete audio.", "response": "" },
   {
-    "query": "Computer, release command control this station. Authorisation, Riker Omega three.",
-    "response": "Command functions restored."
+    "computerReply": "Yes, I can. The Enterprise is a Galaxy-class starship. Do you know how to spell Enterprise? E N T E",
+    "situationalContext": "Young Guinan is in the school room, showing Young Picard how to interact with the child's computer.",
+    "userName": "GUINAN JR",
+    "userQuery": "Computer, can you show me a picture of the inside of the Enterprise?"
+  },
+  {
+    "computerReply": "Command functions restored.",
+    "situationalContext": "Riker is on the bridge, pretending to assist the Ferengi while secretly restoring command functions to the Enterprise computer.",
+    "userName": "RIKER",
+    "userQuery": "Computer, release command control this station. Authorisation, Riker Omega three."
   }
 ]

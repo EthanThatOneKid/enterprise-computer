@@ -1,6 +1,8 @@
 [
   {
-    "query": "Computer, load programme, Crusher One.",
-    "response": "Programme complete. Enter when ready."
+    "computerReply": "Programme complete. Enter when ready.",
+    "situationalContext": "Wesley is in a corridor, about to load a holodeck program.",
+    "userName": "WESLEY",
+    "userQuery": "Computer, load programme, Crusher One."
   }
 ]

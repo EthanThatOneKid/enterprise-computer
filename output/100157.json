@@ -1,4 +1,8 @@
-[{
-  "query": "any members of the Acamarian delegation from the Tralesta clan?",
-  "response": "Clan affiliation is not within provided records."
-}]
+[
+  {
+    "computerReply": "Clan affiliation is not within provided records.",
+    "situationalContext": "Doctor Crusher is investigating the deaths of two Gatherers from the Lornak clan, suspecting a targeted murder. Data has just revealed that the Lornaks massacred the Tralestas clan eighty years ago, with no recorded survivors.",
+    "userName": "Crusher",
+    "userQuery": "any members of the Acamarian delegation from the Tralesta clan?"
+  }
+]

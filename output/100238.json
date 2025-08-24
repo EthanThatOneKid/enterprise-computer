@@ -1,50 +1,74 @@
 [
   {
-    "query": "Computer, run a diagnostic on all Sherlock Holmes files. Display any anomalous programming sequences.",
-    "response": "Diagnostic complete. All files conform to specified parameters, except those contained in protected memory."
+    "computerReply": "Diagnostic complete. All files conform to specified parameters, except those contained in protected memory.",
+    "situationalContext": "Holodeck",
+    "userName": "BARCLAY",
+    "userQuery": "run a diagnostic on all Sherlock Holmes files. Display any anomalous programming sequences."
   },
   {
-    "query": "Computer, begin Sherlock Holmes programme three A and place us in the drawing room at Two Twenty One B Baker Street.",
-    "response": "Programme complete."
+    "computerReply": "Programme complete.",
+    "situationalContext": "Corridor",
+    "userName": "BARCLAY",
+    "userQuery": "begin Sherlock Holmes programme three A and place us in the drawing room at Two Twenty One B Baker Street."
   },
   {
-    "query": "Computer, route all command functions to the Bridge.",
-    "response": "Command functions are offline."
+    "computerReply": "Command functions are offline.",
+    "situationalContext": "Bridge",
+    "userName": "PICARD",
+    "userQuery": "route all command functions to the Bridge."
   },
   {
-    "query": "Reinitialise them on my authorisation.",
-    "response": "Authorisation denied."
+    "computerReply": "Authorisation denied.",
+    "situationalContext": "Bridge",
+    "userName": "PICARD",
+    "userQuery": "Reinitialise them on my authorisation."
   },
   {
-    "query": "Explain.",
-    "response": "Picard command codes are no longer valid."
+    "computerReply": "Picard command codes are no longer valid.",
+    "situationalContext": "Bridge",
+    "userName": "PICARD",
+    "userQuery": "Explain."
   },
   {
-    "query": "Computer, what is being displayed here?",
-    "response": "Transport log seven five nine."
+    "computerReply": "Transport log seven five nine.",
+    "situationalContext": "Transporter room",
+    "userName": "DATA",
+    "userQuery": "display the transport logs for the sequence just completed."
   },
   {
-    "query": "Computer, route all command functions to this location.",
-    "response": "Command functions are offline."
+    "computerReply": "Transport log seven five nine.",
+    "situationalContext": "Transporter room",
+    "userName": "DATA",
+    "userQuery": "what is being displayed here?"
   },
   {
-    "query": "Reinitialise them on my authorisation.",
-    "response": "Please input command codes."
+    "computerReply": "Command functions are offline.",
+    "situationalContext": "Engineering",
+    "userName": "PICARD",
+    "userQuery": "route all command functions to this location."
   },
   {
-    "query": "Picard, epsilon seven nine three.",
-    "response": "Command codes verified."
+    "computerReply": "Please input command codes.",
+    "situationalContext": "Engineering",
+    "userName": "PICARD",
+    "userQuery": "Reinitialise them on my authorisation."
   },
   {
-    "query": "Computer, run Sherlock Holmes Programme three A.",
-    "response": "That programme is already in use."
+    "computerReply": "That programme is already in use.",
+    "situationalContext": "Corridor",
+    "userName": "BARCLAY",
+    "userQuery": "run Sherlock Holmes Programme three A."
   },
   {
-    "query": "Computer, interface with the central computer on the Enterprise.",
-    "response": "Interface complete."
+    "computerReply": "Interface complete.",
+    "situationalContext": "Shuttlecraft",
+    "userName": "MORIARTY",
+    "userQuery": "interface with the central computer on the Enterprise."
   },
   {
-    "query": "Computer. Store programme Picard delta one in active memory and discontinue simulation.",
-    "response": "Programme stored."
+    "computerReply": "Programme stored.",
+    "situationalContext": "Holodeck",
+    "userName": "PICARD",
+    "userQuery": "Store programme Picard delta one in active memory and discontinue simulation."
   }
 ]

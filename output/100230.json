@@ -1,14 +1,20 @@
 [
   {
-    "query": "The android at the bar said you could show me my old ship. Let me see it.",
-    "response": "Please enter programme."
+    "computerReply": "Insufficient data. Please specify parameters.",
+    "situationalContext": "Scott is in the corridor, attempting to use the holodeck for the first time.",
+    "userName": "Scott",
+    "userQuery": "The android at the bar said you could show me my old ship. Let me see it."
   },
   {
-    "query": "The Enterprise. Show me the Bridge of the Enterprise, you chattering piece of",
-    "response": "Insufficient data. Please specify parameters."
+    "computerReply": "There have been five Federation ships with that name. Please specify by registry number.",
+    "situationalContext": "Scott is frustrated with the holodeck computer's lack of understanding about his request for his old ship.",
+    "userName": "Scott",
+    "userQuery": "The Enterprise. Show me the Bridge of the Enterprise, you chattering piece of"
   },
   {
-    "query": "NCC One Seven Oh One. No bloody A, B, C, or D.",
-    "response": "There have been five Federation ships with that name. Please specify by registry number."
+    "computerReply": "Programme complete. Enter when ready.",
+    "situationalContext": "Scott provides the specific registry number for his desired holodeck program.",
+    "userName": "Scott",
+    "userQuery": "NCC One Seven Oh One. No bloody A, B, C, or D."
   }
 ]

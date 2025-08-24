@@ -1,14 +1,26 @@
 [
   {
-    "query": "Initiate start-up sequence.",
-    "response": "Beginning check list."
+    "computerReply": "Beginning check list.",
+    "situationalContext": "Lieutenant Commander Lynch is in Engineering, attempting to quickly restore warp power to the Enterprise.",
+    "userName": "LYNCH",
+    "userQuery": "Forget the final check. Initiate start-up sequence."
   },
   {
-    "query": "Override. We are going directly to start-up.",
-    "response": "That procedure is not recommended."
+    "computerReply": "That procedure is not recommended.",
+    "situationalContext": "Lieutenant Commander Lynch is in Engineering, forcing the computer to bypass recommended procedures.",
+    "userName": "LYNCH",
+    "userQuery": "Override. We are going directly to start-up."
   },
   {
-    "query": "Prime matter-antimatter injectors. Set ratio at twenty-five to one",
-    "response": "Ratio set."
+    "computerReply": "Ratio set.",
+    "situationalContext": "Lieutenant Commander Lynch is in Engineering, manually configuring the matter-antimatter injectors.",
+    "userName": "LYNCH",
+    "userQuery": "Understood. Now. Prime matter-antimatter injectors. Set ratio at twenty-five to one"
+  },
+  {
+    "computerReply": "Stand by for parallel transport.",
+    "situationalContext": "Lieutenant Worf is on the Bridge, setting up an automated and parallel transport sequence for the away team and Captain Picard.",
+    "userName": "WORF",
+    "userQuery": "Set the computer. When the energy level reaches two point six point two zero five, automatically beam up Troi and Prieto. We'll do a parallel transport on the Captain."
   }
 ]

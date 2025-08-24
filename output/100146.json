@@ -1,19 +1,8 @@
 [
   {
-    "query": "Enter programme.",
-    "response": "Programme complete. You may enter when ready."
-  },
-  {
-    "query": "level two.",
-    "response": "The dead aliens come back to life, and he hands her a sword. They dispatch their attackers then she swings at him. Then they gaze at each other, Worf takes her hand, and her scent. She does the same with him, whilst he holds her so tightly her nails draw blood from her palm. We are left to guess what happened next"
-  },
-  {
-    "query": "Status, Mister Data?",
-    "response": "Based on the last assumed position of the Klingon vessel, its apparent trajectory, and our estimates of their cruising speed, we should be in scanner range in fifteen hours, eight minutes."
-  },
-  {
-    "query": "Captain, we are detecting a ship,",
-    "response": "Bearing three one-six mark four two"
-  },
-  { "query": "Extreme sensor range.", "response": "Extreme sensor range." }
+    "computerReply": "Programme complete. You may enter when ready.",
+    "situationalContext": "K'Ehleyr is at the holodeck entrance, requesting a specific exercise program.",
+    "userName": "K'EHLEYR",
+    "userQuery": "Show me the exercise menu. Hold. Calisthenics programme of Lieutenant Worf."
+  }
 ]

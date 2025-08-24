@@ -1,14 +1,20 @@
 [
   {
-    "query": "Computer, location of Doctor Beverly Crusher.",
-    "response": "Doctor Crusher is in her quarters."
+    "computerReply": "Doctor Crusher is in her quarters.",
+    "situationalContext": "Riker, currently hosting the Odan symbiont, asks the computer for Doctor Crusher's location from Odan's quarters.",
+    "userName": "RIKER",
+    "userQuery": "Computer, location of Doctor Beverly Crusher."
   },
   {
-    "query": "Can you make balso tonic?",
-    "response": "There is no formula on record. Please supply a molecular structure."
+    "computerReply": "There is no formula on record. Please supply a molecular structure.",
+    "situationalContext": "Riker, as Odan's host, asks the computer to synthesize a specific tonic, but the computer lacks the formula.",
+    "userName": "RIKER",
+    "userQuery": "Can you make balso tonic?"
   },
   {
-    "query": "Computer, what is the time?",
-    "response": "Fifteen thirty five hours."
+    "computerReply": "Fifteen thirty five hours.",
+    "situationalContext": "Captain Picard asks the computer for the current time while on the bridge.",
+    "userName": "PICARD",
+    "userQuery": "Computer, what is the time?"
   }
 ]

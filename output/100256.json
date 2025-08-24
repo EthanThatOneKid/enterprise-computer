@@ -1,10 +1,8 @@
 [
   {
-    "query": "Computer, reset diagnostic for new sample, lot number four seven eight B. Access spectral analysis and begin scan, mode three.",
-    "response": "Scan complete. Terikon particle decay profile does not fall within specified reference range. Probability of match zero point zero four percent."
-  },
-  {
-    "query": "Computer, reset diagnostic for new sample, lot number three six nine B.",
-    "response": ""
+    "computerReply": "Scan complete. Terikon particle decay profile does not fall within specified reference range. Probability of match zero point zero four percent.",
+    "situationalContext": "Picard is in the mercenary cargo hold, scanning artifacts already in storage.",
+    "userName": "Picard",
+    "userQuery": "reset diagnostic for new sample, lot number four seven eight B. Access spectral analysis and begin scan, mode three."
   }
 ]

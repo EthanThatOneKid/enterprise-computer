@@ -1,14 +1,20 @@
 [
   {
-    "query": "Deck eight.",
-    "response": "Repeat command."
+    "computerReply": "Repeat command.",
+    "situationalContext": "Riker is in the turbolift, trying to go to the Main Bridge, but the computer is slow due to a processing accelerator being down.",
+    "userName": "Riker",
+    "userQuery": "Main Bridge."
   },
   {
-    "query": "Summarise service record. Riker, William T, Captain. Begin with the Fornax disaster.",
-    "response": "Please restate question."
+    "computerReply": "Please restate question.",
+    "situationalContext": "Riker is in his quarters, attempting to access his service record, but the computer is experiencing lag.",
+    "userName": "Riker",
+    "userQuery": "Computer. Summarise service record. Riker, William T, Captain. Begin with the Fornax disaster."
   },
   {
-    "query": "Display family record. Riker, Mrs. William T.",
-    "response": "Please restate request."
+    "computerReply": "Please restate request.",
+    "situationalContext": "Riker is in his quarters, trying to display a visual family record of his wife, but the computer is still not working properly.",
+    "userName": "Riker",
+    "userQuery": "Display family record. Riker, Mrs. William T."
   }
 ]

@@ -1,14 +1,26 @@
 [
   {
-    "query": "today's appointment calendar.",
-    "response": "Oh nine hundred hours, counselling session with Ensign Janeway. Ten hundred hours, counselling session with"
+    "computerReply": "Oh nine hundred hours, counselling session with Ensign Janeway. Ten hundred hours, counselling session with",
+    "situationalContext": "Troi is in her quarters, checking her appearance in a mirror and asking the computer for her schedule.",
+    "userName": "TROI",
+    "userQuery": "today's appointment calendar."
   },
   {
-    "query": "Cancel them. Cancel everything till after lunch.",
-    "response": "Acknowledged."
+    "computerReply": "Acknowledged.",
+    "situationalContext": "Troi is in her quarters, after reviewing her appointment calendar and deciding to cancel her sessions.",
+    "userName": "TROI",
+    "userQuery": "Cancel them. Cancel everything till after lunch."
   },
   {
-    "query": "location of Counsellor Troi.",
-    "response": "Deck six, corridor B."
+    "computerReply": "Deck six, corridor B.",
+    "situationalContext": "Doctor Crusher is in her office with Commander Riker, trying to locate Counsellor Troi.",
+    "userName": "CRUSHER",
+    "userQuery": "location of Counsellor Troi."
+  },
+  {
+    "computerReply": "Acknowledged.",
+    "situationalContext": "Doctor Crusher is in Sickbay, recording the time and cause of Counsellor Troi's temporary death.",
+    "userName": "CRUSHER",
+    "userQuery": "make a note. Death occurred at fourteen thirty hours from respiratory and renal failure."
   }
 ]

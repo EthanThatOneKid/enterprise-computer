@@ -1,10 +1,14 @@
 [
   {
-    "query": "Computer, reset for diagnostic of new sample. Begin scan.",
-    "response": "Scan complete. Terikon profile negative."
+    "computerReply": "Scan complete. Terikon profile negative.",
+    "situationalContext": "Picard, in the mercenary cargo hold, instructs the computer to perform a diagnostic scan on a new sample while being questioned by Tallera.",
+    "userName": "Picard",
+    "userQuery": "Computer, reset for diagnostic of new sample. Begin scan."
   },
   {
-    "query": "Computer, reset diagnostic for new sample and begin scan.",
-    "response": "Scan complete. Terikon profile positive. Ninety eight percent probability of match."
+    "computerReply": "Scan complete. Terikon profile positive. Ninety eight percent probability of match.",
+    "situationalContext": "Picard, still in the mercenary cargo hold, again instructs the computer to scan a new sample, which then yields a positive match.",
+    "userName": "Picard",
+    "userQuery": "Computer, reset diagnostic for new sample and begin scan."
   }
 ]

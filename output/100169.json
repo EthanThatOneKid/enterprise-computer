@@ -1,18 +1,32 @@
 [
   {
-    "query": "Computer, where is Lieutenant Barclay?",
-    "response": "Lieutenant Barclay is in holodeck two."
+    "computerReply": "Lieutenant Barclay is in holodeck two.",
+    "situationalContext": "La Forge is in Ten Forward, discussing Barclay with Guinan, and then asks the computer for his location.",
+    "userName": "LAFORGE",
+    "userQuery": "where is Lieutenant Barclay?"
   },
   {
-    "query": "Computer, list all physical substances that wouldn't normally be picked up by an internal scan.",
-    "response": "There are fifteen thousand five hundred twenty five known substances that cannot be detected by standard scans."
+    "computerReply": "Lieutenant Barclay is in holodeck two.",
+    "situationalContext": "Riker is on the Bridge, frustrated by Barclay's absence from a scheduled meeting, and asks the computer to locate him.",
+    "userName": "RIKER",
+    "userQuery": "Locate Lieutenant Barclay."
   },
   {
-    "query": "And how many of those can exist in an oxygen atmosphere?",
-    "response": "Five hundred thirty two."
+    "computerReply": "There are fifteen thousand five hundred twenty five known substances that cannot be detected by standard scans.",
+    "situationalContext": "In Engineering, the crew is investigating a series of malfunctions and La Forge asks the computer to list undetectable substances.",
+    "userName": "LAFORGE",
+    "userQuery": "list all physical substances that wouldn't normally be picked up by an internal scan."
   },
   {
-    "query": "And could alter molecular structure when it comes in contact with glass.",
-    "response": "Five."
+    "computerReply": "Five hundred thirty two.",
+    "situationalContext": "In Engineering, La Forge continues to narrow down the list of undetectable substances by adding the condition of existing in an oxygen atmosphere.",
+    "userName": "LAFORGE",
+    "userQuery": "And how many of those can exist in an oxygen atmosphere?"
+  },
+  {
+    "computerReply": "Five.",
+    "situationalContext": "In Engineering, La Forge further refines the search for the unknown substance by adding the condition of altering molecular structure upon contact with glass.",
+    "userName": "LAFORGE",
+    "userQuery": "And could alter molecular structure when it comes in contact with glass."
   }
 ]

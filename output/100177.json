@@ -1,62 +1,92 @@
 [
   {
-    "query": "Computer, isolate cause of life support failure.",
-    "response": "Atmosphere conditioning pumps on deck one are operating in negative mode."
+    "computerReply": "Atmosphere conditioning pumps on deck one are operating in negative mode.",
+    "situationalContext": "La Forge is in Engineering after the Bridge life support failed.",
+    "userName": "LAFORGE",
+    "userQuery": "Computer, isolate cause of life support failure."
   },
   {
-    "query": "Computer, locate Lieutenant Commander Data.",
-    "response": "Commander Data is on the main Bridge."
+    "computerReply": "Commander Data is on the main Bridge.",
+    "situationalContext": "Picard is in Engineering, trying to locate Data after he took control of the ship.",
+    "userName": "PICARD",
+    "userQuery": "Computer, locate Lieutenant Commander Data."
   },
   {
-    "query": "Computer. Recognise Data, Lieutenant Commander. Alpha One clearance.",
-    "response": "Priority clearance recognition Alpha One."
+    "computerReply": "Priority clearance recognition Alpha One.",
+    "situationalContext": "Data is on the Bridge, taking control of the ship.",
+    "userName": "DATA",
+    "userQuery": "Computer. Recognise Data, Lieutenant Commander. Alpha One clearance."
   },
   {
-    "query": "Maintain minimum auxiliary power and disengage subspace communications.",
-    "response": "Acknowledged."
+    "computerReply": "Acknowledged.",
+    "situationalContext": "Data is on the Bridge, issuing commands to the Computer.",
+    "userName": "DATA",
+    "userQuery": "Maintain minimum auxiliary power and disengage subspace communications."
   },
   {
-    "query": "Computer, recognise Picard, Jean-Luc. Alpha Two clearance.",
-    "response": "Priority clearance recognition, Alpha Two."
+    "computerReply": "Priority clearance recognition, Alpha Two.",
+    "situationalContext": "Data is on the Bridge, impersonating Picard to gain higher clearance.",
+    "userName": "DATA",
+    "userQuery": "Computer, recognise Picard, Jean-Luc. Alpha Two clearance."
   },
   {
-    "query": "Cancel separation sequence.",
-    "response": "Sequence cancelled."
+    "computerReply": "Sequence cancelled.",
+    "situationalContext": "Data is on the Bridge, cancelling the saucer separation initiated by Picard.",
+    "userName": "DATA",
+    "userQuery": "Cancel separation sequence."
   },
   {
-    "query": "Computer, recognise Jean-Luc Picard, Alpha Two priority, and re-establish separation procedure immediately.",
-    "response": "Orders regarding command functions are no longer accepted from your present location."
+    "computerReply": "Orders regarding command functions are no longer accepted from your present location.",
+    "situationalContext": "Picard is in Engineering, attempting to regain control of the ship.",
+    "userName": "PICARD",
+    "userQuery": "Computer, recognise Jean-Luc Picard, Alpha Two priority, and re-establish separation procedure immediately."
   },
   {
-    "query": "And just what location are they accepted from?",
-    "response": "Interface terminals on main Bridge only."
+    "computerReply": "Interface terminals on main Bridge only.",
+    "situationalContext": "Picard is in Engineering, questioning the Computer about command access.",
+    "userName": "PICARD",
+    "userQuery": "And just what location are they accepted from?"
   },
   {
-    "query": "Computer, estimate the time from this location to Starbase four one six at warp nine.",
-    "response": "Inquiries regarding command functions are no longer accepted from your present location."
+    "computerReply": "Site to site transport interlocks have been manually deactivated.",
+    "situationalContext": "Data is on the Bridge, attempting to transport himself.",
+    "userName": "DATA",
+    "userQuery": "Computer, prepare to transport me directly to the following coordinates."
   },
   {
-    "query": "Computer, establish a security code for access to all functions previously transferred to Bridge.",
-    "response": "Enter code."
+    "computerReply": "Negative.",
+    "situationalContext": "Data is on the Bridge, trying to override the transport interlocks.",
+    "userName": "DATA",
+    "userQuery": "Can you override?"
   },
   {
-    "query": "One seven three four six seven three two one four seven six Charlie three two seven eight nine seven seven seven six four three Tango seven three two Victor seven three one one seven eight eight eight seven three two four seven six seven eight nine seven six four three seven six. Lock.",
-    "response": "Security code intact for all specified inquiries and orders."
+    "computerReply": "Inquiries regarding command functions are no longer accepted from your present location.",
+    "situationalContext": "Picard is in Engineering, trying to get information from the Computer.",
+    "userName": "PICARD",
+    "userQuery": "Computer, estimate the time from this location to Starbase four one six at warp nine."
   },
   {
-    "query": "Computer, prepare to transport me directly to the following coordinates.",
-    "response": "Site to site transport interlocks have been manually deactivated."
+    "computerReply": "Enter code.",
+    "situationalContext": "Data is on the Bridge, setting up a security code.",
+    "userName": "DATA",
+    "userQuery": "Computer, establish a security code for access to all functions previously transferred to Bridge."
   },
   {
-    "query": "Can you override?",
-    "response": "Negative."
+    "computerReply": "Security code intact for all specified inquiries and orders.",
+    "situationalContext": "Data is on the Bridge, entering a security code.",
+    "userName": "DATA",
+    "userQuery": "One seven three four six seven three two one four seven six Charlie three two seven eight nine seven seven seven six four three Tango seven three two Victor seven three one one seven eight eight eight seven three two four seven six seven eight nine seven six four three seven six. Lock."
   },
   {
-    "query": "Computer, restore tactical station.",
-    "response": "Deactivation of command function overrides requires Alpha Two clearance."
+    "computerReply": "Deactivation of command function overrides requires Alpha Two clearance.",
+    "situationalContext": "Worf is on the Bridge, attempting to restore tactical functions.",
+    "userName": "WORF",
+    "userQuery": "Computer, restore tactical station."
   },
   {
-    "query": "Computer, this is Captain Picard. Return all command functions to the stations.",
-    "response": "Alpha Two clearance recognised. Please enter security code."
+    "computerReply": "Alpha Two clearance recognised. Please enter security code.",
+    "situationalContext": "Picard is on the Bridge, attempting to regain full control of the ship.",
+    "userName": "PICARD",
+    "userQuery": "Computer, this is Captain Picard. Return all command functions to the stations."
   }
 ]

@@ -1,27 +1,20 @@
 [
-  { "query": "Computer, status report.", "response": "No voice interface." },
   {
-    "query": "Computer give me a biographical listing of all personnel responsible for primary operation of the ship.",
-    "response": "A full biographical listing is not available."
+    "computerReply": "A full biographical listing is not available.",
+    "situationalContext": "On the Bridge, La Forge attempts to access personnel files after the crew's memories have been wiped.",
+    "userName": "LAFORGE",
+    "userQuery": "give me a biographical listing of all personnel responsible for primary operation of the ship."
   },
   {
-    "query": "Is there any list of the ship's senior officers?",
-    "response": "The crew manifest is available."
+    "computerReply": "The crew manifest is available.",
+    "situationalContext": "La Forge continues to query the computer for crew information.",
+    "userName": "LAFORGE",
+    "userQuery": "Is there any list of the ship's senior officers?"
   },
   {
-    "query": "Give me the crew manifest.",
-    "response": "Commanding Officer, Captain Jean-Luc Picard. Executive Officer, Commander Keiran MacDuff. Second Officer, Commander William Riker. Operations Officer, Lieutenant Commander Data. Chief Medical Officer, Doctor Beverly Crusher. Ship's Counsellor, Lieutenant Commander Deanna Troi. Chief Engineer, Lieutenant Commander Geordi La Forge. Security Chief, Lieutenant Worf. Helm Officer, Ensign Ro Laren."
-  },
-  {
-    "query": "Mister Data, scan for defences.",
-    "response": "I am picking up no vessels, no additional sentry pods."
-  },
-  {
-    "query": "What are the defensive capabilities of the Central Command?",
-    "response": "Armaments consist of four laser cannons and thirty nine cobalt fusion warheads with magnetic propulsion. Defensive shield output is four point three kilojoules."
-  },
-  {
-    "query": "Data, how many people on that station?",
-    "response": "Fifteen thousand, three hundred eleven."
+    "computerReply": "Commanding Officer, Captain Jean-Luc Picard. Executive Officer, Commander Keiran MacDuff. Second Officer, Commander William Riker. Operations Officer, Lieutenant Commander Data. Chief Medical Officer, Doctor Beverly Crusher. Ship's Counsellor, Lieutenant Commander Deanna Troi. Chief Engineer, Lieutenant Commander Geordi La Forge. Security Chief, Lieutenant Worf. Helm Officer, Ensign Ro Laren.",
+    "situationalContext": "La Forge requests the available crew manifest from the computer.",
+    "userName": "LAFORGE",
+    "userQuery": "Give me the crew manifest."
   }
 ]

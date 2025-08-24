@@ -1,157 +1,188 @@
 [
   {
-    "query": "Computer, level two diagnostic on warp drive systems.",
-    "response": "Antimatter containment positive. Warp drive within normal parameters.",
-    "user": "LAFORGE"
+    "computerReply": "Antimatter containment positive. Warp drive within normal parameters.",
+    "situationalContext": "LaForge requests a diagnostic after a sudden flash during Wesley's experiment.",
+    "userName": "LAFORGE",
+    "userQuery": "level two diagnostic on warp drive systems."
   },
   {
-    "query": "Computer, current location of Doctor Dalen Quaice.",
-    "response": "There is no Doctor Dalen Quaice aboard the Enterprise.",
-    "user": "CRUSHER"
+    "computerReply": "There is no Doctor Dalen Quaice aboard the Enterprise.",
+    "situationalContext": "Crusher searches for her missing friend, Doctor Quaice.",
+    "userName": "CRUSHER",
+    "userQuery": "current location of Doctor Dalen Quaice."
   },
   {
-    "query": "Computer, where is Doctor Dalen Quaice?",
-    "response": "There is no Doctor Dalen Quaice aboard the Enterprise.",
-    "user": "WORF"
+    "computerReply": "There is no Doctor Dalen Quaice aboard the Enterprise.",
+    "situationalContext": "Worf also searches for Doctor Quaice at Crusher's request.",
+    "userName": "WORF",
+    "userQuery": "where is Doctor Dalen Quaice?"
   },
   {
-    "query": "Computer, current whereabouts of Doctors Hill and Selar.",
-    "response": "There is no Doctor Hill or Doctor Selar aboard the Enterprise.",
-    "user": "CRUSHER"
+    "computerReply": "There is no Doctor Hill or Doctor Selar aboard the Enterprise.",
+    "situationalContext": "Crusher asks for the location of her medical staff and finds them missing.",
+    "userName": "CRUSHER",
+    "userQuery": "current whereabouts of Doctors Hill and Selar."
   },
   {
-    "query": "Computer, read the entire crew roster for the Enterprise.",
-    "response": "Doctor Beverly Crusher.",
-    "user": "CRUSHER"
+    "computerReply": "Body temperature thirty seven point two degrees,",
+    "situationalContext": "Picard instructs the computer to monitor his vital signs as he might disappear.",
+    "userName": "PICARD",
+    "userQuery": "continuous scan, Captain Jean-Luc Picard, vital signs. Audible readout. Begin now."
   },
   {
-    "query": "Have I always been the only member of the crew of the Starship Enterprise?",
-    "response": "Affirmative.",
-    "user": "CRUSHER"
+    "computerReply": "Doctor Beverly Crusher.",
+    "situationalContext": "Crusher, alone on the ship, tries to understand her situation by querying the computer.",
+    "userName": "CRUSHER",
+    "userQuery": "read the entire crew roster for the Enterprise."
   },
   {
-    "query": "If this was a bad dream, would you tell me?",
-    "response": "That is not a valid question.",
-    "user": "CRUSHER"
+    "computerReply": "Affirmative.",
+    "situationalContext": "Crusher continues to question the computer about the ship's crew.",
+    "userName": "CRUSHER",
+    "userQuery": "Have I always been the only member of the crew of the Starship Enterprise?"
   },
   {
-    "query": "What date did I report on board?",
-    "response": "Stardate 41154. Fourteen hundred hours, three minutes.",
-    "user": "CRUSHER"
+    "computerReply": "That is not a valid question.",
+    "situationalContext": "Crusher, feeling isolated, asks the computer a philosophical question.",
+    "userName": "CRUSHER",
+    "userQuery": "If this was a bad dream, would you tell me?"
   },
   {
-    "query": "Computer, is there more than one USS Enterprise?",
-    "response": "This vessel is the fifth starship to bear the name USS Enterprise. It is currently the only one in service.",
-    "user": "CRUSHER"
+    "computerReply": "Stardate 41154. Fourteen hundred hours, three minutes.",
+    "situationalContext": "Crusher continues to test the computer's knowledge about her past.",
+    "userName": "CRUSHER",
+    "userQuery": "What date did I report on board?"
   },
   {
-    "query": "What is the primary mission of the Starship Enterprise?",
-    "response": "To explore the galaxy.",
-    "user": "CRUSHER"
+    "computerReply": "This vessel is the fifth starship to bear the name USS Enterprise. It is currently the only one in service.",
+    "situationalContext": "Crusher asks about the existence of other Enterprises.",
+    "userName": "CRUSHER",
+    "userQuery": "is there more than one USS Enterprise?"
   },
   {
-    "query": "Do I have the necessary skills to complete that mission alone?",
-    "response": "Negative.",
-    "user": "CRUSHER"
+    "computerReply": "To explore the galaxy.",
+    "situationalContext": "Crusher asks about the ship's mission.",
+    "userName": "CRUSHER",
+    "userQuery": "What is the primary mission of the Starship Enterprise?"
   },
   {
-    "query": "Then why am I the only crew member? Aha, got you there.",
-    "response": "That information is not available.",
-    "user": "CRUSHER"
+    "computerReply": "Negative.",
+    "situationalContext": "Crusher questions her ability to complete the mission alone.",
+    "userName": "CRUSHER",
+    "userQuery": "Do I have the necessary skills to complete that mission alone?"
   },
   {
-    "query": "Computer, are you familiar with the inhabitants of Tau Alpha C?",
-    "response": "Affirmative.",
-    "user": "CRUSHER"
+    "computerReply": "That information is not available.",
+    "situationalContext": "Crusher tries to find a logical inconsistency in the computer's responses.",
+    "userName": "CRUSHER",
+    "userQuery": "Then why am I the only crew member?"
   },
   {
-    "query": "Are any presently located on any starbase or vessel within communication distance?",
-    "response": "Negative.",
-    "user": "CRUSHER"
+    "computerReply": "Affirmative.",
+    "situationalContext": "Crusher asks about the Traveller's home planet.",
+    "userName": "CRUSHER",
+    "userQuery": "are you familiar with the inhabitants of Tau Alpha C?"
   },
   {
-    "query": "Estimated time to Tau Alpha C at warp nine point five.",
-    "response": "One hundred twenty three days.",
-    "user": "CRUSHER"
+    "computerReply": "Negative.",
+    "situationalContext": "Crusher asks if any Travellers are nearby.",
+    "userName": "CRUSHER",
+    "userQuery": "Are any presently located on any starbase or vessel within communication distance?"
   },
   {
-    "query": "Lay in a new course for Tau Alpha C.",
-    "response": "Acknowledged.",
-    "user": "CRUSHER"
+    "computerReply": "One hundred twenty three days.",
+    "situationalContext": "Crusher calculates travel time to Tau Alpha C.",
+    "userName": "CRUSHER",
+    "userQuery": "Estimated time to Tau Alpha C at warp nine point five."
   },
   {
-    "query": "Computer, did you change course?",
-    "response": "State new destination or coordinates.",
-    "user": "CRUSHER"
+    "computerReply": "Acknowledged.",
+    "situationalContext": "Crusher attempts to set a course for Tau Alpha C.",
+    "userName": "CRUSHER",
+    "userQuery": "Lay in a new course for Tau Alpha C. And send a subspace message advising them of our arrival."
   },
   {
-    "query": "I stated it, damn it. Tau Alpha C.",
-    "response": "There is no Tau Alpha C listed on current star maps.",
-    "user": "CRUSHER"
+    "computerReply": "State new destination or coordinates.",
+    "situationalContext": "Crusher asks if the course was changed after her previous command.",
+    "userName": "CRUSHER",
+    "userQuery": "did you change course?"
   },
   {
-    "query": "Computer, what is that mist I'm seeing?",
-    "response": "Sensors indicate it to be a mass energy field seven hundred and five metres in diameter.",
-    "user": "CRUSHER"
+    "computerReply": "There is no Tau Alpha C listed on current star maps.",
+    "situationalContext": "Crusher reiterates the destination, but the computer denies its existence.",
+    "userName": "CRUSHER",
+    "userQuery": "I stated it, damn it. Tau Alpha C."
   },
   {
-    "query": "It surrounds the ship?",
-    "response": "Affirmative.",
-    "user": "CRUSHER"
+    "computerReply": "Sensors indicate it to be a mass energy field seven hundred and five metres in diameter.",
+    "situationalContext": "Crusher observes a strange mist surrounding the ship.",
+    "userName": "CRUSHER",
+    "userQuery": "what is that mist I'm seeing?"
   },
   {
-    "query": "Computer, what is beyond the mass energy field?",
-    "response": "Sensors cannot penetrate the field.",
-    "user": "CRUSHER"
+    "computerReply": "Affirmative.",
+    "situationalContext": "Crusher confirms the mist's location.",
+    "userName": "CRUSHER",
+    "userQuery": "It surrounds the ship?"
   },
   {
-    "query": "Computer, what is the nature of the universe?",
-    "response": "The universe is a spheroid region seven hundred and five metres in diameter.",
-    "user": "CRUSHER"
+    "computerReply": "Sensors cannot penetrate the field.",
+    "situationalContext": "Crusher asks what lies beyond the mysterious field.",
+    "userName": "CRUSHER",
+    "userQuery": "what is beyond the mass energy field?"
   },
   {
-    "query": "Computer, what's happening?",
-    "response": "Explosive decompression decks five through fourteen. Sealing off forward sections.",
-    "user": "CRUSHER"
+    "computerReply": "The universe is a spheroid region seven hundred and five metres in diameter.",
+    "situationalContext": "Crusher asks a profound question about the universe.",
+    "userName": "CRUSHER",
+    "userQuery": "What is the nature of the universe?"
   },
   {
-    "query": "Cause?",
-    "response": "A flaw in the ship's design.",
-    "user": "CRUSHER"
+    "computerReply": "Explosive decompression decks five through fourteen. Sealing off forward sections.",
+    "situationalContext": "The ship begins to collapse around Crusher.",
+    "userName": "CRUSHER",
+    "userQuery": "what's happening?"
   },
   {
-    "query": "Show me. Analysis.",
-    "response": "No ship's structures exist forward of bulkhead three four two.",
-    "user": "CRUSHER"
+    "computerReply": "A flaw in the ship's design.",
+    "situationalContext": "Crusher asks for the cause of the ship's collapse.",
+    "userName": "CRUSHER",
+    "userQuery": "Cause?"
   },
   {
-    "query": "Computer, how long can life support be maintained?",
-    "response": "Four minutes, seventeen seconds.",
-    "user": "CRUSHER"
+    "computerReply": "No ship's structures exist forward of bulkhead three four two.",
+    "situationalContext": "Crusher requests a visual analysis of the ship's structural integrity.",
+    "userName": "CRUSHER",
+    "userQuery": "Show me. Analysis."
   },
   {
-    "query": "Computer, hypothetical situation. A person is trapped inside of a static warp bubble. Determine a means of escape.",
-    "response": "Escape would theoretically depend on establishing a stable threshold between the warp field and the outer environment.",
-    "user": "CRUSHER"
+    "computerReply": "Four minutes, seventeen seconds.",
+    "situationalContext": "Crusher asks about the remaining life support time.",
+    "userName": "CRUSHER",
+    "userQuery": "how long can life support be maintained?"
   },
   {
-    "query": "Describe this threshold.",
-    "response": "Negative. There are no known practical applications of this theory.",
-    "user": "CRUSHER"
+    "computerReply": "Escape would theoretically depend on establishing a stable threshold between the warp field and the outer environment.",
+    "situationalContext": "Crusher asks the computer for a theoretical escape method from a warp bubble.",
+    "userName": "CRUSHER",
+    "userQuery": "hypothetical situation. A person is trapped inside of a static warp bubble. Determine a means of escape."
   },
   {
-    "query": "Extrapolate from theoretical database. How would it manifest itself?",
-    "response": "A dynamic atmospheric disturbance of great intensity.",
-    "user": "CRUSHER"
+    "computerReply": "Negative. There are no known practical applications of this theory.",
+    "situationalContext": "Crusher asks for more details about the theoretical threshold.",
+    "userName": "CRUSHER",
+    "userQuery": "Describe this threshold."
   },
   {
-    "query": "Engineering.",
-    "response": "Failure in turboshaft four. Unable to proceed to main Engineering.",
-    "user": "CRUSHER"
+    "computerReply": "A dynamic atmospheric disturbance of great intensity.",
+    "situationalContext": "Crusher asks how the threshold would appear.",
+    "userName": "CRUSHER",
+    "userQuery": "Extrapolate from theoretical database. How would it manifest itself?"
   },
   {
-    "query": "Computer, continuous scan, Captain Jean-Luc Picard, vital signs. Audible readout. Begin now.",
-    "response": "Body temperature thirty seven point two degrees,",
-    "user": "PICARD"
+    "computerReply": "Failure in turboshaft four. Unable to proceed to main Engineering.",
+    "situationalContext": "Crusher attempts to go to Engineering via turbolift.",
+    "userName": "CRUSHER",
+    "userQuery": "Engineering."
   }
 ]

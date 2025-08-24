@@ -1,7 +1,8 @@
 [
-  { "query": "Captain's log", "response": "Captain's log" },
   {
-    "query": "Engineering here, sir.",
-    "response": "Back online, sir? They were never off."
+    "computerReply": "Captain's log",
+    "situationalContext": "Picard attempts to make a log entry on the Bridge, but is interrupted by Q's interference.",
+    "userName": "Picard",
+    "userQuery": "Captain's log"
   }
 ]

@@ -1,6 +1,8 @@
 [
   {
-    "query": "Computer, run holodeck programme Krios One.",
-    "response": "Enter when ready."
+    "computerReply": "Enter when ready.",
+    "situationalContext": "[Corridor]",
+    "userName": "LAFORGE",
+    "userQuery": "run holodeck programme Krios One."
   }
 ]

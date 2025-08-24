@@ -1,6 +1,8 @@
 [
   {
-    "query": "Begin programme.",
-    "response": "Programme complete."
+    "computerReply": "Programme complete.",
+    "situationalContext": "Guinan and Worf are practicing at the phaser range.",
+    "userName": "Guinan",
+    "userQuery": "Begin programme."
   }
 ]

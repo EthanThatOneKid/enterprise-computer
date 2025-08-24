@@ -1,32 +1,44 @@
 [
   {
-    "query": "I'm assuming you have the Parallax Colony of Shiralea VI?",
-    "response": "That programme is available.",
-    "user": "LWAXANA"
+    "computerReply": "That programme is available.",
+    "situationalContext": "Lwaxana and Alexander are in a corridor, Lwaxana is asking the Computer about a holodeck program.",
+    "userName": "Lwaxana",
+    "userQuery": "I'm assuming you have the Parallax Colony of Shiralea VI?"
   },
   {
-    "query": "what is the location of Alexander Rozhenko?",
-    "response": "Alexander Rozhenko is in holodeck two. He is with Lwaxana Troi.",
-    "user": "WORF"
+    "computerReply": "Alexander Rozhenko is in holodeck two.",
+    "situationalContext": "Worf and Troi are in Worf's quarters, looking for Alexander.",
+    "userName": "Worf",
+    "userQuery": "what is the location of Alexander Rozhenko?"
   },
   {
-    "query": "analyze the nitrium content of both the affected stabiliser and replicator.",
-    "response": "There is no nitrium present in the affected stabiliser or replicator.",
-    "user": "LAFORGE"
+    "computerReply": "He is with Lwaxana Troi.",
+    "situationalContext": "Worf and Troi are in Worf's quarters, looking for Alexander.",
+    "userName": "Troi",
+    "userQuery": "Is he there alone?"
   },
   {
-    "query": "transfer power from warp engines to life support.",
-    "response": "Transfer complete.",
-    "user": "DATA"
+    "computerReply": "There is no nitrium present in the affected stabiliser or replicator.",
+    "situationalContext": "La Forge is at the science station on the Bridge, investigating the mysterious goo.",
+    "userName": "LaForge",
+    "userQuery": "analyze the nitrium content of both the affected stabiliser and replicator."
   },
   {
-    "query": "Activate Bussard collector.",
-    "response": "Activated.",
-    "user": "DATA"
+    "computerReply": "Transfer complete.",
+    "situationalContext": "Data is the only one awake on the Bridge, trying to save the ship from metal parasites.",
+    "userName": "Data",
+    "userQuery": "transfer power from warp engines to life support."
   },
   {
-    "query": "Reconfigure hydrogen plasma mixture to include thirty percent nitrium.",
-    "response": "Mixture complete.",
-    "user": "DATA"
+    "computerReply": "Activated.",
+    "situationalContext": "Data is the only one awake on the Bridge, trying to save the ship from metal parasites.",
+    "userName": "Data",
+    "userQuery": "Activate Bussard collector."
+  },
+  {
+    "computerReply": "Mixture complete.",
+    "situationalContext": "Data is the only one awake on the Bridge, trying to save the ship from metal parasites.",
+    "userName": "Data",
+    "userQuery": "Reconfigure hydrogen plasma mixture to include thirty percent nitrium."
   }
 ]

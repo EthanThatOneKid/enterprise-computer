@@ -1,7 +1,8 @@
 [
   {
-    "query": "transfer all command codes to Captain Jean-Luc Picard. Voice authorisation Jellico alpha three one.",
-    "response": "Transfer complete. USS Enterprise now under command of Captain Jean-Luc Picard.",
-    "user": "JELLICO"
+    "computerReply": "Transfer complete. USS Enterprise now under command of Captain Jean-Luc Picard.",
+    "situationalContext": "Picard and Riker enter the Bridge. Troi is still in her blue uniform but Data is back in his gold one with two pips.",
+    "userName": "Jellico",
+    "userQuery": "Just the way you left it, maybe a little better. Computer, transfer all command codes to Captain Jean-Luc Picard. Voice authorisation Jellico alpha three one."
   }
 ]

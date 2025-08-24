@@ -1,14 +1,32 @@
 [
   {
-    "query": "PICARD: Pipe it through.",
-    "response": "This is an emergency communiqu�. It is not to be discussed with fellow officers unless deemed absolutely necessary. There will be no computer record of said transmission. Proceed with voice print identification."
+    "computerReply": "This is an emergency communiqu�. It is not to be discussed with fellow officers unless deemed absolutely necessary. There will be no computer record of said transmission.",
+    "situationalContext": "Captain Picard is in his quarters, requesting an incoming emergency message to be displayed.",
+    "userName": "Picard",
+    "userQuery": "Pipe it through."
   },
   {
-    "query": "PICARD: Picard, Jean-Luc. Captain, USS Enterprise.",
-    "response": "Voice print verified."
+    "computerReply": "Voice print verified.",
+    "situationalContext": "The computer is requesting voice print identification from Captain Picard.",
+    "userName": "Picard",
+    "userQuery": "Picard, Jean-Luc. Captain, USS Enterprise."
   },
   {
-    "query": "DATA: Computer, this is Lieutenant Commander Data. Please access all Starfleet Command orders to starships, starbases and colonies for the past six months.",
-    "response": "Working."
+    "computerReply": "Working.",
+    "situationalContext": "Lieutenant Commander Data is in the Ready room, instructing the computer to access Starfleet Command orders.",
+    "userName": "Data",
+    "userQuery": "Computer, this is Lieutenant Commander Data. Please access all Starfleet Command orders to starships, starbases and colonies for the past six months."
+  },
+  {
+    "computerReply": "Directions unclear. Please repeat request.",
+    "situationalContext": "Lieutenant Commander Data is reacting to information, and the computer misinterprets his statement as an unclear request.",
+    "userName": "Data",
+    "userQuery": "Startling. Quite extraordinary, in fact."
+  },
+  {
+    "computerReply": "Thank you, sir. I comprehend. Please specify how you would like to proceed, sir.",
+    "situationalContext": "Lieutenant Commander Data is explaining to the computer that his previous statement was not a request.",
+    "userName": "Data",
+    "userQuery": "That was not a request. I was simply talking to myself. A human idiosyncrasy, triggered by fascination with a particular set of facts. Or sometimes brought about by senility. Or used as a means of weighing information before reaching a conclusion. Or, as a"
   }
 ]

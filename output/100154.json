@@ -1,106 +1,104 @@
 [
   {
-    "query": "As we increased our power levels, was there any counter-reaction?",
-    "response": "Affirmative. The opposing force grew in direct proportion to the power output of the Enterprise."
+    "computerReply": "Affirmative. The opposing force grew in direct proportion to the power output of the Enterprise.",
+    "situationalContext": "La Forge is in Engineering, trying to understand why the ship is stuck in a radiation field.",
+    "userName": "LAFORGE",
+    "userQuery": "So why can't we move? Computer. As we increased our power levels, was there any counter-reaction?"
   },
   {
-    "query": "So it kept us from forming a subspace field for the warp drive?",
-    "response": "That is correct."
+    "computerReply": "That is correct.",
+    "situationalContext": "La Forge is in Engineering, discussing the ship's inability to achieve warp speed with the Computer.",
+    "userName": "LAFORGE",
+    "userQuery": "So it kept us from forming a subspace field for the warp drive?"
   },
   {
-    "query": "Computer, who is this L. Brahms?",
-    "response": "Doctor Leah Brahms, engineer. Graduate of the Daystrom Institute Theoretical Propulsion Group. Galaxy class starships, team seven, junior member."
+    "computerReply": "Doctor Leah Brahms, engineer. Graduate of the Daystrom Institute Theoretical Propulsion Group. Galaxy class starships, team seven, junior member.",
+    "situationalContext": "La Forge is in Engineering, asking the Computer for information about a propulsion engineer.",
+    "userName": "LAFORGE",
+    "userQuery": "Computer, who is this L. Brahms?"
   },
   {
-    "query": "Call up subspace design logs.",
-    "response": "Select menu. Visual records or L. Brahms' voice entries."
+    "computerReply": "Select menu. Visual records or L. Brahms' voice entries.",
+    "situationalContext": "La Forge is in Engineering, requesting subspace design logs from the Computer.",
+    "userName": "LAFORGE",
+    "userQuery": "Call up subspace design logs."
   },
   {
-    "query": "Specify programme.",
-    "response": "Acknowledged."
+    "computerReply": "Select menu. Design specifications or prototype schematic.",
+    "situationalContext": "La Forge is in Engineering, asking the Computer about replicating a cross-section image on the holodeck.",
+    "userName": "LAFORGE",
+    "userQuery": "Computer, is there a cross section image we can replicate on a holodeck?"
   },
   {
-    "query": "Computer, is there a cross section image we can replicate on a holodeck?",
-    "response": "Select menu. Design specifications or prototype schematic."
+    "computerReply": "A development stage prototype schematic at Utopia Planitia. Drafting room five of the Mars Station, Stardate 40174.",
+    "situationalContext": "La Forge is in Engineering, asking the Computer for more details about a prototype schematic.",
+    "userName": "LAFORGE",
+    "userQuery": "Prototype? Elaborate."
   },
   {
-    "query": "Prototype? Elaborate.",
-    "response": "A development stage prototype schematic at Utopia Planitia. Drafting room five of the Mars Station, Stardate 40174."
+    "computerReply": "Holodeck three programme is ready.",
+    "situationalContext": "La Forge is in the corridor, preparing to enter Holodeck three.",
+    "userName": "LAFORGE",
+    "userQuery": "Ready, computer?"
   },
   {
-    "query": "Perfect. Recreate it in holodeck three. Stay with me, Doc.",
-    "response": "Acknowledged."
+    "computerReply": "Access denied. Personal logs are restricted.",
+    "situationalContext": "La Forge is in the holodeck, attempting to access personal logs about Leah Brahms.",
+    "userName": "LAFORGE",
+    "userQuery": "That's the visiting dignitary talk. What's the inside story? Off the record."
   },
   {
-    "query": "Ready, computer?",
-    "response": "Holodeck three programme is ready."
+    "computerReply": "Affirmative. You asked Doctor Brahms to show you which system could accept reactants at a faster rate. By accessing available imagery, an adequate facsimile was possible.",
+    "situationalContext": "La Forge is in the holodeck, surprised by the appearance of a holographic Leah Brahms and asking the Computer for clarification.",
+    "userName": "LAFORGE",
+    "userQuery": "Computer, did I ask for a simulation?"
   },
   {
-    "query": "Access denied. Personal logs are restricted.",
-    "response": "Acknowledged."
+    "computerReply": "Warp energy has increased fourteen percent. Reactants per unit time remaining steady.",
+    "situationalContext": "La Forge is in the holodeck, requesting an impact analysis from the Computer after making adjustments to the dilithium crystal chamber.",
+    "userName": "LAFORGE",
+    "userQuery": "Impact analysis, computer."
   },
   {
-    "query": "Computer, did I ask for a simulation?",
-    "response": "Affirmative. You asked Doctor Brahms to show you which system could accept reactants at a faster rate. By accessing available imagery, an adequate facsimile was possible."
+    "computerReply": "Starfleet personality profile analysis, stardate 40056.",
+    "situationalContext": "La Forge is in the holodeck, asking the Computer for personality information about Leah Brahms.",
+    "userName": "LAFORGE",
+    "userQuery": "Computer, do you have any, you know, personality on file for Doctor Brahms?"
   },
   {
-    "query": "Computer, generate a cross section image of the dilithium crystal chamber. What about re-orienting the crystal?",
-    "response": "Acknowledged."
+    "computerReply": "Doctor Brahms attended Chaya Seven caucuses on the following stardates",
+    "situationalContext": "La Forge is in the holodeck, asking the Computer about Leah Brahms' past activities.",
+    "userName": "LAFORGE",
+    "userQuery": "Did she ever debate at the intergalactic caucuses on Chaya Seven?"
   },
   {
-    "query": "Adjustments to dilithium crystal chamber complete.",
-    "response": "Acknowledged."
+    "computerReply": "There would be a nine point three seven percent margin of error in the interactive responses from the facsimile.",
+    "situationalContext": "La Forge is in the holodeck, asking the Computer to create a more accurate holographic representation of Leah Brahms.",
+    "userName": "LAFORGE",
+    "userQuery": "Never mind the dates. Computer, if you add data from all these sources, could you synthesise a true representation of Doctor Brahms?"
   },
   {
-    "query": "Impact analysis, computer.",
-    "response": "Warp energy has increased fourteen percent. Reactants per unit time remaining steady."
+    "computerReply": "Override authority restricted.",
+    "situationalContext": "La Forge is in the holodeck, attempting to override a computer protocol during a critical simulation.",
+    "userName": "LAFORGE",
+    "userQuery": "Computer, override standard procedure."
   },
   {
-    "query": "Computer, do you have any, you know, personality on file for Doctor Brahms?",
-    "response": "Starfleet personality profile analysis, stardate 40056."
+    "computerReply": "Holodeck three programme is reinstated.",
+    "situationalContext": "Picard is in the Observation Lounge, ordering the Computer to reactivate a holodeck program for La Forge.",
+    "userName": "PICARD",
+    "userQuery": "Computer, reinstate holodeck three programme."
   },
   {
-    "query": "Did she ever debate at the intergalactic caucuses on Chaya Seven?",
-    "response": "Doctor Brahms attended Chaya Seven caucuses on the following stardates"
+    "computerReply": "Enter when ready.",
+    "situationalContext": "La Forge is in the corridor, instructing the Computer to resume his holodeck program.",
+    "userName": "LAFORGE",
+    "userQuery": "Computer, resume holodeck three programme."
   },
   {
-    "query": "Computer, if you add data from all these sources, could you synthesise a true representation of Doctor Brahms?",
-    "response": "There would be a nine point three seven percent margin of error in the interactive responses from the facsimile."
-  },
-  {
-    "query": "End simulation. Fatal exposure.",
-    "response": "Acknowledged."
-  },
-  {
-    "query": "Computer, reduce thrust levels another four percent. Adjust trajectory angle to compensate. Begin simulation again.",
-    "response": "Acknowledged."
-  },
-  {
-    "query": "End simulation. Fatal exposure.",
-    "response": "Acknowledged."
-  },
-  {
-    "query": "Deflector shield failure. Lethal radiation levels. Fatal exposure in twenty six minutes.",
-    "response": "Acknowledged."
-  },
-  {
-    "query": "Computer, override standard procedure.",
-    "response": "Override authority restricted."
-  },
-  {
-    "query": "Computer!",
-    "response": "Acknowledged."
-  },
-  {
-    "query": "Computer, reinstate holodeck three programme.",
-    "response": "Holodeck three programme is reinstated."
-  },
-  {
-    "query": "Computer, resume holodeck three programme.",
-    "response": "Enter when ready."
-  },
-  {
-    "query": "Computer, exit holodeck. End programme.",
-    "response": "Acknowledged."
+    "computerReply": "End simulation. Fatal exposure.",
+    "situationalContext": "La Forge is in the holodeck, running a simulation to escape the booby trap.",
+    "userName": "LAFORGE",
+    "userQuery": "Repeat simulation, same levels."
   }
 ]

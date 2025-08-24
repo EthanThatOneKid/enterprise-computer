@@ -1,46 +1,68 @@
 [
   {
-    "query": "Computer, locate Commander Riker.",
-    "response": "Commander Riker is in his quarters."
+    "computerReply": "Commander Riker is in his quarters.",
+    "situationalContext": "Picard is on the Bridge, trying to contact Riker and then asks the computer to locate him.",
+    "userName": "Picard",
+    "userQuery": "Computer, locate Commander Riker."
   },
   {
-    "query": "Computer, locate the electropathic pattern described in medical database four delta one.",
-    "response": "Electropathic pattern located."
+    "computerReply": "Electropathic pattern located.",
+    "situationalContext": "LaForge is in Engineering, starting a diagnostic with the computer.",
+    "userName": "LaForge",
+    "userQuery": "Computer, locate the electropathic pattern described in medical database four delta one."
   },
   {
-    "query": "Okay, we're going to track down any possible cause of that brain pattern. First, what are the medical conditions that might account for it?",
-    "response": "Iresine syndrome is a cause of the electropathic pattern."
+    "computerReply": "Iresine syndrome is a cause of the electropathic pattern.",
+    "situationalContext": "LaForge is in Engineering, continuing his diagnostic with the computer.",
+    "userName": "LaForge",
+    "userQuery": "Okay, we're going to track down any possible cause of that brain pattern. First, what are the medical conditions that might account for it?"
   },
   {
-    "query": "Right. And Doctor Crusher already eliminated that, so how many non-medical forces or substances might cause the pattern?",
-    "response": "There are twenty two non-medical agents."
+    "computerReply": "There are twenty two non-medical agents.",
+    "situationalContext": "LaForge is in Engineering, continuing his diagnostic with the computer.",
+    "userName": "LaForge",
+    "userQuery": "Right. And Doctor Crusher already eliminated that, so how many non-medical forces or substances might cause the pattern?"
   },
   {
-    "query": "Okay. And how many of those are present on the Enterprise?",
-    "response": "None are present on the Enterprise."
+    "computerReply": "None are present on the Enterprise.",
+    "situationalContext": "LaForge is in Engineering, continuing his diagnostic with the computer.",
+    "userName": "LaForge",
+    "userQuery": "Okay. And how many of those are present on the Enterprise?"
   },
   {
-    "query": "Are the ship's sensors calibrated to detect all those agents?",
-    "response": "All agents are scanned by the sensors."
+    "computerReply": "All agents are scanned by the sensors.",
+    "situationalContext": "LaForge is in Engineering, continuing his diagnostic with the computer.",
+    "userName": "LaForge",
+    "userQuery": "Are the ship's sensors calibrated to detect all those agents?"
   },
   {
-    "query": "Okay. Let's start with the chemical substances. Name them.",
-    "response": "Ferrazene, hylanatine, dardilion, chrysimite, and manzene."
+    "computerReply": "Ferrazene, hylanatine, dardilion, chrysimite, and manzene.",
+    "situationalContext": "LaForge is in Engineering, continuing his diagnostic with the computer.",
+    "userName": "LaForge",
+    "userQuery": "Okay. Let's start with the chemical substances. Name them."
   },
   {
-    "query": "Ferrazene has a complex molecular structure. It breaks down into bilenium and tarrisite. Do the sensors scan for those?",
-    "response": "Ship's sensors scan for both compounds."
+    "computerReply": "Ship's sensors scan for both compounds.",
+    "situationalContext": "LaForge is in Engineering, continuing his diagnostic with the computer.",
+    "userName": "LaForge",
+    "userQuery": "Ferrazene has a complex molecular structure. It breaks down into bilenium and tarrisite. Do the sensors scan for those?"
   },
   {
-    "query": "And are they present on the Enterprise?",
-    "response": "Bilenium and tarrisite are not present."
+    "computerReply": "Bilenium and tarrisite are not present.",
+    "situationalContext": "LaForge is in Engineering, continuing his diagnostic with the computer.",
+    "userName": "LaForge",
+    "userQuery": "And are they present on the Enterprise?"
   },
   {
-    "query": "Do any of the substances break down into by-products that are not scanned for?",
-    "response": "Dardilion contains the byproduct nilizene. Sensors do not routinely scan for that substance."
+    "computerReply": "Dardilion contains the byproduct nilizene. Sensors do not routinely scan for that substance.",
+    "situationalContext": "LaForge is in Engineering, continuing his diagnostic with the computer.",
+    "userName": "LaForge",
+    "userQuery": "Do any of the substances break down into by-products that are not scanned for?"
   },
   {
-    "query": "Well, this isn't a routine situation. Scan for the nilizene.",
-    "response": "There is no nilizene on the Enterprise."
+    "computerReply": "There is no nilizene on the Enterprise.",
+    "situationalContext": "LaForge is in Engineering, continuing his diagnostic with the computer.",
+    "userName": "LaForge",
+    "userQuery": "Well, this isn't a routine situation. Scan for the nilizene."
   }
 ]

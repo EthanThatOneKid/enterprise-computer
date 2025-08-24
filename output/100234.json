@@ -1,6 +1,8 @@
 [
   {
-    "query": "stop playback. identify musical composition.",
-    "response": "Picard Mozart trio, programme one."
+    "computerReply": "Picard Mozart trio, programme one.",
+    "situationalContext": "Picard is in his quarters, trying to play music, but the wrong music starts playing, prompting him to ask the computer to identify the composition.",
+    "userName": "Picard",
+    "userQuery": "Computer, stop playback. Computer identify musical composition."
   }
 ]

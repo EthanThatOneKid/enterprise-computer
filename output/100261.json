@@ -1,10 +1,14 @@
 [
   {
-    "query": "Computer, how much have the conversion levels increased?",
-    "response": "Levels are unchanged."
+    "computerReply": "Levels are unchanged.",
+    "situationalContext": "La Forge is in Engineering, trying to get a higher power conversion level for the engines.",
+    "userName": "LAFORGE",
+    "userQuery": "Computer, how much have the conversion levels increased?"
   },
   {
-    "query": "Computer, what are the current power conversion levels?",
-    "response": "Power conversion levels are at ninety seven point two percent."
+    "computerReply": "Power conversion levels are at ninety seven point two percent.",
+    "situationalContext": "La Forge is in Engineering, trying to increase power conversion levels to outperform a rival Chief Engineer.",
+    "userName": "LAFORGE",
+    "userQuery": "Computer, what are the current power conversion levels?"
   }
 ]

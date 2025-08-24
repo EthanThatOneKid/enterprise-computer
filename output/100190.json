@@ -1,14 +1,14 @@
 [
   {
-    "query": "Computer, subdued lighting. No, that's too much. I don't want it dark, I want it cozy.",
-    "response": "Please state your request in precise candlepower."
+    "computerReply": "Please state your request in precise candlepower.",
+    "situationalContext": "Geordi is preparing his quarters for a dinner with Leah Brahms, setting the table and adjusting the ambiance.",
+    "userName": "LAFORGE",
+    "userQuery": "Okay. Computer, subdued lighting. No, that's too much. I don't want it dark, I want it cozy."
   },
   {
-    "query": "Computer, just give me some guitar. Classical guitar. Doesn't matter who.",
-    "response": "Yes, thank you."
-  },
-  {
-    "query": "Computer replay programme nine one four zero. Engine schematic at Utopia Planitia.",
-    "response": "Programme loaded and ready."
+    "computerReply": "Programme loaded and ready.",
+    "situationalContext": "Leah Brahms is in a corridor, about to enter Holodeck three to run a holographic program of the prototype engine schematic.",
+    "userName": "LEAH",
+    "userQuery": "Computer replay programme nine one four zero. Engine schematic at Utopia Planitia."
   }
 ]

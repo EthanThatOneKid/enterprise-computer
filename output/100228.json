@@ -1,34 +1,38 @@
 [
   {
-    "query": "Water, ten degrees Celsius. Computer, access Starfleet Medical Database. Tell me about, er. Describe the disorder transporter psychosis.",
-    "response": "Transporter psychosis was diagnosed in the year twenty two oh nine by researchers on Delinia Two."
+    "computerReply": "Transporter psychosis was diagnosed in the year twenty two oh nine by researchers on Delinia Two.",
+    "situationalContext": "Barclay is in his quarters, researching transporter psychosis using the Starfleet Medical Database.",
+    "userName": "BARCLAY",
+    "userQuery": "access Starfleet Medical Database. Tell me about, er. Describe the disorder transporter psychosis."
   },
   {
-    "query": "No, no stop. All I need is, what causes it?",
-    "response": "It is caused by a breakdown of neuro-chemical molecules during transport, affecting the body's motor functions, autonomic systems, and the brain's higher reasoning centres."
+    "computerReply": "It is caused by a breakdown of neuro-chemical molecules during transport, affecting the body's motor functions, autonomic systems, and the brain's higher reasoning centres.",
+    "situationalContext": "Barclay is in his quarters, asking the computer about the cause of transporter psychosis.",
+    "userName": "BARCLAY",
+    "userQuery": "No, no stop. All I need is, what causes it?"
   },
   {
-    "query": "What are the symptoms?",
-    "response": "Victims suffer from paranoid delusions, multi-infarct dementia, hallucinations."
+    "computerReply": "Victims suffer from paranoid delusions, multi-infarct dementia, hallucinations.",
+    "situationalContext": "Barclay is in his quarters, asking the computer about the symptoms of transporter psychosis.",
+    "userName": "BARCLAY",
+    "userQuery": "What are the symptoms?"
   },
   {
-    "query": "Hallucinations? What kind of hallucinations?",
-    "response": "Victims experience somatic, tactile and visual hallucinations, accompanied by psychogenic hysteria. Peripheral symptoms include sleeplessness, accelerated heart rate, diminished eyesight leading to acute myopia, painful spasms in the extremities, and in most cases, dehydration."
+    "computerReply": "Victims experience somatic, tactile and visual hallucinations, accompanied by psychogenic hysteria. Peripheral symptoms include sleeplessness, accelerated heart rate, diminished eyesight leading to acute myopia, painful spasms in the extremities, and in most cases, dehydration.",
+    "situationalContext": "Barclay is in his quarters, asking the computer for details on the hallucinations associated with transporter psychosis.",
+    "userName": "BARCLAY",
+    "userQuery": "Hallucinations? What kind of hallucinations?"
   },
   {
-    "query": "Computer what is the treatment for transporter psychosis?",
-    "response": "There is no known treatment."
+    "computerReply": "There is no known treatment.",
+    "situationalContext": "Barclay is in his quarters, asking the computer about the treatment for transporter psychosis.",
+    "userName": "BARCLAY",
+    "userQuery": "what is the treatment for transporter psychosis?"
   },
   {
-    "query": "Computer more birds.",
-    "response": "End stress reduction programme."
-  },
-  {
-    "query": "Water.",
-    "response": "Specify temperature."
-  },
-  {
-    "query": "All right, Computer, let's try some music. Something soothing.",
-    "response": ""
+    "computerReply": "Specify temperature.",
+    "situationalContext": "Barclay is in his quarters, feeling agitated and asks the computer for water.",
+    "userName": "BARCLAY",
+    "userQuery": "Water."
   }
 ]

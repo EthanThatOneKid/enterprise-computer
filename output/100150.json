@@ -1,14 +1,26 @@
 [
   {
-    "query": "Computer, explain control malfunction.",
-    "response": "No control malfunction has been recorded."
+    "computerReply": "No control malfunction has been recorded.",
+    "situationalContext": "The Enterprise experiences a sudden jolt and control malfunctions, with the ship heading into stellar matter.",
+    "userName": "Picard",
+    "userQuery": "Computer, explain control malfunction."
   },
   {
-    "query": "Computer, fix the food slot.",
-    "response": "The food slot is functioning properly."
+    "computerReply": "The food slot is functioning properly.",
+    "situationalContext": "In Sickbay, a food dispenser is overflowing, and Doctor Crusher tries to fix it.",
+    "userName": "Crusher",
+    "userQuery": "Computer, fix the food slot."
   },
   {
-    "query": "Computer, identify malfunction immediately.",
-    "response": "Pawn to Bishop Four. Knight to King's Rook Three. Bishop to Queen's Bishop Four. Knight to Knight Five. Queen's Knight to King Two."
+    "computerReply": "The food slot is functioning properly.",
+    "situationalContext": "In Sickbay, a food dispenser is still overflowing, and Doctor Crusher asks the computer to check again.",
+    "userName": "Crusher",
+    "userQuery": "Well, check again."
+  },
+  {
+    "computerReply": "Pawn to Bishop Four. Knight to King's Rook Three. Bishop to Queen's Bishop Four. Knight to Knight Five. Queen's Knight to King Two.",
+    "situationalContext": "On the Bridge, after a supposed Borg vessel disappears and the ship experiences rapid door opening/closing and shaking.",
+    "userName": "Picard",
+    "userQuery": "Computer, identify malfunction immediately."
   }
 ]

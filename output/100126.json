@@ -1,14 +1,20 @@
 [
   {
-    "query": "Computer, estimated arrival time at the Neutral Zone?",
-    "response": "Nineteen hours, twenty eight minutes."
+    "computerReply": "Nineteen hours, twenty eight minutes.",
+    "situationalContext": "Captain Picard asks the Computer for the estimated arrival time at the Neutral Zone during a staff meeting.",
+    "userName": "Picard",
+    "userQuery": "Computer, estimated arrival time at the Neutral Zone?"
   },
   {
-    "query": "Computer, this is Counsellor Troi. Request personal history on. What are their names?",
-    "response": "Full names, date and place of birth."
+    "computerReply": "Captain Picard is located on the main Bridge.",
+    "situationalContext": "Ralph, a newly revived 20th-century man, asks the turbolift computer for Captain Picard's location.",
+    "userName": "Ralph",
+    "userQuery": "Ah, let's see. I want to go to the, er. Where would the Captain be?"
   },
   {
-    "query": "Where would the Captain be?",
-    "response": "Captain Picard is located on the main Bridge."
+    "computerReply": "Full names, date and place of birth.",
+    "situationalContext": "Counsellor Troi asks the Computer for personal history information about Clare's children.",
+    "userName": "Troi",
+    "userQuery": "Computer, this is Counsellor Troi. Request personal history on. What are their names?"
   }
 ]
