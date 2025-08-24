@@ -1,26 +1,26 @@
 [
   {
     "computerReply": "Tam Elbrun is in turbolift one, en route to the main Bridge.",
-    "situationalContext": "Picard had just seen the magnified image of Tin Man and found it remarkable.",
+    "situationalContext": "Picard has just seen the visuals of Tin Man.",
     "userName": "Picard",
-    "userQuery": "locate Tam Elbrun."
+    "userQuery": "Locate Tam Elbrun."
   },
   {
     "computerReply": "Unable to comply. Requested reroute would compromise operational safety limits.",
-    "situationalContext": "LaForge was working on restoring the ship's shields after a Romulan attack.",
+    "situationalContext": "LaForge is trying to restore shields after the Romulan attack.",
     "userName": "LaForge",
-    "userQuery": "reconfigure structural integrity power to feed inner deflector grid."
+    "userQuery": "Reconfigure structural integrity power to feed inner deflector grid."
   },
   {
     "computerReply": "Rerouting structural integrity power supply.",
-    "situationalContext": "LaForge was attempting to override safety limits to reroute power for the shields.",
+    "situationalContext": "LaForge is overriding safety limits to reroute power.",
     "userName": "LaForge",
     "userQuery": "Override. Authorization La Forge theta two nine nine seven."
   },
   {
     "computerReply": "Port sensor array remains offline.",
-    "situationalContext": "LaForge was performing diagnostics on the sensor arrays after power rerouting.",
+    "situationalContext": "LaForge is trying to reactivate sensor assemblies.",
     "userName": "LaForge",
-    "userQuery": "run level two diagnostic."
+    "userQuery": "Run level two diagnostic."
   }
 ]

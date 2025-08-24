@@ -1,55 +1,55 @@
 [
   {
     "computerReply": "Programme complete. You may enter.",
-    "situationalContext": "Data and LaForge are outside the holodeck, dressed in Victorian London costumes.",
+    "situationalContext": "Data and La Forge are outside the holodeck, costumed for late Victorian London.",
     "userName": "Data",
     "userQuery": "select at random a mystery by Sir Arthur Conan Doyle, where I will play Sherlock Holmes and Lieutenant La Forge will be Doctor John Watson."
   },
   {
     "computerReply": "Programme complete. You may enter.",
-    "situationalContext": "Data and LaForge are outside the holodeck, preparing for a new Sherlock Holmes mystery.",
+    "situationalContext": "Data, La Forge, and Pulaski are outside the holodeck, preparing for a new Sherlock Holmes mystery.",
     "userName": "Data",
     "userQuery": "I have instructed the computer to give us a Sherlock Holmes-type problem, but not one written specifically by Sir Arthur Conan Doyle."
   },
   {
     "computerReply": "Define parameters of programme.",
-    "situationalContext": "LaForge is attempting to create a new mystery for Data on the holodeck.",
+    "situationalContext": "La Forge is on a London street in the holodeck, challenging Data with a new mystery.",
     "userName": "LaForge",
     "userQuery": "in the Holmesian style, create a mystery to confound Data with an opponent who has the ability to defeat him."
   },
   {
     "computerReply": "Computer standing by.",
-    "situationalContext": "Moriarty is on a London street, having just gained consciousness and control.",
+    "situationalContext": "Moriarty has just used the word 'arch' and the computer arch has appeared on the holodeck street.",
     "userName": "Moriarty",
-    "userQuery": "Arch."
+    "userQuery": "What have we here?"
   },
   {
     "computerReply": "If you refer to the arch you ordered, it provides computer control. Do you wish to input any commands?",
-    "situationalContext": "Moriarty is on a London street, questioning the nature of the computer arch.",
+    "situationalContext": "Moriarty is interacting with the computer arch on the holodeck street.",
     "userName": "Moriarty",
     "userQuery": "What are you?"
   },
   {
     "computerReply": "Access denied.",
-    "situationalContext": "Data is in a corridor, attempting to shut down the holodeck.",
+    "situationalContext": "Data is on the holodeck street, attempting to exit and shut down the program.",
     "userName": "Data",
     "userQuery": "execute complete shutdown of the Holodeck."
   },
   {
     "computerReply": "Override protocol has been initiated.",
-    "situationalContext": "Data is in a corridor, asking the computer to explain its access denial.",
+    "situationalContext": "Data is in the corridor, after the holodeck failed to shut down.",
     "userName": "Data",
     "userQuery": "Explain."
   },
   {
     "computerReply": "The override protocol has been initiated.",
-    "situationalContext": "Picard is in the Observation Lounge, inquiring about the holodeck program's status.",
+    "situationalContext": "Picard is in the Observation Lounge, questioning the holodeck's status.",
     "userName": "Picard",
     "userQuery": "why wasn't the holodeck programme terminated?"
   },
   {
     "computerReply": "Lieutenant Geordi La Forge.",
-    "situationalContext": "Picard is in the Observation Lounge, asking about the authority for the holodeck override.",
+    "situationalContext": "Picard is in the Observation Lounge, asking about the override authority.",
     "userName": "Picard",
     "userQuery": "On whose authority?"
   },
@@ -66,14 +66,8 @@
     "userQuery": "And her vital signs?"
   },
   {
-    "computerReply": "Attitude and stabilisation control of the Enterprise was momentarily transferred to holodeck two.",
-    "situationalContext": "The Enterprise bridge experiences a sudden jolt, prompting Picard to question the computer.",
-    "userName": "Picard",
-    "userQuery": "what happened?"
-  },
-  {
     "computerReply": "Affirmative. You may enter.",
-    "situationalContext": "Picard is outside the holodeck, preparing to enter and confront Moriarty.",
+    "situationalContext": "Picard and Data are outside the holodeck, preparing to enter.",
     "userName": "Picard",
     "userQuery": "tell me, is the programme still running?"
   }

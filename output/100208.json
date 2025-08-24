@@ -1,7 +1,7 @@
 [
   {
     "computerReply": "Linkage complete.",
-    "situationalContext": "[Ready room]",
+    "situationalContext": "Fleet Admiral Brackett is in the ready room with Captain Picard, requesting a computer linkage.",
     "userName": "BRACKETT",
     "userQuery": "initiate linkage between this terminal and starbase computer system alpha two nine."
   }

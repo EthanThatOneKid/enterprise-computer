@@ -1,14 +1,14 @@
 [
   {
     "computerReply": "Unable to comply. All power to ejection systems has been terminated and cannot be restored.",
-    "situationalContext": "Troi is in a Holodeck simulation of Engineering during a red alert, attempting to prevent a containment failure.",
+    "situationalContext": "Troi is in a Holodeck simulation of Engineering during a red alert, facing a critical antimatter containment failure.",
     "userName": "TROI",
-    "userQuery": "Computer, emergency procedure. Eject antimatter storage unit three. Authorisation, Troi omega omega three one."
+    "userQuery": "Emergency procedure. Eject antimatter storage unit three. Authorisation, Troi omega omega three one."
   },
   {
     "computerReply": "Computer ready.",
-    "situationalContext": "Troi returns to the Holodeck to retake the Bridge Officer's test after realizing the solution.",
+    "situationalContext": "Troi is in the Holodeck, preparing to retake a section of the Bridge Officer's test.",
     "userName": "TROI",
-    "userQuery": "Computer, load Bridge Officer's test, Engineering qualification section one."
+    "userQuery": "Load Bridge Officer's test, Engineering qualification section one."
   }
 ]

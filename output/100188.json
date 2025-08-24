@@ -1,19 +1,19 @@
 [
   {
     "computerReply": "Automatic defense procedures initiated. Energy field strength increasing. Warning, shield penetration seventeen percent.",
-    "situationalContext": "Data, the only conscious crew member, activates emergency defense protocols on the Bridge as the ship is being affected by an energy field.",
+    "situationalContext": "Data is on the Bridge during a flashback, the crew is incapacitated, and he is initiating emergency procedures.",
     "userName": "Data",
     "userQuery": "Computer, engage emergency plan zed zed alpha."
   },
   {
     "computerReply": "Executed.",
-    "situationalContext": "Data, attempting to counter an energy field, orders the computer to randomly fluctuate the ship's shield frequencies.",
+    "situationalContext": "Data is on the Bridge during a flashback, attempting to protect the Enterprise from an energy field.",
     "userName": "Data",
     "userQuery": "Computer, begin random fluctuation of shield frequency and modulation."
   },
   {
     "computerReply": "Acknowledged. Initiating compound release now.",
-    "situationalContext": "Data instructs the computer to release a compound into the airflow system to revive the incapacitated crew.",
+    "situationalContext": "Data is on the Bridge during a flashback, reviving the crew after they were stunned.",
     "userName": "Data",
     "userQuery": "Computer, release compound ADTH into the airflow system, five parts per million."
   }

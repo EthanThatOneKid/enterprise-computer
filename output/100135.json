@@ -1,19 +1,19 @@
 [
   {
     "computerReply": "Working.",
-    "situationalContext": "Picard is in his ready room, asking the computer for information.",
+    "situationalContext": "Picard is in his ready room, seeking information about Starfleet regulations.",
     "userName": "Picard",
     "userQuery": "Computer, pull all relevant information with regard to Starfleet regulations on the transfer of officers."
   },
   {
     "computerReply": "Riker, William T, identified. Ready.",
-    "situationalContext": "Riker is in the computer room, identifying himself to the computer.",
+    "situationalContext": "Riker is in the computer room, identifying himself to gain access.",
     "userName": "Riker",
     "userQuery": "Computer, identify Riker, William T. Access code theta alpha two seven three seven, blue, enable."
   },
   {
     "computerReply": "Working.",
-    "situationalContext": "Riker is in the computer room, requesting schematics for Data.",
+    "situationalContext": "Riker, after identifying himself, requests technical schematics for Data.",
     "userName": "Riker",
     "userQuery": "Access all available technical schematics on Lieutenant Commander Data."
   }

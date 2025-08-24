@@ -1,8 +1,8 @@
 [
   {
     "computerReply": "Negative.",
-    "situationalContext": "Data is in his quarters with La Forge, investigating if anyone entered while he was away.",
-    "userName": "DATA",
+    "situationalContext": "Data and La Forge are in Data's quarters, investigating a possible unauthorized entry after Spot was found wandering.",
+    "userName": "Data",
     "userQuery": "Computer, has anyone been in my quarters in the last twelve hours other than Commander La Forge and myself?"
   }
 ]

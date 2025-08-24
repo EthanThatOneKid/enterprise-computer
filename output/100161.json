@@ -1,13 +1,13 @@
 [
   {
     "computerReply": "Signal patterns indicate intelligence. Unable to derive necessary referents to establish translation matrix.",
-    "situationalContext": "Riker asks the computer to analyze an unintelligible signal received on the bridge.",
+    "situationalContext": "On the Bridge, an unintelligible signal is received from an unknown source.",
     "userName": "Riker",
-    "userQuery": "analyse signal"
+    "userQuery": "Computer, analyse signal"
   },
   {
     "computerReply": "Main shuttlebay is located on deck four.",
-    "situationalContext": "Q asks the computer for the location of the main shuttlebay.",
+    "situationalContext": "Q is in a Turbolift, asking for the location of the main shuttlebay.",
     "userName": "Q",
     "userQuery": "Where's the main shuttlebay?"
   }

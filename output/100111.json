@@ -1,7 +1,7 @@
 [
   {
     "computerReply": "Captain's log",
-    "situationalContext": "Picard attempts to make a log entry on the Bridge, but is interrupted by Q's interference.",
+    "situationalContext": "Picard is on the Bridge, attempting to make a Captain's log entry, but the computer is malfunctioning or being interfered with by Q, echoing his command.",
     "userName": "Picard",
     "userQuery": "Captain's log"
   }

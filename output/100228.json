@@ -1,37 +1,37 @@
 [
   {
     "computerReply": "Transporter psychosis was diagnosed in the year twenty two oh nine by researchers on Delinia Two.",
-    "situationalContext": "Barclay is in his quarters, researching transporter psychosis using the Starfleet Medical Database.",
+    "situationalContext": "Barclay is in his quarters, feeling unwell, and asks the computer for medical information about transporter psychosis.",
     "userName": "BARCLAY",
-    "userQuery": "access Starfleet Medical Database. Tell me about, er. Describe the disorder transporter psychosis."
+    "userQuery": "Computer, access Starfleet Medical Database. Tell me about, er. Describe the disorder transporter psychosis."
   },
   {
     "computerReply": "It is caused by a breakdown of neuro-chemical molecules during transport, affecting the body's motor functions, autonomic systems, and the brain's higher reasoning centres.",
-    "situationalContext": "Barclay is in his quarters, asking the computer about the cause of transporter psychosis.",
+    "situationalContext": "Barclay is asking the computer for more specific information about the cause of transporter psychosis.",
     "userName": "BARCLAY",
     "userQuery": "No, no stop. All I need is, what causes it?"
   },
   {
     "computerReply": "Victims suffer from paranoid delusions, multi-infarct dementia, hallucinations.",
-    "situationalContext": "Barclay is in his quarters, asking the computer about the symptoms of transporter psychosis.",
+    "situationalContext": "Barclay continues to inquire about the symptoms of transporter psychosis.",
     "userName": "BARCLAY",
     "userQuery": "What are the symptoms?"
   },
   {
     "computerReply": "Victims experience somatic, tactile and visual hallucinations, accompanied by psychogenic hysteria. Peripheral symptoms include sleeplessness, accelerated heart rate, diminished eyesight leading to acute myopia, painful spasms in the extremities, and in most cases, dehydration.",
-    "situationalContext": "Barclay is in his quarters, asking the computer for details on the hallucinations associated with transporter psychosis.",
+    "situationalContext": "Barclay asks for details about the hallucinations associated with transporter psychosis.",
     "userName": "BARCLAY",
     "userQuery": "Hallucinations? What kind of hallucinations?"
   },
   {
     "computerReply": "There is no known treatment.",
-    "situationalContext": "Barclay is in his quarters, asking the computer about the treatment for transporter psychosis.",
+    "situationalContext": "Barclay asks the computer about the treatment for transporter psychosis.",
     "userName": "BARCLAY",
-    "userQuery": "what is the treatment for transporter psychosis?"
+    "userQuery": "Computer what is the treatment for transporter psychosis?"
   },
   {
     "computerReply": "Specify temperature.",
-    "situationalContext": "Barclay is in his quarters, feeling agitated and asks the computer for water.",
+    "situationalContext": "Barclay is in his quarters, trying to relax, and asks the computer for water.",
     "userName": "BARCLAY",
     "userQuery": "Water."
   }

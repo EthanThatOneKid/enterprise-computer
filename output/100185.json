@@ -1,7 +1,7 @@
 [
   {
     "computerReply": "Diagnostic complete. All systems functioning within normal parameters.",
-    "situationalContext": "Data is in his quarters, feeding his cat Spot.",
+    "situationalContext": "Data is in his quarters, stroking his cat Spot.",
     "userName": "Data",
     "userQuery": "run fluidic sensor diagnostic."
   }

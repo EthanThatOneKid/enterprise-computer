@@ -1,8 +1,8 @@
 [
   {
     "computerReply": "Programme complete. Enter when ready.",
-    "situationalContext": "Wesley is in a corridor, about to load a holodeck program.",
+    "situationalContext": "Wesley is in a corridor and addresses the computer to load a holodeck program.",
     "userName": "WESLEY",
-    "userQuery": "Computer, load programme, Crusher One."
+    "userQuery": "load programme, Crusher One."
   }
 ]

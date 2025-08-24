@@ -1,31 +1,31 @@
 [
   {
     "computerReply": "The command pathways are functioning normally.",
-    "situationalContext": "Data is in his quarters, investigating the exocomp.",
+    "situationalContext": "Data is in his quarters, investigating the exocomp's previous malfunction.",
     "userName": "Data",
     "userQuery": "Computer perform a level one diagnostic of the exocomp's command module."
   },
   {
     "computerReply": "The interface circuitry has been repaired.",
-    "situationalContext": "Data is in his quarters, investigating the exocomp.",
+    "situationalContext": "Data is in his quarters, questioning the exocomp's diagnostic results.",
     "userName": "Data",
     "userQuery": "How can that be, if the interface circuitry is burned out?"
   },
   {
     "computerReply": "Confirmed. Interface failure occurred at eleven hundred fifty hours today, when the exocomp produced a power surge which burned out the linkage.",
-    "situationalContext": "Data is in his quarters, investigating the exocomp.",
+    "situationalContext": "Data is in his quarters, requesting historical data on the exocomp's interface failure.",
     "userName": "Data",
     "userQuery": "Curious. Computer, access the exocomp's sensor logs. Confirm that there was a failure of the interface circuitry within the last twelve hours."
   },
   {
     "computerReply": "The exocomp activated a self-repair programme at thirteen hundred forty hours.",
-    "situationalContext": "Data is in his quarters, investigating the exocomp.",
+    "situationalContext": "Data is in his quarters, inquiring about the exocomp's self-repair process.",
     "userName": "Data",
     "userQuery": "How and when was it repaired?"
   },
   {
     "computerReply": "Unknown.",
-    "situationalContext": "Data is in his quarters, investigating the exocomp.",
+    "situationalContext": "Data is in his quarters, pondering the exocomp's unusual behavior.",
     "userName": "Data",
     "userQuery": "Why would the exocomp burn out its own interface circuitry and repair it two hours later?"
   }

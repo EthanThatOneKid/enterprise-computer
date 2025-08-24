@@ -1,8 +1,8 @@
 [
   {
     "computerReply": "The Alba Ra, a contemporary Talarian musical form.",
-    "situationalContext": "Picard is in his quarters, where Jono has rigged a hammock and is playing loud alien music.",
-    "userName": "PICARD",
+    "situationalContext": "Picard is in his quarters, where Jono has rigged a hammock and is playing loud alien music, which Picard asks the computer to identify.",
+    "userName": "Picard",
     "userQuery": "Computer, what was that?"
   }
 ]

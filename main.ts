@@ -1,6 +1,7 @@
 import { chunk } from "@std/collections/chunk";
-import { GoogleGenAI, Type } from "@google/genai";
 import { Spinner } from "@std/cli/unstable-spinner";
+import { retry } from "@std/async/retry";
+import { GoogleGenAI, Type } from "@google/genai";
 
 const ai = new GoogleGenAI({
   // https://aistudio.google.com/app/apikey
@@ -20,6 +21,9 @@ if (import.meta.main) {
 
   console.error("🚀 Starting Star Trek: TNG Computer Dialogue Extraction");
   console.error("📡 Fetching episode list from GitHub...");
+  console.error(
+    "🔗 Repository: varenc/star_trek_transcript_search/scripts/NextGen",
+  );
 
   // https://github.com/varenc/star_trek_transcript_search/tree/main/scripts/NextGen
   const tngDir = (
@@ -31,7 +35,13 @@ if (import.meta.main) {
   ).slice(startAt);
 
   console.error(`📺 Found ${tngDir.length} episodes to process`);
-  console.error(`⚡ Processing in batches of ${batchSize} episodes\n`);
+  console.error(`⚡ Processing in batches of ${batchSize} episodes`);
+  console.error(`🎯 Starting from episode index: ${startAt}`);
+  console.error(
+    `⏱️  Estimated total time: ~${
+      Math.ceil((tngDir.length / batchSize) * 5 / 60)
+    } minutes\n`,
+  );
 
   let processedCount = 0;
   let skippedCount = 0;
@@ -56,8 +66,10 @@ if (import.meta.main) {
       const output = await Promise.all(
         files.map(async ({ download_url, name }) => {
           try {
-            spinner.message = `Processing episode: ${name}`;
+            spinner.message = `Starting episode: ${name}`;
 
+            // Step 1: Download transcript
+            spinner.message = `📥 Downloading transcript: ${name}`;
             const content = await fetch(download_url).then((response) => {
               if (!response.ok) {
                 throw new Error(
@@ -66,64 +78,86 @@ if (import.meta.main) {
               }
               return response.text();
             });
+            spinner.message =
+              `📄 Transcript downloaded: ${name} (${content.length} chars)`;
 
+            // Step 2: Check for Computer dialogue
+            spinner.message = `🔍 Scanning ${name} for Computer dialogue...`;
             if (!content.includes("COMPUTER:")) {
-              spinner.message = `Skipping ${name} (no Computer dialogue)`;
+              spinner.message =
+                `⏭️  Skipping ${name} (no Computer dialogue found)`;
               skippedCount++;
               return [name, "[]", "skipped"];
             }
+            spinner.message = `✅ Computer dialogue detected in ${name}`;
 
-            spinner.message = `Analyzing ${name} with AI...`;
-            const aiResult = await ai.models.generateContent({
-              // https://ai.google.dev/gemini-api/docs/models
-              model: "models/gemini-2.5-flash",
-              contents: `${prompt}\n${content}`,
-              config: {
-                // https://ai.google.dev/gemini-api/docs/structured-output?lang=node#supply-schema-in-config
-                temperature: 0,
-                responseMimeType: "application/json",
-                responseSchema: {
-                  type: Type.ARRAY,
-                  items: {
-                    type: Type.OBJECT,
-                    required: [
-                      "situationalContext",
-                      "userQuery",
-                      "computerReply",
-                      "userName",
-                    ],
-                    properties: {
-                      situationalContext: {
-                        type: Type.STRING,
-                        description:
-                          "Sentence describing the situational context",
-                      },
-                      userName: {
-                        type: Type.STRING,
-                        description:
-                          "Name of the character speaking to the Computer",
-                      },
-                      userQuery: {
-                        type: Type.STRING,
-                        description: "Query directed to the Computer",
-                      },
-                      computerReply: {
-                        type: Type.STRING,
-                        description: "Response spoken by the Computer",
+            // Step 3: AI Analysis
+            spinner.message = `🤖 Analyzing ${name} with AI...`;
+
+            // Create a retryable function for AI processing
+            const processWithAI = async () => {
+              const aiResult = await ai.models.generateContent({
+                // https://ai.google.dev/gemini-api/docs/models
+                model: "models/gemini-2.5-flash", // "models/gemini-2.5-flash-lite",
+                contents: `${prompt}\n${content}`,
+                config: {
+                  // https://ai.google.dev/gemini-api/docs/structured-output?lang=node#supply-schema-in-config
+                  temperature: 0,
+                  responseMimeType: "application/json",
+                  responseSchema: {
+                    type: Type.ARRAY,
+                    items: {
+                      type: Type.OBJECT,
+                      required: [
+                        "situationalContext",
+                        "userQuery",
+                        "computerReply",
+                        "userName",
+                      ],
+                      properties: {
+                        situationalContext: {
+                          type: Type.STRING,
+                          description:
+                            "Sentence describing the situational context",
+                        },
+                        userName: {
+                          type: Type.STRING,
+                          description:
+                            "Name of the character speaking to the Computer",
+                        },
+                        userQuery: {
+                          type: Type.STRING,
+                          description: "Query directed to the Computer",
+                        },
+                        computerReply: {
+                          type: Type.STRING,
+                          description: "Response spoken by the Computer",
+                        },
                       },
                     },
                   },
                 },
-              },
-            });
+              });
 
-            spinner.message = `Completed ${name}`;
+              return aiResult;
+            };
+
+            // Retry AI processing up to 3 times before giving up
+            spinner.message = `🚀 AI processing ${name} (attempt 1/3)...`;
+            const aiResult = await retry(processWithAI, { maxAttempts: 3 });
+
+            spinner.message = `✅ AI analysis completed for ${name}`;
+            spinner.message = `📊 Extracted data from ${name}: ${
+              aiResult.text?.length || 0
+            } chars`;
             return [name, aiResult.text, "success"];
           } catch (error) {
             const errorMessage = error instanceof Error
               ? error.message
               : String(error);
-            console.error(`❌ Error processing ${name}: ${errorMessage}`);
+            console.error(
+              `❌ Error processing ${name} after retries: ${errorMessage}`,
+            );
             errorCount++;
             return [name, "[]", "error"];
           }
@@ -131,22 +165,28 @@ if (import.meta.main) {
       );
 
       // Write all files in parallel
-      const writePromises = output
-        .filter(([_, text, status]) =>
-          status === "success" && text && text !== "[]"
-        )
-        .map(async ([name, text]) => {
+      const successfulOutputs = output.filter(([_, text, status]) =>
+        status === "success" && text && text !== "[]"
+      );
+
+      if (successfulOutputs.length > 0) {
+        spinner.message =
+          `💾 Writing ${successfulOutputs.length} output file(s)...`;
+
+        const writePromises = successfulOutputs.map(async ([name, text]) => {
           if (name && text) {
-            spinner.message = `Writing output for ${name}...`;
-            await Deno.writeTextFile(
-              `./output/${name.replace(/\.txt$/, "")}.json`,
-              text,
-            );
+            const outputPath = `./output/${name.replace(/\.txt$/, "")}.json`;
+            spinner.message = `💾 Writing ${name} to ${outputPath}...`;
+            await Deno.writeTextFile(outputPath, text);
+            spinner.message = `✅ ${name} saved successfully`;
           }
         });
 
-      if (writePromises.length > 0) {
         await Promise.all(writePromises);
+        spinner.message =
+          `💾 All ${successfulOutputs.length} files written successfully`;
+      } else {
+        spinner.message = `⚠️  No successful outputs to write for this batch`;
       }
 
       processedCount += files.length;
@@ -157,10 +197,22 @@ if (import.meta.main) {
         `📊 Progress: ${processedCount}/${tngDir.length} episodes processed`,
       );
 
+      // Calculate remaining episodes and estimated time
+      const remainingEpisodes = tngDir.length - processedCount;
+      const remainingBatches = Math.ceil(remainingEpisodes / batchSize);
+      const estimatedMinutes = Math.ceil((remainingBatches * 5) / 60);
+
+      if (remainingEpisodes > 0) {
+        console.error(
+          `⏱️  Estimated time remaining: ~${estimatedMinutes} minutes`,
+        );
+        console.error(`📦 ${remainingBatches} batch(es) remaining`);
+      }
+
       // Only wait between batches if there are more to process
       if (processedCount < tngDir.length) {
-        console.error("⏳ Waiting 3 seconds before next batch...");
-        await new Promise((resolve) => setTimeout(resolve, 3000));
+        console.error("⏳ Waiting 5 seconds before next batch...");
+        await new Promise((resolve) => setTimeout(resolve, 5000));
       }
     } catch (error) {
       spinner.stop();

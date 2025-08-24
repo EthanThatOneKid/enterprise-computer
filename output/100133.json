@@ -1,19 +1,19 @@
 [
   {
     "computerReply": "Identify.",
-    "situationalContext": "Captain Picard is in his ready room, attempting to gain remote control of the USS Lantree.",
+    "situationalContext": "Captain Picard requests a security override from the Computer in his ready room.",
     "userName": "Picard",
     "userQuery": "Computer, security override request."
   },
   {
     "computerReply": "Enter access code.",
-    "situationalContext": "Captain Picard is in his ready room, providing his identification to the computer to gain control of the USS Lantree.",
+    "situationalContext": "Captain Picard identifies himself to the Computer to gain control access to the USS Lantree.",
     "userName": "Picard",
     "userQuery": "Picard, Jean-Luc, Captain, USS Enterprise. Request control access Starfleet ship USS Lantree, Isao Telaka commanding."
   },
   {
     "computerReply": "Zero three two two exactly.",
-    "situationalContext": "Captain Picard is on the Bridge, monitoring the duration of Doctor Pulaski's direct contact with the genetically engineered boy in the shuttlecraft.",
+    "situationalContext": "Captain Picard asks the Computer for the current time on the Bridge.",
     "userName": "Picard",
     "userQuery": "Time?"
   }

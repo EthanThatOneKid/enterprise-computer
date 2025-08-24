@@ -1,20 +1,26 @@
 [
   {
     "computerReply": "Nineteen hours, twenty eight minutes.",
-    "situationalContext": "Captain Picard asks the Computer for the estimated arrival time at the Neutral Zone during a staff meeting.",
+    "situationalContext": "Picard is in the Observation lounge, asking for an estimated arrival time to the Neutral Zone.",
     "userName": "Picard",
-    "userQuery": "Computer, estimated arrival time at the Neutral Zone?"
+    "userQuery": "Estimated arrival time at the Neutral Zone?"
   },
   {
-    "computerReply": "Captain Picard is located on the main Bridge.",
-    "situationalContext": "Ralph, a newly revived 20th-century man, asks the turbolift computer for Captain Picard's location.",
-    "userName": "Ralph",
-    "userQuery": "Ah, let's see. I want to go to the, er. Where would the Captain be?"
+    "computerReply": "It was a passenger liner which mostly travelled Earth's Atlantic Ocean during the late twentieth and early twenty first centuries.",
+    "situationalContext": "Picard is in the Ready room, speaking with Ralph Offenhouse, who mentioned the QE Two. Data is present and asks for identification.",
+    "userName": "Data",
+    "userQuery": "Identify. What is a QE Two?"
   },
   {
     "computerReply": "Full names, date and place of birth.",
-    "situationalContext": "Counsellor Troi asks the Computer for personal history information about Clare's children.",
+    "situationalContext": "Counsellor Troi is in Clare's quarters, attempting to find information about Clare's sons using the computer.",
     "userName": "Troi",
-    "userQuery": "Computer, this is Counsellor Troi. Request personal history on. What are their names?"
+    "userQuery": "This is Counsellor Troi. Request personal history on. What are their names?"
+  },
+  {
+    "computerReply": "Captain Picard is located on the main Bridge.",
+    "situationalContext": "Ralph Offenhouse is in a turbolift, attempting to locate Captain Picard.",
+    "userName": "Ralph",
+    "userQuery": "Ah, let's see. I want to go to the, er. Where would the Captain be?"
   }
 ]

@@ -1,19 +1,19 @@
 [
   {
     "computerReply": "Stardates 43685 through 43689.",
-    "situationalContext": "K'Ehleyr is in her quarters, asking the computer for historical mission data.",
+    "situationalContext": "K'Ehleyr is in her quarters, attempting to find information about past Enterprise missions.",
     "userName": "K'EHLEYR",
-    "userQuery": "Computer, list stardates of the last Enterprise mission to the Klingon home planet."
+    "userQuery": "list stardates of the last Enterprise mission to the Klingon home planet."
   },
   {
     "computerReply": "Forty three officer's logs. Ten personal logs.",
-    "situationalContext": "K'Ehleyr is in her quarters, following up on her previous query about ship's logs.",
+    "situationalContext": "K'Ehleyr is in her quarters, inquiring about the number of ship's logs.",
     "userName": "K'EHLEYR",
     "userQuery": "How many ship's logs during that period?"
   },
   {
     "computerReply": "Affirmative. Access is restricted.",
-    "situationalContext": "K'Ehleyr is in her quarters, inquiring about Lieutenant Worf's personal log.",
+    "situationalContext": "K'Ehleyr is in her quarters, attempting to access Worf's personal log.",
     "userName": "K'EHLEYR",
     "userQuery": "Is there a personal log for Lieutenant Worf?"
   },
@@ -21,35 +21,35 @@
     "computerReply": "Interlock established.",
     "situationalContext": "K'Ehleyr is in her quarters, attempting to connect to the Klingon Imperial Information Net.",
     "userName": "K'EHLEYR",
-    "userQuery": "Computer, interlock with the Klingon Imperial Information Net."
+    "userQuery": "interlock with the Klingon Imperial Information Net."
   },
   {
     "computerReply": "Proceed.",
-    "situationalContext": "K'Ehleyr is in her quarters, requesting diplomatic access to Klingon High Council records.",
+    "situationalContext": "K'Ehleyr is in her quarters, requesting diplomatic access to High Council records.",
     "userName": "K'EHLEYR",
     "userQuery": "Federation Ambassador K'Ehleyr requesting diplomatic access to High Council record. Security code pah doQ cha!"
   },
   {
     "computerReply": "Access denied. Restricted materials, du ko cha clearance only.",
-    "situationalContext": "K'Ehleyr is in her quarters, attempting to view a summary of the Khitomer massacre inquiry.",
+    "situationalContext": "K'Ehleyr is in her quarters, attempting to display a summary of the Khitomer massacre inquiry.",
     "userName": "K'EHLEYR",
-    "userQuery": "Computer, display summary of the most recent High Council inquiry regarding Khitomer massacre."
+    "userQuery": "display summary of the most recent High Council inquiry regarding Khitomer massacre."
   },
   {
     "computerReply": "Council member Duras.",
-    "situationalContext": "K'Ehleyr is in her quarters, asking the computer about the authority behind the restricted access.",
+    "situationalContext": "K'Ehleyr is in her quarters, inquiring about the order restricting access to records.",
     "userName": "K'EHLEYR",
     "userQuery": "By whose order?"
   },
   {
     "computerReply": "Lieutenant Worf is not aboard the Enterprise.",
-    "situationalContext": "Commander Riker is on the bridge, attempting to locate Lieutenant Worf.",
+    "situationalContext": "Riker is on the bridge, attempting to locate Lieutenant Worf.",
     "userName": "RIKER",
-    "userQuery": "Computer, locate Lieutenant Worf."
+    "userQuery": "locate Lieutenant Worf."
   },
   {
     "computerReply": "Lieutenant Worf transported to the Klingon ship Vorn at seventeen thirty hours.",
-    "situationalContext": "Captain Picard is on the bridge, asking the computer for Worf's current location.",
+    "situationalContext": "Picard is on the bridge, asking for Worf's current location.",
     "userName": "PICARD",
     "userQuery": "Where is he?"
   }

@@ -1,0 +1,14 @@
+[
+  {
+    "computerReply": "That beverage has not been programmed into the replication system.",
+    "situationalContext": "Picard is in his Ready room.",
+    "userName": "Picard",
+    "userQuery": "Tea, Earl Grey, hot."
+  },
+  {
+    "computerReply": "Admiral Riker is in Ten Forward.",
+    "situationalContext": "Picard is in his guest quarters on the future Enterprise.",
+    "userName": "Picard",
+    "userQuery": "Computer, where is Admiral Riker?"
+  }
+]

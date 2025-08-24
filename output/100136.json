@@ -1,13 +1,13 @@
 [
   {
     "computerReply": "Point oh four percent and increasing.",
-    "situationalContext": "LaForge is checking the energy depletion level in Engineering.",
+    "situationalContext": "La Forge is in Engineering, working on adjustments, and asks the computer for an energy reading.",
     "userName": "LAFORGE",
     "userQuery": "Energy depletion level?"
   },
   {
     "computerReply": "Zero.",
-    "situationalContext": "LaForge is checking the energy depletion level in Engineering after completing adjustments.",
+    "situationalContext": "La Forge has just completed his final adjustments in Engineering and is checking the energy depletion level.",
     "userName": "LAFORGE",
     "userQuery": "Energy depletion level?"
   }

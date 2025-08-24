@@ -1,7 +1,7 @@
 [
   {
     "computerReply": "Current location, Ten forward.",
-    "situationalContext": "Picard is in the corridor and activates the computer interface.",
+    "situationalContext": "Corridor",
     "userName": "Picard",
     "userQuery": "Tell me, where is Lieutenant Commander Data?"
   }

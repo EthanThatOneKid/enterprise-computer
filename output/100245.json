@@ -1,0 +1,20 @@
+[
+  {
+    "computerReply": "Library computer is temporarily offline.",
+    "situationalContext": "Picard is in his Ready room.",
+    "userName": "Picard",
+    "userQuery": "Computer, display the latest excavation schematics on Landris Two."
+  },
+  {
+    "computerReply": "Library systems have been allocated to Stellar Cartography.",
+    "situationalContext": "Picard asks for an explanation after the library computer is reported offline.",
+    "userName": "Picard",
+    "userQuery": "Explain."
+  },
+  {
+    "computerReply": "Replicator systems are offline at the request of Stellar Cartography.",
+    "situationalContext": "Picard requests a cup of tea from the replicator.",
+    "userName": "Picard",
+    "userQuery": "Tea, Earl Grey. Hot."
+  }
+]

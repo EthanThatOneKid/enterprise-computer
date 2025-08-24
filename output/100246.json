@@ -1,0 +1,14 @@
+[
+  {
+    "computerReply": "Pattern match found.",
+    "situationalContext": "Picard has just entered the laboratory and suggested narrowing the computer's search parameters to the biological database.",
+    "userName": "Picard",
+    "userQuery": "If we narrow the search parameters to the biological database, it might increase the chances of the computer finding a match."
+  },
+  {
+    "computerReply": "The number blocks are mathematical representations of fragments of deoxyribonucleic acid strands.",
+    "situationalContext": "In the laboratory, the computer has just announced that a pattern match was found.",
+    "userName": "Crusher",
+    "userQuery": "Specify."
+  }
+]

@@ -1,26 +1,26 @@
 [
   {
     "computerReply": "Searching. Darmok is the name of a seventh dynasty emperor on Kanda Four. A mytho-historical hunter on Shantil Three. A colony on Malindi Seven. A frozen dessert on Tazna Five. A",
-    "situationalContext": "Troi is in Data's quarters, attempting to understand Tamarian communication by searching linguistic databases.",
+    "situationalContext": "The name clearly carries a meaning for them.",
     "userName": "TROI",
-    "userQuery": "Computer, search for the term Darmok in all linguistic databases for this sector."
+    "userQuery": "search for the term Darmok in all linguistic databases for this sector."
   },
   {
     "computerReply": "Forty seven.",
-    "situationalContext": "Troi is in Data's quarters, continuing her search for the meaning of Tamarian terms.",
+    "situationalContext": "Stop search.",
     "userName": "TROI",
-    "userQuery": "Stop search. Computer, how many entries are there for Darmok?"
+    "userQuery": "how many entries are there for Darmok?"
   },
   {
     "computerReply": "Searching. Tanagra. The ruling family on Gallos Two. A ceremonial drink on Lerishi Four. An island-continent on Shantil Three",
-    "situationalContext": "Data is in his quarters with Troi, analyzing Tamarian communication and searching for the term 'Tanagra'.",
+    "situationalContext": "Freeze.",
     "userName": "DATA",
-    "userQuery": "Freeze. Computer, search for the term Tanagra. All databases."
+    "userQuery": "search for the term Tanagra. All databases."
   },
   {
     "computerReply": "Darmok is the name of a mytho-historical hunter on Shantil Three.",
-    "situationalContext": "Troi is in Data's quarters, cross-referencing search results to find connections between Tamarian terms.",
+    "situationalContext": "Stop. Shantil Three.",
     "userName": "TROI",
-    "userQuery": "Stop. Shantil Three. Computer, cross-reference the last entry with the previous search index."
+    "userQuery": "cross-reference the last entry with the previous search index."
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
     "computerReply": "Accessing.",
-    "situationalContext": "Picard is in his ready room, requesting information from the Computer.",
+    "situationalContext": "Picard is in his ready room and asks the Computer to locate and display a novel.",
     "userName": "Picard",
-    "userQuery": "Computer, locate and display the text of the novel entitled Hotel Royale by Todd Matthews."
+    "userQuery": "locate and display the text of the novel entitled Hotel Royale by Todd Matthews."
   }
 ]

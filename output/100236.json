@@ -1,7 +1,7 @@
 [
   {
     "computerReply": "Transfer complete. USS Enterprise now under command of Captain Edward Jellico.",
-    "situationalContext": "In Ten Forward, Picard is reading an official order and then addresses the Computer.",
+    "situationalContext": "Picard is in Ten Forward, reading an order and then addressing the Computer to transfer command codes.",
     "userName": "Picard",
     "userQuery": "transfer all command codes to Captain Edward Jellico. Voice authorisation, Picard delta five."
   }

@@ -7,13 +7,13 @@
   },
   {
     "computerReply": "There is intermittent contact in the input polarisers.",
-    "situationalContext": "Geordi La Forge is troubleshooting Data's systems in the science lab.",
+    "situationalContext": "Geordi La Forge is in the science lab, troubleshooting Data's systems.",
     "userName": "LAFORGE",
     "userQuery": "run me a diagnostic on the input polarisers."
   },
   {
     "computerReply": "Polariser circuits are functioning.",
-    "situationalContext": "Geordi La Forge is re-checking Data's input polarisers after a fix in the science lab.",
+    "situationalContext": "Geordi La Forge is in the science lab, re-running diagnostics on Data's systems after a fix.",
     "userName": "LAFORGE",
     "userQuery": "run another diagnostic on the input polarisers."
   }

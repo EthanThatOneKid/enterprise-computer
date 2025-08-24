@@ -1,0 +1,38 @@
+[
+  {
+    "computerReply": "Diagnostic cycle will be complete in twenty seconds.",
+    "situationalContext": "LaForge is in Aquiel's quarters, attempting to get a monitor to display an image.",
+    "userName": "LaForge",
+    "userQuery": "me run a subsystem diagnostic, with a frequency range of ten to one hundred megahertz."
+  },
+  {
+    "computerReply": "Logs accessed.",
+    "situationalContext": "LaForge is in his quarters, continuing his investigation by accessing Aquiel's personal logs.",
+    "userName": "LaForge",
+    "userQuery": "access the personal logs of Aquiel Uhnari."
+  },
+  {
+    "computerReply": "Commander Morag is in his quarters. Lieutenant Uhnari is not aboard the Enterprise.",
+    "situationalContext": "Picard is in Sickbay, discussing the coalescent organism theory with his senior staff.",
+    "userName": "Picard",
+    "userQuery": "locate Commander Morag and Lieutenant Uhnari."
+  },
+  {
+    "computerReply": "Lieutenant Uhnari transported to Relay Station forty seven at eighteen thirty hours.",
+    "situationalContext": "Worf asks the Computer for more information about Lieutenant Uhnari's whereabouts.",
+    "userName": "Worf",
+    "userQuery": "Where did she go?"
+  },
+  {
+    "computerReply": "The logs have been deleted.",
+    "situationalContext": "LaForge is in the Relay Station ops, attempting to access Lieutenant Rocha's logs.",
+    "userName": "LaForge",
+    "userQuery": "what happened to the log entries for stardate 46459?"
+  },
+  {
+    "computerReply": "Unknown.",
+    "situationalContext": "LaForge is in the Relay Station ops, investigating the deletion of Rocha's logs.",
+    "userName": "LaForge",
+    "userQuery": "Who deleted them?"
+  }
+]

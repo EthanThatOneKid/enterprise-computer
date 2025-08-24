@@ -1,26 +1,26 @@
 [
   {
     "computerReply": "Distress beacon used by the European Hegemony.",
-    "situationalContext": "Picard and Riker are in the Ready room, investigating a distress beacon.",
-    "userName": "Picard",
+    "situationalContext": "Picard and Riker are in the Ready room investigating a distress beacon.",
+    "userName": "PICARD",
     "userQuery": "download all information regarding signal beacon from Starbase mainframe."
   },
   {
     "computerReply": "Old Earth calendar, 2123 until 2190.",
-    "situationalContext": "Picard is asking the Computer for more details about the distress beacon's usage dates.",
-    "userName": "Picard",
+    "situationalContext": "Picard and Riker are in the Ready room discussing the distress beacon's history.",
+    "userName": "PICARD",
     "userQuery": "locate exact dates in which this signal beacon was in general use."
   },
   {
     "computerReply": "Negative.",
-    "situationalContext": "Riker is asking the Computer for clarification on the distress beacon's origin.",
-    "userName": "Riker",
+    "situationalContext": "Riker is asking the Computer for clarification about the distress beacon's origin.",
+    "userName": "RIKER",
     "userQuery": "No extraterrestrial source ever used this code?"
   },
   {
     "computerReply": "Working.",
     "situationalContext": "Picard is instructing the Computer to search for historical deep space launches.",
-    "userName": "Picard",
+    "userName": "PICARD",
     "userQuery": "Locate all Earth deep space launches from 2123 until 2190, with a destination in or near the Ficus sector."
   }
 ]

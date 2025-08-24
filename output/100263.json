@@ -1,8 +1,8 @@
 [
   {
     "computerReply": "There is no log entry from the Shuttlecraft Curie for that stardate.",
-    "situationalContext": "Worf is in his quarters, attempting to confirm his memories of a Bat'leth tournament by accessing a personal log, but the computer states no such entry exists.",
+    "situationalContext": "Worf is in his quarters, observing changes in his surroundings and attempting to access personal logs to verify his memories.",
     "userName": "Worf",
-    "userQuery": "access personal logs on Shuttlecraft Curie. Play log entry for stardate 47391.2."
+    "userQuery": "Access personal logs on Shuttlecraft Curie. Play log entry for stardate 47391.2."
   }
 ]

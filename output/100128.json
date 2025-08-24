@@ -1,32 +1,38 @@
 [
   {
-    "computerReply": "COMPUTER: Commander Data is on the Bridge.",
-    "situationalContext": "Picard needs to find Data on the ship.",
-    "userQuery": "Computer, locate Commander Data for me."
-  },
-  {
-    "computerReply": "COMPUTER: Does Riker, William T. concur?",
-    "situationalContext": "Picard initiates the self-destruct sequence.",
+    "computerReply": "Does Riker, William T. concur?",
+    "situationalContext": "Captain Picard is in Engineering, initiating the auto-destruct sequence for the Enterprise.",
+    "userName": "Picard",
     "userQuery": "Initiate auto-destruct sequence."
   },
   {
-    "computerReply": "COMPUTER: Desired time interval?",
-    "situationalContext": "Riker concurs with the auto-destruct sequence.",
+    "computerReply": "Desired time interval?",
+    "situationalContext": "Commander Riker is in Engineering, concurring with the auto-destruct sequence.",
+    "userName": "Riker",
     "userQuery": "I do. Initiate auto-destruct sequence."
   },
   {
-    "computerReply": "COMPUTER: Twenty minutes to auto-destruct. Nineteen minutes, fifty seconds",
-    "situationalContext": "Picard sets the auto-destruct timer.",
+    "computerReply": "Twenty minutes to auto-destruct. Nineteen minutes, fifty seconds",
+    "situationalContext": "Captain Picard sets the auto-destruct time interval to twenty minutes.",
+    "userName": "Picard",
     "userQuery": "Initiate auto-destruct. Interval, twenty minutes."
   },
   {
-    "computerReply": "COMPUTER: Riker, William T. Do you concur?",
-    "situationalContext": "Picard orders the auto-destruct sequence to be aborted.",
+    "computerReply": "Commander Data is on the Bridge.",
+    "situationalContext": "Captain Picard is in his quarters, asking the Computer to locate Commander Data.",
+    "userName": "Picard",
+    "userQuery": "locate Commander Data for me."
+  },
+  {
+    "computerReply": "Riker, William T. Do you concur?",
+    "situationalContext": "Captain Picard is on the Bridge, ordering the Computer to abort the auto-destruct sequence.",
+    "userName": "Picard",
     "userQuery": "Abort auto-destruct sequence."
   },
   {
-    "computerReply": "COMPUTER: Auto-destruct cancelled.",
-    "situationalContext": "Riker provides his concurrence to abort the auto-destruct.",
+    "computerReply": "Auto-destruct cancelled.",
+    "situationalContext": "Commander Riker is on the Bridge, enthusiastically concurring with the auto-destruct cancellation.",
+    "userName": "Riker",
     "userQuery": "Yes! Absolutely! I do indeed concur wholeheartedly!"
   }
 ]

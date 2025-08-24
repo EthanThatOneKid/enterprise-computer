@@ -1,0 +1,14 @@
+[
+  {
+    "computerReply": "Lieutenant Worf is in his quarters.",
+    "situationalContext": "Riker is on the Bridge, asking the Computer to locate Worf.",
+    "userName": "Riker",
+    "userQuery": "Computer, locate Lieutenant Worf."
+  },
+  {
+    "computerReply": "The genetic patterns are identical.",
+    "situationalContext": "Dr. Crusher is in Sickbay, running a genetic comparison.",
+    "userName": "Crusher",
+    "userQuery": "Computer, run a genetic comparison on this blood sample and the tissue belonging to Kahless."
+  }
+]

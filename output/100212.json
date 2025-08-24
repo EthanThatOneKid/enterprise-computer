@@ -1,68 +1,74 @@
 [
   {
+    "computerReply": "Antimatter injection breach. Evacuate immediately.",
+    "situationalContext": "Riker is in Engineering during an emergency, trying to seal a door.",
+    "userName": "COMPUTER",
+    "userQuery": "Commander, I need to bring that door down!"
+  },
+  {
     "computerReply": "Commander Riker is in his quarters.",
-    "situationalContext": "Picard is on the Bridge, trying to contact Riker and then asks the computer to locate him.",
-    "userName": "Picard",
+    "situationalContext": "Picard is on the Bridge, trying to locate Commander Riker.",
+    "userName": "PICARD",
     "userQuery": "Computer, locate Commander Riker."
   },
   {
     "computerReply": "Electropathic pattern located.",
-    "situationalContext": "LaForge is in Engineering, starting a diagnostic with the computer.",
-    "userName": "LaForge",
+    "situationalContext": "LaForge is in Engineering, asking the Computer to locate a medical pattern.",
+    "userName": "LAFORGE",
     "userQuery": "Computer, locate the electropathic pattern described in medical database four delta one."
   },
   {
     "computerReply": "Iresine syndrome is a cause of the electropathic pattern.",
-    "situationalContext": "LaForge is in Engineering, continuing his diagnostic with the computer.",
-    "userName": "LaForge",
+    "situationalContext": "LaForge is in Engineering, asking the Computer about medical conditions related to a brain pattern.",
+    "userName": "LAFORGE",
     "userQuery": "Okay, we're going to track down any possible cause of that brain pattern. First, what are the medical conditions that might account for it?"
   },
   {
     "computerReply": "There are twenty two non-medical agents.",
-    "situationalContext": "LaForge is in Engineering, continuing his diagnostic with the computer.",
-    "userName": "LaForge",
+    "situationalContext": "LaForge is in Engineering, asking the Computer about non-medical causes for the brain pattern.",
+    "userName": "LAFORGE",
     "userQuery": "Right. And Doctor Crusher already eliminated that, so how many non-medical forces or substances might cause the pattern?"
   },
   {
     "computerReply": "None are present on the Enterprise.",
-    "situationalContext": "LaForge is in Engineering, continuing his diagnostic with the computer.",
-    "userName": "LaForge",
+    "situationalContext": "LaForge is in Engineering, asking the Computer about the presence of non-medical agents on the ship.",
+    "userName": "LAFORGE",
     "userQuery": "Okay. And how many of those are present on the Enterprise?"
   },
   {
     "computerReply": "All agents are scanned by the sensors.",
-    "situationalContext": "LaForge is in Engineering, continuing his diagnostic with the computer.",
-    "userName": "LaForge",
+    "situationalContext": "LaForge is in Engineering, asking the Computer about sensor calibration for detecting agents.",
+    "userName": "LAFORGE",
     "userQuery": "Are the ship's sensors calibrated to detect all those agents?"
   },
   {
     "computerReply": "Ferrazene, hylanatine, dardilion, chrysimite, and manzene.",
-    "situationalContext": "LaForge is in Engineering, continuing his diagnostic with the computer.",
-    "userName": "LaForge",
+    "situationalContext": "LaForge is in Engineering, asking the Computer to list chemical substances.",
+    "userName": "LAFORGE",
     "userQuery": "Okay. Let's start with the chemical substances. Name them."
   },
   {
     "computerReply": "Ship's sensors scan for both compounds.",
-    "situationalContext": "LaForge is in Engineering, continuing his diagnostic with the computer.",
-    "userName": "LaForge",
+    "situationalContext": "LaForge is in Engineering, asking the Computer about sensor scanning for specific compounds.",
+    "userName": "LAFORGE",
     "userQuery": "Ferrazene has a complex molecular structure. It breaks down into bilenium and tarrisite. Do the sensors scan for those?"
   },
   {
     "computerReply": "Bilenium and tarrisite are not present.",
-    "situationalContext": "LaForge is in Engineering, continuing his diagnostic with the computer.",
-    "userName": "LaForge",
+    "situationalContext": "LaForge is in Engineering, asking the Computer about the presence of specific compounds on the ship.",
+    "userName": "LAFORGE",
     "userQuery": "And are they present on the Enterprise?"
   },
   {
     "computerReply": "Dardilion contains the byproduct nilizene. Sensors do not routinely scan for that substance.",
-    "situationalContext": "LaForge is in Engineering, continuing his diagnostic with the computer.",
-    "userName": "LaForge",
+    "situationalContext": "LaForge is in Engineering, asking the Computer about by-products not routinely scanned for.",
+    "userName": "LAFORGE",
     "userQuery": "Do any of the substances break down into by-products that are not scanned for?"
   },
   {
     "computerReply": "There is no nilizene on the Enterprise.",
-    "situationalContext": "LaForge is in Engineering, continuing his diagnostic with the computer.",
-    "userName": "LaForge",
+    "situationalContext": "LaForge is in Engineering, instructing the Computer to scan for a specific byproduct.",
+    "userName": "LAFORGE",
     "userQuery": "Well, this isn't a routine situation. Scan for the nilizene."
   }
 ]

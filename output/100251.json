@@ -1,0 +1,14 @@
+[
+  {
+    "computerReply": "Helm control activated.",
+    "situationalContext": "Data is in the runabout cockpit, activating helm control.",
+    "userName": "Data",
+    "userQuery": "Computer activate automatic helm control."
+  },
+  {
+    "computerReply": "Containment field activated.",
+    "situationalContext": "Data is in Engineering, trying to prevent a warp core breach.",
+    "userName": "Data",
+    "userQuery": "Computer, place a level three containment field around the warp core."
+  }
+]

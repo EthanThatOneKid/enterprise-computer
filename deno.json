@@ -5,6 +5,7 @@
   },
   "imports": {
     "@google/genai": "npm:@google/genai@^1.15.0",
+    "@std/async": "jsr:@std/async@^1.0.14",
     "@std/cli": "jsr:@std/cli@^1.0.21",
     "@std/collections": "jsr:@std/collections@^1.1.3"
   }

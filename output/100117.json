@@ -1,49 +1,49 @@
 [
   {
     "computerReply": "Negative carbon. Negative known life components. Substance inorganic.",
-    "situationalContext": "In the Medical Lab, Doctor Crusher asks the computer to analyze an unknown sample for organic components.",
+    "situationalContext": "Dr. Crusher is performing initial tests on the newly discovered inorganic sample in the medical lab.",
     "userName": "Crusher",
     "userQuery": "Is the sample organic?"
   },
   {
     "computerReply": "Rechecking. Analysis verified. Not organic.",
-    "situationalContext": "In the Medical Lab, Data requests the computer to recheck its analysis of the sample.",
+    "situationalContext": "Data requests a recheck of the analysis after the computer initially identifies the sample as inorganic.",
     "userName": "Data",
     "userQuery": "Recheck analysis, please."
   },
   {
     "computerReply": "Twenty five hundred diameters.",
-    "situationalContext": "In the Medical Lab, Doctor Crusher asks the computer for the current magnification level of the sample.",
+    "situationalContext": "Dr. Crusher asks the computer for the current magnification level while examining the inorganic sample.",
     "userName": "Crusher",
-    "userQuery": "Computer, magnify. What is the magnification?"
+    "userQuery": "What is the magnification?"
   },
   {
     "computerReply": "Not repetitive or sequential. Pattern not recognised.",
-    "situationalContext": "In the Medical Lab, Doctor Crusher asks the computer to analyze the pattern of flashes from the sample.",
+    "situationalContext": "Dr. Crusher asks the computer to analyze the light flashes emanating from the inorganic sample.",
     "userName": "Crusher",
     "userQuery": "Analyse the pattern of the flashes."
   },
   {
     "computerReply": "Unable to specify. Theoretically not possible from this substance.",
-    "situationalContext": "In the Medical Lab, Doctor Crusher asks the computer to identify the source of the flashes.",
+    "situationalContext": "Dr. Crusher asks the computer to identify the source of the mysterious flashes from the sample.",
     "userName": "Crusher",
     "userQuery": "What is the source of the flashes?"
   },
   {
     "computerReply": "Life.",
-    "situationalContext": "In the Medical Lab, Doctor Crusher instructs the computer to theorize about the source of the flashes despite inconsistencies.",
+    "situationalContext": "Dr. Crusher instructs the computer to theorize about the source of the flashes despite theoretical impossibilities.",
     "userName": "Crusher",
     "userQuery": "Disregard incongruity and theorise as to source."
   },
   {
-    "computerReply": "Silicon. Germanium. Gallium arsenide. Cadmium selenide sulfide. Water, impurities, sodium salts.",
-    "situationalContext": "On the Bridge, Data requests a detailed spectral analysis of the life form.",
+    "computerReply": "Silicon. Germanium.",
+    "situationalContext": "Data requests a spectral analysis of the life form at a specific magnification from the computer.",
     "userName": "Data",
     "userQuery": "Please show me the spectral analysis magnification twelve K."
   },
   {
     "computerReply": "Probability positive.",
-    "situationalContext": "On the Bridge, Worf asks the computer if the analyzed substance is alive.",
+    "situationalContext": "Worf asks the computer for a determination on whether the analyzed substance is alive.",
     "userName": "Worf",
     "userQuery": "But is it alive?!"
   }

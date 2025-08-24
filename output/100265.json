@@ -1,13 +1,13 @@
 [
   {
     "computerReply": "Unable to comply. Holodeck five is in use.",
-    "situationalContext": "Worf is in a corridor and attempts to open holodeck five.",
+    "situationalContext": "Worf is in a corridor, outside holodeck five, attempting to open it.",
     "userName": "Worf",
-    "userQuery": "open holodeck five."
+    "userQuery": "Computer, open holodeck five."
   },
   {
     "computerReply": "Unable to comply. Holodeck control systems have been bypassed.",
-    "situationalContext": "Worf is in a corridor and attempts to override the holodeck controls.",
+    "situationalContext": "Worf is in a corridor, attempting to override the holodeck controls.",
     "userName": "Worf",
     "userQuery": "Override. Authorisation, Worf theta six one nine."
   }

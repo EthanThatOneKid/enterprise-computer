@@ -1,163 +1,169 @@
 [
   {
     "computerReply": "Risa is climate-controlled for optimum tourist comfort,",
-    "situationalContext": "Geordi is relaxing in his shuttlecraft, en route to Risa.",
+    "situationalContext": "Geordi is in a shuttlecraft, relaxing on his way to Risa.",
     "userName": "LAFORGE",
     "userQuery": "How about some different music, Computer. Something with a Latin beat. No, I meant something with a gentle Latin beat. Maybe a Spanish guitar. Perfect. Hey, what's the weather like on Risa?"
   },
   {
     "computerReply": "Arrival at Risa is scheduled for oh nine thirty two hours.",
-    "situationalContext": "Geordi is relaxing in his shuttlecraft, asking about arrival time.",
+    "situationalContext": "Geordi is in a shuttlecraft, asking about his arrival time at Risa.",
     "userName": "LAFORGE",
     "userQuery": "Is that right? How long before we get there?"
   },
   {
     "computerReply": "Please restate request.",
-    "situationalContext": "Geordi is trying to pass the time on his shuttlecraft.",
+    "situationalContext": "Geordi is in a shuttlecraft, asking the computer for a game.",
     "userName": "LAFORGE",
     "userQuery": "Three hours. How about a game, computer?"
   },
   {
     "computerReply": "Select either visual interactive or verbal interactive.",
-    "situationalContext": "Geordi is clarifying his request for a game to the computer.",
+    "situationalContext": "Geordi is in a shuttlecraft, clarifying his request for a diversion.",
     "userName": "LAFORGE",
     "userQuery": "Something to pass the time, you know, a diversion."
   },
   {
     "computerReply": "You have twenty seconds to respond to each question. Level of difficulty will increase as you progress. Proceed when ready.",
-    "situationalContext": "Geordi is selecting the type of game he wants to play with the computer.",
+    "situationalContext": "Geordi is in a shuttlecraft, selecting a verbal game mode.",
     "userName": "LAFORGE",
     "userQuery": "Verbal."
   },
   {
     "computerReply": "List the resonances of the subquantum states associated with transitional relativity.",
-    "situationalContext": "Geordi is starting a verbal interactive game with the computer.",
+    "situationalContext": "Geordi is in a shuttlecraft, starting a verbal game with the computer.",
     "userName": "LAFORGE",
     "userQuery": "Begin."
   },
   {
-    "computerReply": "Your time has expired.",
-    "situationalContext": "Geordi is attempting to answer a question in a verbal interactive game with the computer.",
+    "computerReply": "In alphabetical order.",
+    "situationalContext": "Geordi is in a shuttlecraft, responding to a game question.",
+    "userName": "LAFORGE",
+    "userQuery": "That's easy."
+  },
+  {
+    "computerReply": "Your time has expired. The fifth resonance is",
+    "situationalContext": "Geordi is in a shuttlecraft, failing to answer a game question in time.",
     "userName": "LAFORGE",
     "userQuery": "Er, well, asymmetrical, inverted, phased, stable."
   },
   {
     "computerReply": "List the field patterns associated with warp modulation in order of decreasing energy.",
-    "situationalContext": "Geordi is continuing a verbal interactive game with the computer.",
+    "situationalContext": "Geordi is in a shuttlecraft, asking for another game question.",
     "userName": "LAFORGE",
     "userQuery": "I knew that. Okay, give me another one."
   },
   {
     "computerReply": "Warning. Shield failure.",
-    "situationalContext": "Geordi's shuttle is under attack by a Romulan Warbird.",
+    "situationalContext": "Geordi is in a shuttlecraft, under attack by a Romulan Warbird and issuing commands.",
     "userName": "LAFORGE",
-    "userQuery": "Oh, there's the aft nacelle associative, the forward (sees the ship) Whoa! Computer, sequence zero one zero. Maximum power to the shields. Kill the music. Enterprise, this is shuttle seven. I've encountered a Romulan Warbird. Coordinates at three (comm. failure buzz)"
-  },
-  {
-    "computerReply": "Please verify command with necessary protocol.",
-    "situationalContext": "Geordi is in the cargo bay, attempting to reroute power using the computer.",
-    "userName": "LAFORGE",
-    "userQuery": "Computer re-route the power flow in the cargo bay four transporter to the auxiliary replicator system."
-  },
-  {
-    "computerReply": "Verify priority clearance.",
-    "situationalContext": "Geordi is providing a protocol to the computer for a power reroute.",
-    "userName": "LAFORGE",
-    "userQuery": "Initiate protocol three six four dash B."
-  },
-  {
-    "computerReply": "Acknowledged. Power has been re-routed through auxiliary power distribution system code number four four seven six two.",
-    "situationalContext": "Geordi is providing his clearance to the computer for a power reroute.",
-    "userName": "LAFORGE",
-    "userQuery": "Recognise La Forge, theta two nine nine seven."
-  },
-  {
-    "computerReply": "Transporter mode has been redirected.",
-    "situationalContext": "Geordi is instructing the computer to redirect the transporter mode.",
-    "userName": "LAFORGE",
-    "userQuery": "Now, redirect transporter mode to the planetary sensor array."
-  },
-  {
-    "computerReply": "Affirmative. Erasure process is proceeding.",
-    "situationalContext": "Geordi is instructing the computer to erase records of his modifications.",
-    "userName": "LAFORGE",
-    "userQuery": "Verify that all record of these modifications are being erased from each directory."
+    "userQuery": "Oh, there's the aft nacelle associative, the forward (sees the ship) Whoa! Computer, sequence zero one zero. Maximum power to the shields. Kill the music. Enterprise, this is shuttle seven. I've encountered a Romulan Warbird. Coordinates at three"
   },
   {
     "computerReply": "No commonalities noted.",
-    "situationalContext": "Data is on the bridge, investigating unusual E-band emissions.",
+    "situationalContext": "Data is on the Bridge, asking the computer to analyze Romulan transmission formats.",
     "userName": "DATA",
     "userQuery": "Yes, sir. Computer, run an analysis of all known Romulan transmission formats, all bands, Identify any commonalities with displayed waveform."
   },
   {
     "computerReply": "Negative.",
-    "situationalContext": "Data is on the bridge, asking the computer to identify a waveform.",
+    "situationalContext": "Data is on the Bridge, asking if a waveform matches any known communication format.",
     "userName": "DATA",
     "userQuery": "Does this waveform match that of any known communication format?"
   },
   {
     "computerReply": "The signal corresponds to a delta compressed wavelength spectrum similar to human neural frequencies.",
-    "situationalContext": "Data is on the bridge, asking the computer to broaden its search for waveform identification.",
+    "situationalContext": "Data is on the Bridge, asking the computer to broaden its search for waveform patterns.",
     "userName": "DATA",
     "userQuery": "Broaden search pattern beyond communications. Does the waveform displayed conform to any natural phenomena, cryptographic formats or lifeform EM emissions?"
   },
   {
     "computerReply": "Affirmative.",
-    "situationalContext": "Data is on the bridge, clarifying the computer's identification of a waveform.",
+    "situationalContext": "Data is on the Bridge, clarifying if the signal is a human brainwave pattern.",
     "userName": "DATA",
     "userQuery": "As in a human brainwave pattern?"
   },
   {
     "computerReply": "A system designed to modify the electromagnetic spectrum and carry those messages directly to the human brain.",
-    "situationalContext": "Data is on the bridge, asking the computer about a receiver for the identified signals.",
+    "situationalContext": "Data is on the Bridge, asking about the type of receiver for the signals.",
     "userName": "DATA",
     "userQuery": "What kind of receiver would be capable of processing these signals?"
   },
   {
+    "computerReply": "Please verify command with necessary protocol.",
+    "situationalContext": "Geordi is in Cargo Bay Four, attempting to re-route power.",
+    "userName": "LAFORGE",
+    "userQuery": "Computer re-route the power flow in the cargo bay four transporter to the auxiliary replicator system."
+  },
+  {
+    "computerReply": "Verify priority clearance.",
+    "situationalContext": "Geordi is in Cargo Bay Four, providing a protocol for power re-routing.",
+    "userName": "LAFORGE",
+    "userQuery": "Initiate protocol three six four dash B."
+  },
+  {
+    "computerReply": "Acknowledged. Power has been re-routed through auxiliary power distribution system code number four four seven six two.",
+    "situationalContext": "Geordi is in Cargo Bay Four, providing his clearance for power re-routing.",
+    "userName": "LAFORGE",
+    "userQuery": "Recognise La Forge, theta two nine nine seven."
+  },
+  {
+    "computerReply": "Transporter mode has been redirected.",
+    "situationalContext": "Geordi is in Cargo Bay Four, redirecting the transporter mode.",
+    "userName": "LAFORGE",
+    "userQuery": "Now, redirect transporter mode to the planetary sensor array."
+  },
+  {
+    "computerReply": "Affirmative. Erasure process is proceeding.",
+    "situationalContext": "Geordi is in Cargo Bay Four, requesting erasure of modification records.",
+    "userName": "LAFORGE",
+    "userQuery": "Verify that all record of these modifications are being erased from each directory."
+  },
+  {
     "computerReply": "No discrepancies noted.",
-    "situationalContext": "Data is in the shuttlebay, investigating Geordi's shuttle.",
+    "situationalContext": "Data is in the Shuttlebay, scanning Geordi's shuttle for mission log discrepancies.",
     "userName": "DATA",
     "userQuery": "Computer, link with the shuttle's onboard system. Access the isolinear storage assembly. Scan all chips which contain mission logs. Note any discrepancies."
   },
   {
     "computerReply": "The components specified are all within normal tolerances.",
-    "situationalContext": "Data is in the shuttlebay, running diagnostics on Geordi's shuttle.",
+    "situationalContext": "Data is in the Shuttlebay, performing a diagnostic on Geordi's shuttle systems.",
     "userName": "DATA",
     "userQuery": "Perform a level 5 diagnostic on the shuttle's power and navigational systems."
   },
   {
     "computerReply": "Sub-microscopic deformations are present in the nose section and aft thrusters.",
-    "situationalContext": "Data is in the shuttlebay, scanning Geordi's shuttle for structural integrity.",
+    "situationalContext": "Data is in the Shuttlebay, scanning Geordi's shuttle for structural integrity.",
     "userName": "DATA",
     "userQuery": "Computer, scan the shuttle's structural integrity."
   },
   {
     "computerReply": "The shuttle has been subjected to stress consistent with a tractor beam.",
-    "situationalContext": "Data is in the shuttlebay, asking the computer for the cause of structural deformations on Geordi's shuttle.",
+    "situationalContext": "Data is in the Shuttlebay, asking for the probable cause of structural deformations on Geordi's shuttle.",
     "userName": "DATA",
     "userQuery": "Probable cause of these variations?"
   },
   {
     "computerReply": "Analysis confirmed.",
-    "situationalContext": "Data is in the shuttlebay, asking the computer to confirm anomalous variations in memory chips.",
+    "situationalContext": "Data is in the Shuttlebay, asking the computer to confirm anomalous variations in memory chips.",
     "userName": "DATA",
     "userQuery": "Computer, I am reading anomalous variations in the molecular structure of these memory chips. Please confirm."
   },
   {
     "computerReply": "Replication.",
-    "situationalContext": "Data is in the shuttlebay, asking the computer for the cause of anomalous memory chip variations.",
+    "situationalContext": "Data is in the Shuttlebay, asking for the probable cause of molecular variations in memory chips.",
     "userName": "DATA",
     "userQuery": "Probable cause?"
   },
   {
     "computerReply": "The patterns are identical.",
-    "situationalContext": "Data is in the shuttlebay, asking the computer to compare memory chip variations with Romulan patterns.",
+    "situationalContext": "Data is in the Shuttlebay, asking the computer to compare molecular variations with Romulan replication patterns.",
     "userName": "DATA",
     "userQuery": "Compare these variations with established Romulan replication patterns."
   },
   {
     "computerReply": "Cargo bay four.",
-    "situationalContext": "Data is in a corridor, trying to locate Commander La Forge.",
+    "situationalContext": "Data is in a Corridor, asking the computer for Commander La Forge's current location.",
     "userName": "DATA",
     "userQuery": "Computer, current location of Commander La Forge?"
   }

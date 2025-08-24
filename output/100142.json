@@ -1,12 +1,14 @@
 [
   {
-    "computerReply": "COMPUTER: The Captain is not on the ship.",
-    "situationalContext": "Commander Riker and Counsellor Troi are on the Bridge, concerned about Captain Picard's disappearance and checking his location.",
+    "computerReply": "The Captain is not on the ship.",
+    "situationalContext": "Riker is on the Bridge, looking for Captain Picard.",
+    "userName": "Riker",
     "userQuery": "locate Captain Picard."
   },
   {
-    "computerReply": "COMPUTER: Captain Picard is in Ten Forward.",
-    "situationalContext": "On the Bridge, Commander Riker checks Captain Picard's location after confirming the missing shuttle has returned.",
+    "computerReply": "Captain Picard is in Ten Forward.",
+    "situationalContext": "Riker is on the Bridge, looking for Captain Picard after the shuttle returns.",
+    "userName": "Riker",
     "userQuery": "locate Captain Picard."
   }
 ]

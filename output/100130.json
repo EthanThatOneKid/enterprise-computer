@@ -1,37 +1,38 @@
 [
   {
-    "computerReply": "COMPUTER: Source material on that subject is extensive. Please specify.",
-    "situationalContext": "Outside Holodeck",
-    "userQuery": "DATA: Computer, I wish to know more about humour. Why certain combinations of words and actions make humans laugh."
+    "computerReply": "Source material on that subject is extensive. Please specify.",
+    "situationalContext": "Data is outside the Holodeck, asking the Computer about humor.",
+    "userName": "Data",
+    "userQuery": "I wish to know more about humour. Why certain combinations of words and actions make humans laugh."
   },
   {
-    "computerReply": "COMPUTER: Physical humour, cerebral, or general raconteur.",
-    "situationalContext": "Outside Holodeck",
-    "userQuery": "DATA: Animated presentation, humanoid. Interaction required."
+    "computerReply": "Physical humour, cerebral, or general raconteur.",
+    "situationalContext": "Data is outside the Holodeck, specifying his request to the Computer about humor.",
+    "userName": "Data",
+    "userQuery": "Animated presentation, humanoid. Interaction required."
   },
   {
-    "computerReply": "COMPUTER: Twenty third century Stan Orega specialised in jokes about quantum mathematics.",
-    "situationalContext": "Outside Holodeck",
-    "userQuery": "DATA: Of all performers available, who is considered funniest?"
+    "computerReply": "Twenty third century Stan Orega specialised in jokes about quantum mathematics.",
+    "situationalContext": "Data is outside the Holodeck, asking the Computer to identify the funniest performer.",
+    "userName": "Data",
+    "userQuery": "Of all performers available, who is considered funniest?"
   },
   {
-    "computerReply": "COMPUTER: Accessing.",
-    "situationalContext": "Outside Holodeck",
-    "userQuery": "DATA: No. Too esoteric. More generic."
+    "computerReply": "Accessing.",
+    "situationalContext": "Data is outside the Holodeck, refining his request for a funny performer.",
+    "userName": "Data",
+    "userQuery": "No. Too esoteric. More generic."
   },
   {
-    "computerReply": "COMPUTER: Programme installation complete. You may enter.",
-    "situationalContext": "Outside Holodeck",
-    "userQuery": "DATA: That one. RW nine six three two one, twentieth century."
+    "computerReply": "Programme installation complete. You may enter.",
+    "situationalContext": "Data is outside the Holodeck, selecting a performer from a displayed list.",
+    "userName": "Data",
+    "userQuery": "That one. RW nine six three two one, twentieth century."
   },
   {
-    "computerReply": "COMPUTER: Programme complete. Enter when ready.",
-    "situationalContext": "Outside Holodeck",
-    "userQuery": "DATA: I have reinstated the same programme."
-  },
-  {
-    "computerReply": "COMPUTER: Audience programme off. Discontinue Comic.",
-    "situationalContext": "Charnock's Comedy Cabaret",
-    "userQuery": "DATA: Audience programme off. Discontinue Comic."
+    "computerReply": "Programme complete. Enter when ready.",
+    "situationalContext": "Data and Guinan are outside the Holodeck, and Data has reinstated a program.",
+    "userName": "Data",
+    "userQuery": "I have reinstated the same programme."
   }
 ]

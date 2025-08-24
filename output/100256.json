@@ -1,7 +1,7 @@
 [
   {
     "computerReply": "Scan complete. Terikon particle decay profile does not fall within specified reference range. Probability of match zero point zero four percent.",
-    "situationalContext": "Picard is in the mercenary cargo hold, scanning artifacts already in storage.",
+    "situationalContext": "Picard is in the mercenary cargo hold, scanning stolen Romulan artefacts.",
     "userName": "Picard",
     "userQuery": "reset diagnostic for new sample, lot number four seven eight B. Access spectral analysis and begin scan, mode three."
   }
